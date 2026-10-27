@@ -1,0 +1,431 @@
+<title>Policymaking Effectiveness Index</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,500;6..72,600&family=Public+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: parliamentary record. Masthead, sticky control bar, chart column + "index recipe" side panel; second page is a printed-report style method note. */
+:root {
+  --bg: #F3F4F1; --surface: #FFFFFF; --ink: #18212B; --ink-2: #48525E; --ink-3: #78828E; --rule: #D9DDD8;
+  --accent: #1E5B78; --accent-soft: #E1ECF1; --on-accent: #FFFFFF;
+  --c1: #1E5B78; --c2: #BF5F27; --c3: #6B4FA0; --c4: #2F8549; --c5: #A13D6E; --c6: #7E7A1C; --c7: #3478C0; --c8: #C9932B; --c9: #55626F; --c10: #1C9A8D;
+  --avg: #7D8691; --band: #E2E5E1;
+  --s0: #F0DCA8; --s1: #CFD49C; --s2: #86B9A0; --s3: #3E8B93; --s4: #1C4F6C;
+  --pre: #E9EAE6; --hatch: #C9CDC8;
+  --ok: #3E8B93; --warn: #D99A3A; --bad: #B3473B;
+  --display: "Newsreader", "Iowan Old Style", Georgia, serif;
+  --body: "Public Sans", "Helvetica Neue", Arial, sans-serif;
+  --mono: "IBM Plex Mono", ui-monospace, Menlo, monospace;
+  --r: 6px;
+}
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {
+  --bg: #12161B; --surface: #1A2027; --ink: #E6EAEE; --ink-2: #B2BAC4; --ink-3: #85909C; --rule: #2C343E;
+  --accent: #74B6D3; --accent-soft: #1E3240; --on-accent: #0E151B;
+  --c1: #74B6D3; --c2: #E69A62; --c3: #B39CE3; --c4: #7FC98F; --c5: #E386B4; --c6: #CFC765; --c7: #8AB8F0; --c8: #F0C063; --c9: #AAB6C3; --c10: #5FD3C3;
+  --avg: #8F99A5; --band: #232B34;
+  --s0: #4D3B22; --s1: #5D6236; --s2: #3F7E72; --s3: #5EAFB0; --s4: #B5E3DA;
+  --pre: #1D232A; --hatch: #39414B;
+  --ok: #5EAFB0; --warn: #DDA24A; --bad: #D06A5C; color-scheme: dark; } }
+:root[data-theme="dark"] {
+  --bg: #12161B; --surface: #1A2027; --ink: #E6EAEE; --ink-2: #B2BAC4; --ink-3: #85909C; --rule: #2C343E;
+  --accent: #74B6D3; --accent-soft: #1E3240; --on-accent: #0E151B;
+  --c1: #74B6D3; --c2: #E69A62; --c3: #B39CE3; --c4: #7FC98F; --c5: #E386B4; --c6: #CFC765; --c7: #8AB8F0; --c8: #F0C063; --c9: #AAB6C3; --c10: #5FD3C3;
+  --avg: #8F99A5; --band: #232B34;
+  --s0: #4D3B22; --s1: #5D6236; --s2: #3F7E72; --s3: #5EAFB0; --s4: #B5E3DA;
+  --pre: #1D232A; --hatch: #39414B;
+  --ok: #5EAFB0; --warn: #DDA24A; --bad: #D06A5C; color-scheme: dark; }
+
+[hidden] { display: none !important; }
+body { background: var(--bg); color: var(--ink); font-family: var(--body); font-size: 15px; line-height: 1.5; }
+.wrap { max-width: 1240px; margin: 0 auto; padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); }
+a { color: var(--accent); }
+button, select, input { font: inherit; color: inherit; }
+:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+.num, .mono { font-family: var(--mono); font-variant-numeric: tabular-nums; }
+
+/* Masthead */
+.mast { border-bottom: 1px solid var(--rule); background: var(--surface); }
+.mast .wrap { display: flex; flex-wrap: wrap; align-items: end; justify-content: space-between; gap: 12px 24px; padding-block: 22px 0; }
+.mast h1 { font-family: var(--display); font-weight: 600; font-size: clamp(26px, 4vw, 38px); line-height: 1.1; margin: 0; letter-spacing: -0.01em; text-wrap: balance; }
+.mast .kicker { font-size: 12px; letter-spacing: .09em; text-transform: uppercase; color: var(--ink-3); margin: 0 0 6px; }
+.mast .sub { color: var(--ink-2); margin: 6px 0 16px; max-width: 62ch; }
+.pages { display: flex; gap: 4px; align-self: end; }
+.pages a { text-decoration: none; color: var(--ink-2); padding: 10px 14px; border: 1px solid transparent; border-bottom: none; border-radius: var(--r) var(--r) 0 0; font-weight: 600; font-size: 14px; }
+.pages a[aria-current="page"] { color: var(--ink); background: var(--bg); border-color: var(--rule); margin-bottom: -1px; }
+
+/* Control bar */
+.bar { position: sticky; top: env(safe-area-inset-top, 0px); z-index: 5; background: color-mix(in srgb, var(--bg) 92%, transparent); backdrop-filter: blur(6px); border-bottom: 1px solid var(--rule); }
+.bar .wrap { display: flex; flex-wrap: wrap; gap: 10px 22px; padding-block: 10px; align-items: center; }
+.ctl { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; min-width: 0; }
+.lbl { font-size: 11px; letter-spacing: .08em; text-transform: uppercase; color: var(--ink-3); font-weight: 600; }
+.chip { display: inline-flex; align-items: center; gap: 6px; padding: 3px 4px 3px 10px; border-radius: 999px; background: var(--surface); border: 1px solid var(--rule); font-size: 13px; font-weight: 600; }
+.chip i { width: 9px; height: 9px; border-radius: 50%; display: inline-block; }
+.chip button { border: none; background: none; cursor: pointer; color: var(--ink-3); font-size: 15px; line-height: 1; padding: 2px 6px; border-radius: 999px; }
+.chip button:hover { background: var(--band); color: var(--ink); }
+.btn { border: 1px solid var(--rule); background: var(--surface); border-radius: var(--r); padding: 5px 10px; font-size: 13px; font-weight: 600; cursor: pointer; }
+.btn:hover { border-color: var(--ink-3); }
+.btn[aria-pressed="true"] { background: var(--accent); border-color: var(--accent); color: var(--on-accent); }
+select.btn { padding-right: 6px; max-width: 190px; }
+.seg { display: inline-flex; border: 1px solid var(--rule); border-radius: var(--r); overflow: hidden; background: var(--surface); }
+.seg button { border: none; background: none; padding: 5px 10px; font-size: 13px; font-weight: 600; cursor: pointer; color: var(--ink-2); }
+.seg button + button { border-left: 1px solid var(--rule); }
+.seg button[aria-pressed="true"] { background: var(--accent); color: var(--on-accent); }
+.range { position: relative; width: 170px; height: 22px; }
+.range input { position: absolute; inset: 0; width: 100%; margin: 0; background: none; pointer-events: none; -webkit-appearance: none; appearance: none; height: 22px; }
+.range input::-webkit-slider-thumb { pointer-events: auto; -webkit-appearance: none; width: 16px; height: 16px; border-radius: 50%; background: var(--accent); border: 2px solid var(--surface); box-shadow: 0 0 0 1px var(--accent); cursor: pointer; }
+.range input::-moz-range-thumb { pointer-events: auto; width: 14px; height: 14px; border-radius: 50%; background: var(--accent); border: 2px solid var(--surface); cursor: pointer; }
+.range .track { position: absolute; left: 0; right: 0; top: 10px; height: 3px; background: var(--rule); border-radius: 2px; }
+.range .fill { position: absolute; top: 10px; height: 3px; background: var(--accent); border-radius: 2px; }
+.years { font-family: var(--mono); font-size: 13px; min-width: 84px; }
+.presets { display: flex; gap: 4px; }
+.presets .btn { padding: 3px 7px; font-size: 12px; }
+.yearbox { width: 64px; padding: 3px 6px; font-family: var(--mono); font-size: 12px; }
+.yearbox.on { border-color: var(--accent); box-shadow: 0 0 0 1px var(--accent); }
+.menu-wrap { position: relative; }
+.menu { position: absolute; left: 0; top: calc(100% + 6px); z-index: 20; width: min(560px, calc(100vw - 32px)); max-height: min(70vh, 560px); overflow: auto;
+  background: var(--surface); border: 1px solid var(--rule); border-radius: var(--r); box-shadow: 0 10px 30px rgba(0,0,0,.18); padding: 12px 14px; }
+.menu .grp { display: flex; flex-wrap: wrap; gap: 6px; margin: 4px 0 12px; }
+.menu .grp .btn { font-size: 12px; padding: 3px 8px; }
+.menu .list { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 2px 12px; }
+.menu label { display: flex; align-items: center; gap: 8px; font-size: 13px; padding: 3px 2px; cursor: pointer; border-radius: 4px; min-width: 0; }
+.menu label:hover { background: var(--accent-soft); }
+.menu label i { width: 9px; height: 9px; border-radius: 50%; flex: none; }
+.menu input[type=checkbox] { accent-color: var(--accent); margin: 0; }
+.menu .foot2 { display: flex; justify-content: space-between; align-items: center; gap: 8px; border-top: 1px solid var(--rule); margin-top: 10px; padding-top: 10px; }
+@media (max-width: 560px) { .menu .list { grid-template-columns: repeat(2, minmax(0, 1fr)); } .menu { position: fixed; left: 16px; right: 16px; top: 120px; width: auto; } }
+
+/* Main grid */
+.grid { display: grid; grid-template-columns: minmax(0, 1fr) 300px; gap: 28px; padding-block: 22px 60px; align-items: start; }
+.col { min-width: 0; display: flex; flex-direction: column; gap: 26px; }
+section.card { background: var(--surface); border: 1px solid var(--rule); border-radius: var(--r); padding: 18px 18px 14px; min-width: 0; }
+.card h2 { font-family: var(--display); font-weight: 600; font-size: 21px; margin: 0; line-height: 1.2; text-wrap: balance; }
+.card .dek { color: var(--ink-2); margin: 4px 0 12px; font-size: 14px; max-width: 70ch; }
+.headline { font-family: var(--display); font-size: clamp(19px, 2.3vw, 24px); line-height: 1.35; margin: 0; text-wrap: balance; max-width: 60ch; }
+.headline b { font-weight: 600; }
+.foot { font-size: 12px; color: var(--ink-3); margin-top: 10px; line-height: 1.45; }
+.note { font-size: 13px; color: var(--ink-2); background: var(--accent-soft); border-radius: var(--r); padding: 8px 12px; margin: 0 0 12px; }
+.tabs { display: flex; gap: 2px; border-bottom: 1px solid var(--rule); margin: 6px 0 14px; }
+.tabs button { border: none; background: none; padding: 8px 12px; font-weight: 600; font-size: 14px; color: var(--ink-3); cursor: pointer; border-bottom: 2px solid transparent; margin-bottom: -1px; }
+.tabs button[aria-selected="true"] { color: var(--ink); border-bottom-color: var(--accent); }
+.chart { width: 100%; position: relative; }
+.chart svg { display: block; width: 100%; height: auto; overflow: visible; }
+.axis text { fill: var(--ink-3); font-family: var(--mono); font-size: 11px; }
+.axis line, .axis path { stroke: var(--rule); }
+.gridline { stroke: var(--rule); stroke-width: 1; }
+.legend { display: flex; flex-wrap: wrap; gap: 6px 16px; font-size: 12px; color: var(--ink-2); margin-top: 8px; align-items: center; }
+.legend i { display: inline-block; width: 18px; height: 3px; border-radius: 2px; vertical-align: middle; margin-right: 6px; }
+.legend i.sq { width: 11px; height: 11px; border-radius: 2px; }
+.scrollx { overflow-x: auto; }
+
+/* KPI row */
+.kpis { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 1px; background: var(--rule); border: 1px solid var(--rule); border-radius: var(--r); overflow: hidden; margin-bottom: 18px; }
+.kpi { background: var(--surface); padding: 12px 14px; min-width: 0; }
+.kpi .v { font-family: var(--display); font-size: 30px; font-weight: 600; line-height: 1.1; font-variant-numeric: tabular-nums; }
+.kpi .k { font-size: 12px; color: var(--ink-3); }
+.kpi .s { font-size: 12px; color: var(--ink-2); }
+.pos { color: var(--ok); } .neg { color: var(--bad); }
+
+/* Small multiples */
+.multi { display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 10px; }
+.mini { border: 1px solid var(--rule); border-radius: var(--r); padding: 8px 8px 4px; background: var(--surface); text-align: left; cursor: pointer; min-width: 0; }
+.mini:hover { border-color: var(--accent); }
+.mini .t { display: flex; justify-content: space-between; gap: 6px; font-size: 13px; font-weight: 600; }
+.mini .t span:last-child { font-family: var(--mono); font-weight: 500; color: var(--ink-2); }
+
+/* Ranking */
+.rank { width: 100%; border-collapse: collapse; font-size: 13px; }
+.rank td { padding: 4px 6px; border-bottom: 1px solid var(--rule); vertical-align: middle; }
+.rank tr { cursor: pointer; }
+.rank tr:hover td { background: var(--accent-soft); }
+.rank .n { width: 26px; color: var(--ink-3); font-family: var(--mono); text-align: right; }
+.rank .nm { white-space: nowrap; font-weight: 600; }
+.rank .barc { width: 52%; }
+.rank .bar { height: 12px; border-radius: 2px; background: var(--accent); }
+.rank .val { font-family: var(--mono); text-align: right; width: 44px; }
+.rank .chg { font-family: var(--mono); font-size: 12px; width: 44px; text-align: right; }
+.rank .yrs { font-size: 11px; color: var(--ink-3); width: 50px; text-align: right; }
+.badge { display: inline-block; font-size: 10px; font-weight: 700; letter-spacing: .04em; padding: 0 5px; border-radius: 3px; border: 1px solid var(--rule); color: var(--ink-3); margin-left: 6px; vertical-align: 1px; }
+
+/* Compare table */
+.cmp { width: 100%; border-collapse: collapse; font-size: 13px; }
+.cmp th { text-align: right; font-size: 11px; letter-spacing: .06em; text-transform: uppercase; color: var(--ink-3); padding: 6px; border-bottom: 1px solid var(--rule); font-weight: 600; }
+.cmp th:first-child, .cmp td:first-child { text-align: left; }
+.cmp td { text-align: right; padding: 6px; border-bottom: 1px solid var(--rule); font-family: var(--mono); }
+.cmp td:first-child { font-family: var(--body); font-weight: 600; }
+
+/* Notes list */
+.notes { list-style: none; padding: 0; margin: 12px 0 0; display: grid; gap: 8px; }
+.notes li { display: grid; grid-template-columns: 26px 46px minmax(0, 1fr); gap: 8px; font-size: 13px; align-items: baseline; }
+.notes .no { display: inline-grid; place-items: center; width: 20px; height: 20px; border-radius: 50%; background: var(--ink); color: var(--bg); font-size: 11px; font-weight: 700; }
+.notes .yr { font-family: var(--mono); color: var(--ink-3); }
+.notes b { font-weight: 600; }
+
+/* Strips */
+.strip-h { display: flex; justify-content: space-between; align-items: baseline; gap: 10px; margin: 18px 0 6px; flex-wrap: wrap; }
+.strip-h h3 { font-size: 14px; margin: 0; font-weight: 700; }
+
+/* Recipe panel */
+.recipe { position: sticky; top: calc(env(safe-area-inset-top, 0px) + 70px); }
+.recipe h2 { font-size: 19px; }
+.pill { display: flex; flex-direction: column; gap: 4px; padding: 12px 0; border-bottom: 1px solid var(--rule); }
+.pill:last-of-type { border-bottom: none; }
+.pill .row { display: flex; justify-content: space-between; align-items: baseline; gap: 8px; }
+.pill .nm { font-weight: 700; font-size: 14px; }
+.pill .sh { font-family: var(--mono); font-size: 13px; }
+.pill .d { font-size: 12px; color: var(--ink-3); }
+.pill input[type=range] { width: 100%; accent-color: var(--accent); }
+.pill .share { height: 4px; background: var(--band); border-radius: 2px; overflow: hidden; }
+.pill .share b { display: block; height: 100%; background: var(--accent); }
+.pill.off { opacity: .55; }
+.modified { display: inline-block; font-size: 11px; font-weight: 700; padding: 2px 8px; border-radius: 999px; background: var(--warn); color: #1c1305; }
+details.adv { border-top: 1px solid var(--rule); padding-top: 10px; margin-top: 4px; }
+details.adv summary { cursor: pointer; font-weight: 700; font-size: 14px; }
+.rowbtns { display: flex; gap: 8px; align-items: center; justify-content: space-between; margin-top: 12px; flex-wrap: wrap; }
+
+/* Tooltip */
+#tip { position: fixed; z-index: 50; pointer-events: none; background: var(--ink); color: var(--bg); font-size: 12px; line-height: 1.4; padding: 8px 10px; border-radius: var(--r); max-width: 260px; box-shadow: 0 6px 18px rgba(0,0,0,.18); }
+#tip .tt { font-weight: 700; margin-bottom: 2px; }
+#tip .r { display: flex; justify-content: space-between; gap: 14px; font-family: var(--mono); }
+#tip i { display: inline-block; width: 8px; height: 8px; border-radius: 50%; margin-right: 6px; }
+
+/* Method page */
+.method { padding-block: 26px 70px; display: grid; grid-template-columns: 220px minmax(0, 1fr); gap: 36px; }
+.toc { position: sticky; top: calc(env(safe-area-inset-top, 0px) + 20px); align-self: start; font-size: 13px; display: flex; flex-direction: column; gap: 6px; }
+.toc a { color: var(--ink-2); text-decoration: none; }
+.toc a:hover { color: var(--accent); }
+.prose { min-width: 0; max-width: 820px; }
+.prose h2 { font-family: var(--display); font-weight: 600; font-size: 26px; margin: 34px 0 8px; line-height: 1.2; text-wrap: balance; }
+.prose h2:first-child { margin-top: 0; }
+.prose h3 { font-size: 16px; margin: 20px 0 6px; }
+.prose p, .prose li { max-width: 68ch; }
+.prose .lead { font-family: var(--display); font-size: 21px; line-height: 1.45; color: var(--ink); }
+.formula { font-family: var(--mono); font-size: 13px; background: var(--surface); border: 1px solid var(--rule); border-radius: var(--r); padding: 10px 12px; overflow-x: auto; white-space: pre; }
+.pillars { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 12px; margin: 14px 0; }
+.pillars > div { background: var(--surface); border: 1px solid var(--rule); border-radius: var(--r); padding: 14px; min-width: 0; }
+.pillars h3 { margin: 0 0 4px; display: flex; justify-content: space-between; gap: 8px; }
+.pillars h3 span { font-family: var(--mono); font-weight: 500; color: var(--ink-3); }
+.pillars p { font-size: 14px; margin: 6px 0 0; }
+table.t { border-collapse: collapse; width: 100%; font-size: 13px; }
+table.t th, table.t td { text-align: left; padding: 7px 8px; border-bottom: 1px solid var(--rule); vertical-align: top; }
+table.t th { font-size: 11px; letter-spacing: .06em; text-transform: uppercase; color: var(--ink-3); }
+.caveats { padding-left: 18px; }
+.caveats li { margin-bottom: 8px; }
+
+@media (max-width: 1000px) {
+  .grid { grid-template-columns: minmax(0, 1fr); }
+  .recipe { position: static; }
+  .method { grid-template-columns: minmax(0, 1fr); }
+  .toc { position: static; flex-direction: row; flex-wrap: wrap; gap: 6px 14px; }
+}
+@media (max-width: 700px) {
+  .bar { position: static; }
+  .kpis { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .pillars { grid-template-columns: minmax(0, 1fr); }
+  .range { width: 140px; }
+  .rank .barc { width: 34%; }
+  .rank .yrs { display: none; }
+}
+@media (prefers-reduced-motion: reduce) { * { transition: none !important; } }
+</style>
+
+<header class="mast">
+  <div class="wrap">
+    <div>
+      <p class="kicker">31 European democracies · 1950–2025</p>
+      <h1>Policymaking Effectiveness Index</h1>
+      <p class="sub">How reliably each government passes laws, gets a budget in place on time and stays in office. Scored 0 to 100, each country against its own record.</p>
+    </div>
+    <nav class="pages" aria-label="Pages">
+      <a href="#explore" id="nav-explore" aria-current="page">Explore</a>
+      <a href="#method" id="nav-method">How the index works</a>
+    </nav>
+  </div>
+</header>
+
+<div id="page-explore">
+  <div class="bar">
+    <div class="wrap">
+      <div class="ctl" id="ctl-countries">
+        <span class="lbl">Countries</span>
+        <button class="btn" id="btn-all" aria-pressed="true">All 31</button>
+        <div class="menu-wrap">
+          <button class="btn" id="cmenu-btn" aria-expanded="false" aria-controls="cmenu">Choose countries ▾</button>
+          <div class="menu" id="cmenu" hidden role="dialog" aria-label="Choose countries"></div>
+        </div>
+      </div>
+      <div class="ctl">
+        <span class="lbl">Years</span>
+        <div class="range" id="range">
+          <div class="track"></div><div class="fill" id="range-fill"></div>
+          <input type="range" id="from" min="1950" max="2025" step="1" value="1950" aria-label="First year">
+          <input type="range" id="to" min="1950" max="2025" step="1" value="2025" aria-label="Last year">
+        </div>
+        <span class="years" id="years-lbl">1950–2025</span>
+        <span class="presets">
+          <button class="btn" data-preset="1950">1950–</button>
+          <button class="btn" data-preset="1980">1980–</button>
+          <button class="btn" data-preset="2000">2000–</button>
+          <button class="btn" data-preset="last10">Last 10</button>
+          <input class="btn yearbox" id="oneyear" type="number" inputmode="numeric" min="1950" max="2025" placeholder="Year" aria-label="Show a single year">
+        </span>
+      </div>
+      <div class="ctl">
+        <span class="lbl">Show</span>
+        <span class="seg" id="measure">
+          <button data-m="pei" aria-pressed="true">Index</button>
+          <button data-m="p1">Laws</button>
+          <button data-m="p2">Budgets</button>
+          <button data-m="p3">Stability</button>
+          <button data-m="rank">Ranking</button>
+        </span>
+      </div>
+      <div class="ctl">
+        <span class="lbl">Average of</span>
+        <select class="btn" id="base" aria-label="Countries in the average">
+          <option value="all">All countries with data</option>
+          <option value="A">Long-standing 10 (panel A)</option>
+          <option value="B">Western 20 (panel B)</option>
+          <optgroup label="Regions" id="base-groups"></optgroup>
+        </select>
+      </div>
+    </div>
+  </div>
+
+  <div class="wrap grid">
+    <div class="col" id="main">
+      <p class="headline" id="headline"></p>
+      <div id="view-all">
+        <section class="card" id="sec-avg">
+          <h2 id="avg-title">European average</h2>
+          <p class="dek" id="avg-dek"></p>
+          <div id="p1-note-all"></div>
+          <div class="chart" id="chart-avg"></div>
+          <div class="legend" id="legend-avg"></div>
+          <p class="foot" id="foot-avg"></p>
+        </section>
+        <section class="card" id="sec-overview" style="margin-top:26px">
+          <h2>Every country</h2>
+          <div class="tabs" role="tablist" id="alltabs">
+            <button role="tab" data-t="heat" aria-selected="true">Heatmap</button>
+            <button role="tab" data-t="multi" aria-selected="false">Small multiples</button>
+            <button role="tab" data-t="rank" aria-selected="false">Ranking</button>
+          </div>
+          <div id="all-body"></div>
+          <p class="foot" id="foot-all"></p>
+        </section>
+      </div>
+      <div id="view-sel" hidden>
+        <section class="card" id="sec-main">
+          <h2 id="sel-title"></h2>
+          <p class="dek" id="sel-dek"></p>
+          <div id="p1-note-sel"></div>
+          <div class="chart" id="chart-main"></div>
+          <div class="legend" id="legend-main"></div>
+          <ol class="notes" id="notes"></ol>
+          <p class="foot" id="foot-main"></p>
+        </section>
+        <section class="card" id="sec-detail" style="margin-top:26px"></section>
+      </div>
+    </div>
+
+    <aside class="card recipe" id="recipe" aria-label="Index weights">
+      <div class="rowbtns" style="margin-top:0">
+        <h2>Index recipe</h2>
+        <span class="modified" id="modified" hidden>Changed from default</span>
+      </div>
+      <p class="dek">Drag to reweight. Shares are the weights rescaled over the pillars with data.</p>
+      <div id="pillars"></div>
+      <details class="adv" id="adv">
+        <summary>Advanced: penalties inside the pillars</summary>
+        <div id="advbody"></div>
+      </details>
+      <div class="rowbtns">
+        <button class="btn" id="reset">Reset to default</button>
+        <span class="foot" style="margin:0" id="default-lbl"></span>
+      </div>
+    </aside>
+  </div>
+</div>
+
+<div id="page-method" hidden>
+  <div class="wrap method">
+    <nav class="toc" aria-label="On this page">
+      <span class="lbl">On this page</span>
+      <a href="#method" data-jump="m-what">What it measures</a>
+      <a href="#method" data-jump="m-pillars">The three pillars</a>
+      <a href="#method" data-jump="m-coverage">Who is covered when</a>
+      <a href="#method" data-jump="m-eras">Scoring eras</a>
+      <a href="#method" data-jump="m-fiscal">Budget calendars</a>
+      <a href="#method" data-jump="m-caveats">Caveats</a>
+      <a href="#method" data-jump="m-sources">Sources</a>
+    </nav>
+    <article class="prose">
+      <h2 id="m-what">What it measures</h2>
+      <p class="lead">The index asks a plain question: in a given year, did the government get its basic job done? It looks at three things you can count. How many substantive laws parliament passed, whether the budget was in force when the fiscal year began, and whether there was a government with full powers in office.</p>
+      <p>Each pillar is scored 0 to 100 and the index is their weighted average. It started as a test of a hunch about Spain and the United Kingdom: that snap elections, caretaker spells and late budgets crowd out legislating. It now covers 31 EU and EFTA democracies, back to 1950 where the records allow.</p>
+      <p>It does not judge whether laws are good, popular or well implemented. A government that passes many bad laws scores well on the first pillar. It is a measure of capacity to act, not of results.</p>
+
+      <h2 id="m-pillars">The three pillars</h2>
+      <div class="pillars" id="pillar-cards"></div>
+      <p>The index is the weighted mean of the pillars that have data that year. Weights are rescaled over those pillars, so a missing pillar never counts as a zero. When law data is missing for a year that has other data, laws count as a neutral 50.</p>
+      <p>The three pillars carry equal weight. An earlier version weighted laws 40, budgets 20 and stability 30. Its rankings were almost the same: Spain was last for 2016–25 either way.</p>
+      <div class="formula" id="formula"></div>
+      <p>Years before a country's democratic start (Spain before 1979, the post-communist states before their first free parliaments) are not scored at all.</p>
+
+      <h2 id="m-coverage">Who is covered when</h2>
+      <p>Records start at different points. Ten long-standing democracies go back to 1950 (panel A). The Western 20 are complete from about 1980 (panel B). All 31 are in from the early 1990s (panel C). The averages on the Explore page only include countries with data in each year, so the early decades describe fewer countries.</p>
+      <div class="chart scrollx" id="chart-coverage"></div>
+      <div class="legend" id="legend-coverage"></div>
+
+      <h2 id="m-eras">Scoring eras</h2>
+      <p>The laws pillar compares each country with its own history, not with its neighbours. Parliaments differ hugely in how they package legislation: Italy passes hundreds of small laws a year, the UK a few dozen long ones. A raw cross-country count would only measure drafting style. So a year scores high on laws when that parliament passed more than it usually does.</p>
+      <p>Where a country changed regime, its history restarts, so it is only compared with itself inside one system:</p>
+      <table class="t"><thead><tr><th>Country</th><th>Eras</th><th>Why</th></tr></thead><tbody>
+        <tr><td>Italy</td><td class="mono">1948–1992 · 1993–</td><td>Electoral reform and the collapse of the First Republic party system</td></tr>
+        <tr><td>Germany</td><td class="mono">1949–1989 · 1990–</td><td>Reunification</td></tr>
+        <tr><td>France</td><td class="mono">1959–</td><td>Fifth Republic</td></tr>
+        <tr><td>Spain, Portugal, Greece</td><td class="mono">1979–, 1976–, 1975–</td><td>Transitions to democracy</td></tr>
+        <tr><td>Central and Eastern Europe</td><td class="mono">1990–1993 onward</td><td>First free parliaments; Croatia from 2000</td></tr>
+      </tbody></table>
+      <p>Budgets and stability are on the same scale everywhere, so those two pillars do compare countries directly.</p>
+
+      <h2 id="m-fiscal">Budget calendars</h2>
+      <p>The budget test is whether spending authority was in force on the first day of the fiscal year. Most countries start on 1 January, but not all, and some changed:</p>
+      <table class="t"><thead><tr><th>Country</th><th>Fiscal year starts</th><th>Note</th></tr></thead><tbody>
+        <tr><td>Italy</td><td class="mono">1 July until 1964, then 1 January</td><td>Provisional budgets (esercizio provvisorio) were routine until 1988</td></tr>
+        <tr><td>Germany</td><td class="mono">1 April until 1960, then 1 January</td><td>Provisional budget management in most post-election years</td></tr>
+        <tr><td>Denmark</td><td class="mono">1 April until 1977/78, then 1 January</td><td></td></tr>
+        <tr><td>Sweden</td><td class="mono">1 July until 1995/96, then 1 January</td><td>1995/96 ran for 18 months</td></tr>
+        <tr><td>United Kingdom</td><td class="mono">1 April</td><td>Not scored: spending is authorised by rolling Supply and Appropriation Acts, so there is no single on-time test</td></tr>
+        <tr><td>Ireland</td><td class="mono">1 January</td><td>Not scored for the same reason: estimates are voted during the year</td></tr>
+        <tr><td>Netherlands</td><td class="mono">1 January</td><td>On time means the lower house voted before 1 January; the Senate often finishes in spring</td></tr>
+      </tbody></table>
+      <p>A budget in force on day one scores 100. One adopted within the grace period (30 days by default) scores 50, or 25 when the delay is known to be late but not by how much. Anything later, a rolled-over budget or provisional twelfths, scores 0.</p>
+
+      <h2 id="m-caveats">Caveats</h2>
+      <ul class="caveats">
+        <li><b>Fewer but longer laws.</b> Over 50 to 75 years the UK, France and Italy moved towards fewer, longer statutes. Part of their long decline in the laws pillar is drafting style, not inactivity. Budgets and stability are unaffected.</li>
+        <li><b>Switzerland</b> has a consensus executive with no prime minister, confidence votes or snap elections. Its stability score is close to 100 by construction.</li>
+        <li><b>France</b> joins three law sources: Senate yearly statistics from 1959, Comparative Agendas Project records 1979–2001, and the official DOLE dossiers from 2002.</li>
+        <li><b>Germany 1949–1972</b> law counts are per-parliament totals spread evenly across years.</li>
+        <li><b>Italy</b> in the 1950s: the Camera record holds about 45% of all laws by number. It is consistent within the era, which is what the laws pillar compares.</li>
+        <li><b>Cyprus</b> before 1992 numbered every law in one series. Appropriation, guarantee and treaty laws are excluded by title.</li>
+        <li><b>Short law series.</b> Sweden from 2003, Bulgaria from 2009 (counts from 2003), Latvia from 2010 (counts from 2000), Finland from 1990, Romania from 1996. Earlier years use budgets and stability only, with laws at a neutral 50.</li>
+        <li><b>Unknown budget years.</b> Denmark and Finland before 1980, Belgium 1980–87, Norway 1980–86 and Greece in the 1980s. These years have no budget score.</li>
+        <li><b>2026</b> is excluded: the year is incomplete.</li>
+      </ul>
+
+      <h2 id="m-sources">Sources</h2>
+      <p>Governments, caretaker periods and early elections come from REPDEM Basic (v2026.07), with ParlGov and manual records for Switzerland, Cyprus and Malta. Laws come from each country's parliament or official gazette, with the Comparative Agendas Project filling older years. Budget dates were compiled by hand, one documented source per country-year.</p>
+      <div class="scrollx"><table class="t" id="sources"><thead><tr><th>Country</th><th>Laws</th><th>Budget dates</th></tr></thead><tbody></tbody></table></div>
+      <p class="foot" id="built"></p>
+    </article>
+  </div>
+</div>
+
+<div id="tip" hidden></div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js"></script>
+<script>const PEI = /*__PEI_DATA__*/null;</script>
+<script>/*__PEI_SCORE__*/</script>
+<script>/*__PEI_APP__*/</script>

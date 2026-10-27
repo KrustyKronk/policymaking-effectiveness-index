@@ -1,0 +1,23 @@
+# Secrets
+.env
+
+# Environment
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+# Raw downloads (6.5 GB; rebuilt by `run.py --fetch`, and several sources do not allow redistribution)
+raw/
+
+# Rebuilt locally; contain row-level law records, partly from CC BY-NC-SA sources
+pei.duckdb
+data/laws.csv
+data/intermediate/*
+!data/intermediate/stability_country_year.csv
+!data/intermediate/throughput_country_year.csv
+
+# Internal planning notes and draft article charts
+BRAINSTORM.md
+EXPANSION_BRAINSTORM.md
+charts/

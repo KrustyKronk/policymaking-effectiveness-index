@@ -1,0 +1,21 @@
+# Scoring parameters for the Policymaking Effectiveness Index (v0).
+# Edit and re-run `uv run python run.py --score --build`.
+period:
+  start: 1950
+  end: 2025
+weights:            # renormalised over the pillars that are non-null for a country-year
+  p1_throughput: 33       # equal thirds since 18 Oct 2026; v2 findings first used 40/20/30
+  p2_fiscal: 33
+  p3_stability: 33
+  p4_implementation: 10
+throughput:
+  rolling_window: 3        # years, centred where possible
+  decree_penalty: 0.0      # points subtracted = decree_share * decree_penalty (0 = count decrees as plain output)
+  substantive_only: true   # score laws_substantive rather than laws_total
+stability:
+  snap_penalty: 15         # points off P3 in a year with an early election
+  pm_change_penalty: 10    # points off P3 per change of prime minister in the year (capped at 2)
+fiscal:
+  late_grace_days: 30      # a budget adopted within this many days after FY start scores 50 instead of 0
+implementation:
+  use_sanity_in_p4: false  # if true, P4 = WGI government-effectiveness percentile when transposition is null

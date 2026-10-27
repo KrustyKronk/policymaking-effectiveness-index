@@ -1,0 +1,114 @@
+# Substantive-law rules (v0). A law counts as substantive unless its instrument_type is in exclude_types or its
+# title matches one of the regexes for its country's language. Matching is case-insensitive.
+exclude_types: [ratification, consolidation, budget_law, other]
+
+# language per country now lives in pipeline/common.py COUNTRIES[cc]['lang']
+
+exclude_title_regex:
+  en:
+    - '^(Supply and )?Appropriation'
+    - '^Consolidated Fund'
+    - '^Finance( \(No\. ?\d\))? Act'
+    - '^Central Fund'
+    - 'Statute Law (Revision|Repeals)'
+    - '\(Consolidation\)'
+    - 'Consolidation Act'
+    - 'ratification'
+  es:
+    - 'Presupuestos Generales del Estado'
+    - 'cr[eé]dito extraordinario'
+    - 'suplemento de cr[eé]dito'
+    - 'Cuenta General del Estado'
+  fr:
+    - 'autorisant (la ratification|l.approbation|l.adh[eé]sion)'
+    - '^(Loi )?(de|des) finances'
+    - 'loi de finances'
+    - 'loi de r[eè]glement'
+    - "approbation des comptes"
+    - 'financement de la s[eé]curit[eé] sociale'
+    - 'journ[eé]e nationale'
+  it:
+    - '^Ratifica ed esecuzione'
+    - 'ratifica'
+    - 'Rendiconto generale'
+    - 'Assestamento del bilancio'
+    - 'Bilancio di previsione'
+    - 'legge di (stabilit|bilancio)'
+    - 'Giornata nazionale'
+  nl:
+    - 'goedkeuring van'
+    - 'begrotingsstaat'
+    - 'Slotwet'
+    - 'suppletoire'
+    - 'Rijkswet goedkeuring'
+  de:
+    - 'Haushaltsgesetz'
+    - 'Bundesfinanzgesetz'
+    - 'Bundesrechnungsabschluss'
+    - '(Staatsvertrag|Abkommen|Übereinkommen|Protokoll) '
+    - 'Vertragsgesetz'
+  sv:
+    - 'statens budget'
+    - 'Budgetpropositionen'
+  da:
+    - '^Forslag til finanslov'
+    - 'tillægsbevillingslov'
+    - 'midlertidig bevillingslov'
+  pl:
+    - 'o ratyfikacji'
+    - 'ustawa budżetowa'
+    - 'o zmianie ustawy budżetowej'
+  pt:
+    - 'Orçamento do Estado'
+    - 'aprova(ndo)? o Acordo'
+  fi:
+    - 'talousarvi'
+    - 'voimaansaattamisesta'
+    - 'hyväksymisestä'
+  nb:
+    - 'statsbudsjett'
+    - 'samtykke til'
+  is:
+    - '^Fjárlög'
+    - 'fjáraukalög'
+    - 'staðfestingu'
+  el:
+    - 'Κύρωση'
+    - 'Κυρώσεως'
+    - 'Προϋπολογισμ'
+    - 'Ειδικεύσεως'
+    - 'Συμπληρωματικ[ήο]ς? Πιστώσε'
+    - 'Εγγυήσεως της Δημοκρατίας'
+    - 'περί της Σ[υύ]μβάσ'
+    - 'περί της Συμβάσ'
+  cs:
+    - 'o státním rozpočtu'
+    - 'státního rozpočtu'
+  sk:
+    - 'o štátnom rozpočte'
+  hu:
+    - 'költségvetés'
+    - 'kihirdetéséről'
+    - 'zárszámadás'
+  sl:
+    - 'proračun'
+    - 'ratifikaciji'
+  hr:
+    - 'proračun'
+    - 'potvrđivanju'
+  ro:
+    - 'bugetul de stat'
+    - 'bugetului'
+    - 'ratificarea'
+  bg:
+    - 'бюджет'
+    - 'ратифициране'
+  et:
+    - 'riigieelarve'
+    - 'ratifitseerimise'
+  lv:
+    - 'valsts budžet'
+    - 'konvencij'
+  lt:
+    - 'biudžeto'
+    - 'ratifikavimo'

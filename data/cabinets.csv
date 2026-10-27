@@ -1,0 +1,987 @@
+country,cabinet_id,cabinet_name,pm,start,end,parties,n_parties,seat_share,cabinet_type,caretaker,formation_days,term_reason,early_election,cab_defeat,pref_range,source
+AT,1001,Figl I,Figl,1945-12-20,1947-11-20,10005.0; 10004.0; 10001.0,3,165.0,coalition_majority,0,25.0,other,0,0,,repdem_basic_2026_07
+AT,1002,Figl II,Figl,1947-11-20,1949-10-09,10005.0; 10004.0,2,161.0,coalition_majority,0,0.0,regular_election,0,0,,repdem_basic_2026_07
+AT,1003,Figl III,Figl,1949-11-08,1953-02-22,10005.0; 10004.0,2,144.0,coalition_majority,0,30.0,early_election,1,0,45.800003,repdem_basic_2026_07
+AT,1004,Raab I,Raab,1953-04-02,1956-05-13,10005.0; 10004.0,2,147.0,coalition_majority,0,39.0,early_election,1,0,46.0,repdem_basic_2026_07
+AT,1005,Raab II,Raab,1956-06-29,1959-05-10,10005.0; 10004.0,2,156.0,coalition_majority,0,47.0,early_election,1,0,62.800003,repdem_basic_2026_07
+AT,1006,Raab III,Raab,1959-07-16,1961-04-11,10005.0; 10004.0,2,157.0,coalition_majority,0,67.0,other,0,0,40.0,repdem_basic_2026_07
+AT,1007,Gorbach I,Gorbach,1961-04-11,1962-11-18,10005.0; 10004.0,2,157.0,coalition_majority,0,0.0,early_election,1,0,40.0,repdem_basic_2026_07
+AT,1008,Gorbach II,Gorbach,1963-03-27,1964-04-02,10005.0; 10004.0,2,157.0,coalition_majority,0,129.0,other,0,0,24.700001,repdem_basic_2026_07
+AT,1009,Klaus I,Klaus,1964-04-02,1965-10-25,10005.0; 10004.0,2,157.0,coalition_majority,0,0.0,early_election,1,0,24.700001,repdem_basic_2026_07
+AT,1010,Klaus II,Klaus,1966-04-19,1970-03-01,10005.0,1,85.0,single_majority,0,176.0,regular_election,0,0,0.0,repdem_basic_2026_07
+AT,1011,Kreisky I,Kreisky,1970-04-21,1971-10-10,10004.0,1,81.0,minority,0,51.0,early_election,1,0,0.0,repdem_basic_2026_07
+AT,1012,Kreisky II,Kreisky,1971-11-04,1975-10-05,10004.0,1,93.0,single_majority,0,25.0,regular_election,0,0,0.0,repdem_basic_2026_07
+AT,1013,Kreisky III,Kreisky,1975-10-28,1979-05-06,10004.0,1,93.0,single_majority,0,23.0,early_election,1,0,0.0,repdem_basic_2026_07
+AT,1014,Kreisky IV,Kreisky,1979-06-05,1983-04-24,10004.0,1,95.0,single_majority,0,30.0,regular_election,0,0,0.0,repdem_basic_2026_07
+AT,1015,Sinowatz,Sinowatz,1983-05-24,1986-06-16,10004.0; 10006.0,2,102.0,coalition_majority,0,30.0,other,0,0,36.300003,repdem_basic_2026_07
+AT,1016,Vranitzky I,Vranitzky,1986-06-16,1986-11-23,10004.0; 10006.0,2,102.0,coalition_majority,0,0.0,early_election,1,0,36.300003,repdem_basic_2026_07
+AT,1017,Vranitzky II,Vranitzky,1987-01-21,1990-10-07,10004.0; 10005.0,2,157.0,coalition_majority,0,59.0,regular_election,0,0,36.200001,repdem_basic_2026_07
+AT,1018,Vranitzky III,Vranitzky,1990-12-17,1994-10-09,10004.0; 10005.0,2,140.0,coalition_majority,0,71.0,regular_election,0,0,12.4,repdem_basic_2026_07
+AT,1019,Vranitzky IV,Vranitzky,1994-11-29,1995-12-17,10004.0; 10005.0,2,117.0,coalition_majority,0,51.0,early_election,1,0,35.646,repdem_basic_2026_07
+AT,1020,Vranizky V,Vranizky,1996-03-12,1997-01-15,10004.0; 10005.0,2,124.0,coalition_majority,0,86.0,other,0,0,19.567999,repdem_basic_2026_07
+AT,1021,Klima,Klima,1997-01-15,1999-10-03,10004.0; 10005.0,2,124.0,coalition_majority,0,0.0,regular_election,0,0,19.567999,repdem_basic_2026_07
+AT,1022,Schüssel I,Schüssel,2000-02-04,2002-11-24,10005.0; 10006.0,2,104.0,coalition_majority,0,124.0,early_election,1,0,28.250999,repdem_basic_2026_07
+AT,1023,Schüssel II,Schüssel,2003-02-28,2006-10-01,10005.0; 10006.0,2,97.0,coalition_majority,0,96.0,early_election,1,0,2.3239994,repdem_basic_2026_07
+AT,1024,Gusenbauer,Gusenbauer,2007-01-11,2008-09-28,10004.0; 10005.0,2,134.0,coalition_majority,0,102.0,early_election,1,0,12.157,repdem_basic_2026_07
+AT,1025,Faymann I,Faymann,2008-12-02,2013-09-29,10004.0; 10005.0,2,108.0,coalition_majority,0,65.0,regular_election,0,0,16.723999,repdem_basic_2026_07
+AT,1026,Faymann II,Faymann,2013-12-16,2016-05-09,10004.0; 10005.0,2,99.0,coalition_majority,0,78.0,other,0,0,32.975002,repdem_basic_2026_07
+AT,1027,Kern,Kern,2016-05-17,2017-10-15,10004.0; 10005.0,2,103.0,coalition_majority,0,8.0,early_election,1,0,32.975002,repdem_basic_2026_07
+AT,1028,Kurz I,Kurz,2017-12-18,2019-05-22,10005.0; 10006.0,2,113.0,coalition_majority,0,64.0,other,0,0,0.86900043,repdem_basic_2026_07
+AT,1029,Kurz II,Kurz,2019-05-22,2019-05-28,10005.0,1,61.0,caretaker,1,0.0,cabinet_defeat,0,1,0.0,repdem_basic_2026_07
+AT,1030,Löger,Löger,2019-05-28,2019-06-03,10005.0,1,61.0,caretaker,1,0.0,other,0,0,0.0,repdem_basic_2026_07
+AT,1031,Bierlein,Bierlein,2019-06-03,2019-09-29,,0,0.0,single_majority,0,0.0,early_election,1,0,,repdem_basic_2026_07
+AT,1032,Kurz IV,Kurz,2020-01-07,2021-10-09,10005.0; 10002.0,2,97.0,coalition_majority,0,100.0,voluntary,0,0,23.747,repdem_basic_2026_07
+AT,1033,Schallenberg,Schallenberg,2021-10-11,2021-12-06,10005.0; 10002.0,2,97.0,coalition_majority,0,2.0,voluntary,0,0,23.747,repdem_basic_2026_07
+AT,1034,Nehammer,Nehammer,2021-12-06,2024-09-29,10005.0; 10002.0,2,97.0,coalition_majority,0,0.0,regular_election,0,0,23.747,repdem_basic_2026_07
+AT,1035,Stocker,Stocker,2025-03-03,,10005.0; 10004.0; 10010.0,3,110.0,coalition_majority,0,155.0,in_office,0,0,,repdem_basic_2026_07
+BE,2001,Spaak,Spaak,1946-03-13,1946-03-20,20003.0,1,69.0,minority,0,29.0,cabinet_defeat,0,1,0.0,repdem_basic_2026_07
+BE,2002,Van Acker III,Van Acker,1946-03-31,1946-07-09,20003.0; 20015.0; 20001.0,3,109.0,coalition_majority,0,11.0,cabinet_defeat,0,1,,repdem_basic_2026_07
+BE,2003,Huysmans,Huysmans,1946-08-03,1947-03-13,20003.0; 20015.0; 20001.0,3,109.0,coalition_majority,0,25.0,other,0,0,,repdem_basic_2026_07
+BE,2004,Spaak II,Spaak,1947-03-20,1949-06-26,20010.0; 20003.0,2,161.0,coalition_majority,0,7.0,early_election,1,0,43.599998,repdem_basic_2026_07
+BE,2005,Eyskens,Eyskens,1949-08-11,1950-03-18,20010.0; 20015.0,2,134.0,coalition_majority,0,46.0,early_election,1,0,29.4,repdem_basic_2026_07
+BE,2006,Duvieusart,Duvieusart,1950-06-08,1950-08-11,20010.0,1,108.0,single_majority,0,82.0,other,0,0,0.0,repdem_basic_2026_07
+BE,2007,Pholien,Pholien,1950-08-16,1952-01-09,20010.0,1,108.0,single_majority,0,5.0,other,0,0,0.0,repdem_basic_2026_07
+BE,2008,Van Houtte,Van Houtte,1952-01-15,1954-04-11,20010.0,1,108.0,single_majority,0,6.0,regular_election,0,0,0.0,repdem_basic_2026_07
+BE,2009,Van Acker IV,Van Acker,1954-04-22,1958-06-01,20003.0; 20015.0,2,111.0,coalition_majority,0,11.0,regular_election,0,0,69.800003,repdem_basic_2026_07
+BE,2010,Eyskens II,Eyskens,1958-06-23,1958-11-04,20010.0,1,104.0,minority,0,22.0,other,0,0,0.0,repdem_basic_2026_07
+BE,2011,Eyskens III,Eyskens,1958-11-06,1961-03-26,20010.0; 20015.0,2,125.0,coalition_majority,0,2.0,early_election,1,0,8.5219994,repdem_basic_2026_07
+BE,2012,Lefevre,Lefevre,1961-04-25,1965-05-23,20010.0; 20003.0,2,180.0,coalition_majority,0,30.0,regular_election,0,0,10.007,repdem_basic_2026_07
+BE,2013,Harmel,Harmel,1965-07-27,1966-02-11,20010.0; 20003.0,2,141.0,coalition_majority,0,65.0,other,0,0,27.105999,repdem_basic_2026_07
+BE,2014,Van den Boeynants I,Van den Boeynants,1966-03-19,1968-02-07,20010.0; 20015.0,2,125.0,coalition_majority,0,36.0,early_election,1,0,12.153999,repdem_basic_2026_07
+BE,2015,Eyskens IV,Eyskens,1968-06-17,1971-11-07,20011.0; 20012.0; 20003.0,3,128.0,coalition_majority,0,131.0,early_election,1,0,13.67,repdem_basic_2026_07
+BE,2016,Eyskens V,Eyskens,1972-01-21,1972-11-23,20011.0; 20012.0; 20003.0,3,128.0,coalition_majority,0,75.0,other,0,0,8.059,repdem_basic_2026_07
+BE,2017,Leburton,Leburton,1973-01-26,1974-01-19,20003.0; 20011.0; 20012.0; 20016.0; 20017.0,5,162.0,coalition_majority,0,64.0,early_election,1,0,22.23,repdem_basic_2026_07
+BE,2018,Tindemans,Tindemans,1974-04-25,1974-06-11,20011.0; 20012.0; 20016.0; 20017.0,4,102.0,minority,0,96.0,other,0,0,32.352001,repdem_basic_2026_07
+BE,2019,Tindemans II,Tindemans,1974-06-12,1977-03-04,20011.0; 20012.0; 20016.0; 20017.0; 20008.0,5,115.0,coalition_majority,0,1.0,other,0,0,32.352001,repdem_basic_2026_07
+BE,2020,Tindemans III,Tindemans,1977-03-06,1977-04-17,20011.0; 20012.0; 20016.0; 20017.0,4,105.0,minority,0,2.0,early_election,1,0,32.352001,repdem_basic_2026_07
+BE,2021,Tindemans IV,Tindemans,1977-06-03,1978-10-11,20011.0; 20012.0; 20003.0; 20013.0; 20009.0,5,172.0,coalition_majority,0,47.0,other,0,0,25.393,repdem_basic_2026_07
+BE,2022,Van den Boeynants II,Van den Boeynants,1978-10-20,1978-12-17,20011.0; 20012.0; 20003.0; 20013.0; 20009.0,5,172.0,coalition_majority,0,9.0,early_election,1,0,25.393,repdem_basic_2026_07
+BE,2023,Martens I,Martens,1979-04-03,1980-01-16,20011.0; 20012.0; 20005.0; 20004.0; 20009.0,5,151.0,coalition_majority,0,107.0,other,0,0,34.563,repdem_basic_2026_07
+BE,2024,Martens II,Martens,1980-01-23,1980-04-09,20011.0; 20012.0; 20005.0; 20004.0,4,140.0,coalition_majority,0,7.0,other,0,0,34.563,repdem_basic_2026_07
+BE,2025,Martens III,Martens,1980-05-18,1980-10-07,20011.0; 20012.0; 20005.0; 20004.0; 20016.0; 20017.0,6,177.0,coalition_majority,0,39.0,other,0,0,55.642998,repdem_basic_2026_07
+BE,2026,Martens IV,Martens,1980-10-22,1981-04-02,20011.0; 20012.0; 20005.0; 20004.0,4,140.0,coalition_majority,0,15.0,other,0,0,34.563,repdem_basic_2026_07
+BE,2027,M Eyskens,M Eyskens,1981-04-06,1981-09-21,20011.0; 20012.0; 20005.0; 20004.0,4,140.0,coalition_majority,0,4.0,early_election,1,0,34.563,repdem_basic_2026_07
+BE,2028,Martens V,Martens,1981-12-17,1985-10-13,20011.0; 20012.0; 20016.0; 20017.0,4,113.0,coalition_majority,0,87.0,regular_election,0,0,34.82,repdem_basic_2026_07
+BE,2029,Martens VI,Martens,1985-11-28,1987-10-19,20011.0; 20012.0; 20016.0; 20017.0,4,115.0,coalition_majority,0,46.0,early_election,1,0,11.534999,repdem_basic_2026_07
+BE,2030,Martens VII,Martens,1988-05-09,1991-09-29,20011.0; 20012.0; 20005.0; 20004.0; 20013.0,5,150.0,coalition_majority,0,203.0,other,0,0,34.629002,repdem_basic_2026_07
+BE,2031,Martens VIII,Martens,1991-09-29,1991-11-24,20011.0; 20012.0; 20005.0; 20004.0,4,134.0,coalition_majority,0,0.0,regular_election,0,0,34.629002,repdem_basic_2026_07
+BE,2032,Dehaene I,Dehaene,1992-03-07,1995-05-21,20011.0; 20012.0; 20005.0; 20004.0,4,120.0,coalition_majority,0,104.0,early_election,1,0,17.849001,repdem_basic_2026_07
+BE,2033,Dehaene II,Dehaene,1995-06-23,1999-06-13,20011.0; 20012.0; 20005.0; 20004.0,4,82.0,coalition_majority,0,33.0,regular_election,0,0,19.815001,repdem_basic_2026_07
+BE,2034,Verhofstadt I,Verhofstadt,1999-07-12,2003-05-05,20016.0; 20017.0; 20004.0; 20005.0; 20007.0; 20006.0,6,94.0,coalition_majority,0,29.0,other,0,0,25.319,repdem_basic_2026_07
+BE,2035,Verhofstadt II,Verhofstadt,2003-05-05,2003-05-18,20016.0; 20017.0; 20004.0; 20005.0; 20006.0,5,83.0,coalition_majority,0,0.0,regular_election,0,0,22.236,repdem_basic_2026_07
+BE,2036,Verhofstadt III,Verhofstadt,2003-07-12,2007-06-10,20016.0; 20004.0; 20005.0; 20017.0,4,97.0,coalition_majority,0,55.0,regular_election,0,0,30.014,repdem_basic_2026_07
+BE,2037,Verhofstadt IV,Verhofstadt,2007-12-21,2008-03-20,20016.0; 20011.0; 20005.0; 20017.0; 20012.0,5,101.0,caretaker,1,194.0,voluntary,0,0,45.749001,repdem_basic_2026_07
+BE,2038,Leterme I,Leterme,2008-03-20,2008-12-22,20011.0; 20016.0; 20005.0; 20017.0; 20012.0,5,101.0,coalition_majority,0,0.0,voluntary,0,0,45.749001,repdem_basic_2026_07
+BE,2039,Van Rompuy,Van Rompuy,2008-12-30,2009-11-25,20011.0; 20016.0; 20017.0; 20005.0; 20012.0,5,94.0,coalition_majority,0,8.0,voluntary,0,0,45.749001,repdem_basic_2026_07
+BE,2040,Leterme II,Leterme,2009-11-25,2010-04-26,20011.0; 20017.0; 20016.0; 20005.0; 20012.0,5,94.0,coalition_majority,0,0.0,other,0,0,45.749001,repdem_basic_2026_07
+BE,2041,Di Rupo,Di Rupo,2011-12-06,2014-05-25,20005.0; 20011.0; 20017.0; 20004.0; 20016.0; 20012.0,6,93.0,coalition_majority,0,589.0,regular_election,0,0,39.414001,repdem_basic_2026_07
+BE,2042,Michel I,Michel,2014-10-11,2018-12-09,20017.0; 20011.0; 20016.0; 20014.0,4,85.0,coalition_majority,0,139.0,other,0,0,13.796,repdem_basic_2026_07
+BE,2043,Michel II,Michel,2018-12-09,2018-12-21,20017.0; 20011.0; 20016.0,3,52.0,minority,0,0.0,other,0,0,5.1099997,repdem_basic_2026_07
+BE,2044,Wilmes I,Wilmes,2019-10-27,2020-03-17,20017.0; 20011.0; 20016.0,3,38.0,minority,0,310.0,voluntary,0,0,7.8929996,repdem_basic_2026_07
+BE,2045,Wilmes II,Wilmes,2020-03-17,2020-10-01,20017.0; 20011.0; 20016.0,3,38.0,minority,0,0.0,voluntary,0,0,7.8929996,repdem_basic_2026_07
+BE,2046,De Croo,De Croo,2020-10-01,2024-06-09,20017.0; 20011.0; 20016.0; 20005.0; 20004.0; 20006.0; 20007.0,7,88.0,coalition_majority,0,0.0,regular_election,0,0,38.380001,repdem_basic_2026_07
+BE,2047,De Wever,De Wever,2025-02-03,,20014.0; 20017.0; 20012.0; 20004.0; 20011.0,5,81.0,coalition_majority,0,239.0,in_office,0,0,,repdem_basic_2026_07
+BG,18001,Lukanov,Lukanov,1990-09-22,1990-11-29,180001.0,1,211.0,single_majority,0,97.0,other,0,0,0.0,repdem_basic_2026_07
+BG,18002,Popov,Popov,1990-12-20,1991-10-13,180001.0; 180014.0; 180008.0,3,371.0,coalition_majority,0,21.0,other,0,0,9.7779989,repdem_basic_2026_07
+BG,18003,Dimitrov,Dimitrov,1991-11-08,1992-10-28,180014.0,1,110.0,minority,0,26.0,cabinet_defeat,0,1,0.0,repdem_basic_2026_07
+BG,18004,Berov,Berov,1992-12-30,1994-09-08,180006.0; 180001.0; 180005.0,3,142.0,coalition_majority,0,63.0,early_election,1,0,19.358,repdem_basic_2026_07
+BG,18005,Indzhova,Indzhova,1994-10-17,1994-12-18,,0,,single_majority,0,39.0,other,0,0,,repdem_basic_2026_07
+BG,18006,Videnov,Videnov,1995-01-25,1996-12-28,180001.0,1,125.0,single_majority,0,38.0,early_election,1,0,0.0,repdem_basic_2026_07
+BG,18007,Sofiyanski,Sofiyanski,1997-02-12,1997-04-19,,0,,single_majority,0,46.0,other,0,0,,repdem_basic_2026_07
+BG,18008,Kostov,Kostov,1997-05-21,2001-06-17,180014.0; 180010.0,2,137.0,coalition_majority,0,32.0,regular_election,0,0,0.0,repdem_basic_2026_07
+BG,18009,Saxecoburggothski I,Saxecoburggothski,2001-07-24,2005-02-21,180011.0; 180005.0,2,141.0,coalition_majority,0,37.0,other,0,0,18.73,repdem_basic_2026_07
+BG,18010,Saxecoburggothski II,Saxecoburggothski,2005-02-23,2005-06-25,180011.0; 180005.0; 180012.0,3,129.0,coalition_majority,0,2.0,regular_election,0,0,18.73,repdem_basic_2026_07
+BG,18011,Stanishev,Stanishev,2005-08-16,2009-07-05,180001.0; 180011.0; 180005.0,3,169.0,coalition_majority,0,52.0,regular_election,0,0,21.098,repdem_basic_2026_07
+BG,18012,Borissov,Borissov,2009-07-27,2013-02-21,180013.0,1,116.0,minority,0,22.0,early_election,1,0,0.0,repdem_basic_2026_07
+BG,18013,Raykov,Raykov,2013-03-13,2013-05-12,,0,,single_majority,0,20.0,other,0,0,,repdem_basic_2026_07
+BG,18014,Oresharski,Oresharski,2013-05-29,2014-07-24,180001.0; 180005.0,2,120.0,minority,0,17.0,early_election,1,0,14.207998,repdem_basic_2026_07
+BG,18015,Bliznashki,Bliznashki,2014-08-06,2014-10-05,,0,,single_majority,0,450.0,regular_election,0,0,,repdem_basic_2026_07
+BG,18016,Borissov II,Borissov,2014-11-07,2017-01-27,180013.0; 180021.0; 180022.0,3,118.0,minority,0,33.0,early_election,1,0,5.3320003,repdem_basic_2026_07
+BG,18017,Gerdzhikov,Gerdzhikov,2017-01-27,2017-05-04,,0,,single_majority,0,0.0,other,0,0,,repdem_basic_2026_07
+BG,18018,Borissov IIII,Borissov,2017-05-04,2021-04-04,180013.0; 180020.0,2,116.0,minority,0,0.0,early_election,1,0,16.764,repdem_basic_2026_07
+BG,18019,Yanev I,Yanev,2021-05-12,2021-07-11,,0,0.0,single_majority,0,38.0,other,0,0,,repdem_basic_2026_07
+BG,18020,Yanev II,Yanev,2021-09-15,2021-11-21,,0,0.0,single_majority,0,66.0,other,0,0,,repdem_basic_2026_07
+BG,18021,Petkov,Petkov,2021-12-13,2022-08-02,180027.0; 180001.0; 180023.0; 180024.0,4,134.0,coalition_majority,0,22.0,cabinet_defeat,0,1,,repdem_basic_2026_07
+BG,18022,Donev I,Donev,2022-08-02,2022-10-02,,0,0.0,single_majority,0,0.0,early_election,1,0,,repdem_basic_2026_07
+BG,18023,Donev II,Donev,2023-02-02,2023-04-02,,0,0.0,single_majority,0,123.0,early_election,1,0,,repdem_basic_2026_07
+BG,18024,Denkov,Denkov,2023-06-06,2024-03-06,180027.0; 180013.0; 180024.0; 180029.0,4,133.0,coalition_majority,0,65.0,voluntary,0,0,,repdem_basic_2026_07
+BG,18025,Glavchev I,Glavchev,2024-04-09,2024-06-09,,0,0.0,single_majority,0,34.0,early_election,1,0,,repdem_basic_2026_07
+BG,18026,Glavchev II,Glavchev,2024-08-27,2024-10-27,,0,0.0,single_majority,0,79.0,early_election,1,0,,repdem_basic_2026_07
+BG,18027,Zhelyazkov,Zhelyazkov,2025-01-16,2025-12-11,180013.0; 180001.0; 180023.0,3,107.0,minority,0,81.0,voluntary,0,0,,repdem_basic_2026_07
+BG,18028,Gyurov,Gyurov,2026-02-19,2026-04-19,,0,,single_majority,0,70.0,early_election,1,0,,repdem_basic_2026_07
+BG,18029,Radev,Radev,2026-05-08,,180035.0,1,131.0,single_majority,0,19.0,in_office,0,0,,repdem_basic_2026_07
+CH,pg1456,Bundesrat 1902,,1902-12-11,1905-10-29,DG; FDP-PRD; KK/CVP; LPS; SP-PS,5,,collegial_all_party,0,,unknown,,,,parlgov_2024+manual
+CH,pg1457,Bundesrat 1905,,1905-10-29,1908-10-25,DG; FDP-PRD; KK/CVP; LPS; SP-PS,5,,collegial_all_party,0,,unknown,,,,parlgov_2024+manual
+CH,pg1458,Bundesrat 1908,,1908-10-25,1911-12-14,DG; FDP-PRD; KK/CVP; LPS; SP-PS,5,,collegial_all_party,0,,unknown,,,,parlgov_2024+manual
+CH,pg1459,Bundesrat 1911,,1911-12-14,1914-10-25,DG; FDP-PRD; KK/CVP; LPS; SP-PS; etc,6,,collegial_all_party,0,,unknown,,,,parlgov_2024+manual
+CH,pg1465,Bundesrat 1914,,1914-10-25,1917-06-26,DG; FDP-PRD; KK/CVP; LPS; SP-PS; etc,6,,collegial_all_party,0,,unknown,,,,parlgov_2024+manual
+CH,pg1463,Bundesrat 1917 I,,1917-06-26,1917-12-13,DG; FDP-PRD; KK/CVP; LPS; SP-PS; etc,6,,collegial_all_party,0,,unknown,,,,parlgov_2024+manual
+CH,pg1464,Bundesrat 1917 II,,1917-12-13,1919-12-11,DG; FDP-PRD; KK/CVP; LPS; SP-PS; etc,6,,collegial_all_party,0,,unknown,,,,parlgov_2024+manual
+CH,pg981,Bundesrat 1919,,1919-12-11,1922-12-14,DG; EVP-PEP; FDP-PRD; GV; KK/CVP; LPS; SP-PS; SVP-UDC; one-seat,9,,collegial_all_party,0,,unknown,,,,parlgov_2024+manual
+CH,pg980,Bundesrat 1922,,1922-12-14,1925-12-17,DG; EVP-PEP; FDP-PRD; KK/CVP; LPS; PdA; SP-PS; SVP-UDC; one-seat,9,,collegial_all_party,0,,unknown,,,,parlgov_2024+manual
+CH,pg979,Bundesrat 1925,,1925-12-17,1928-12-13,DG; EVP-PEP; FDP-PRD; KK/CVP; LPS; PdA; SP-PS; SVP-UDC; UDE,9,,collegial_all_party,0,,unknown,,,,parlgov_2024+manual
+CH,pg977,Bundesrat 1928,,1928-12-13,1929-12-12,DG; EVP-PEP; FDP-PRD; KK/CVP; LPS; PdA; SP-PS; SVP-UDC; UDE,9,,collegial_all_party,0,,unknown,,,,parlgov_2024+manual
+CH,pg978,Bundesrat 1929,,1929-12-12,1931-12-17,DG; EVP-PEP; FDP-PRD; KK/CVP; LPS; PdA; SP-PS; SVP-UDC; UDE,9,,collegial_all_party,0,,unknown,,,,parlgov_2024+manual
+CH,pg976,Bundesrat 1931,,1931-12-17,1934-03-22,DG; EVP-PEP; FDP-PRD; KK/CVP; LPS; PdA; SP-PS; SVP-UDC; one-seat,9,,collegial_all_party,0,,unknown,,,,parlgov_2024+manual
+CH,pg975,Bundesrat 1934,,1934-03-22,1935-12-11,DG; EVP-PEP; FDP-PRD; KK/CVP; LPS; PdA; SP-PS; SVP-UDC; one-seat,9,,collegial_all_party,0,,unknown,,,,parlgov_2024+manual
+CH,pg974,Bundesrat 1935,,1935-12-11,1939-12-13,BHB; DG; EVP-PEP; FDP-PRD; KK/CVP; LPS; LdU-ADI; PdA; SP-PS; SVP-UDC; one-seat,11,,collegial_all_party,0,,unknown,,,,parlgov_2024+manual
+CH,pg973,Bundesrat 1939,,1939-12-13,1943-12-15,BHB; DG; FDP-PRD; KK/CVP; LF/PEB; LPS; LdU-ADI; PdA; SP-PS; SVP-UDC,10,,collegial_all_party,0,,unknown,,,,parlgov_2024+manual
+CH,pg972,Bundesrat 1943,,1943-12-15,1947-12-11,BHB; DG; EVP-PEP; FDP-PRD; KK/CVP; LPS; LdU-ADI; SP-PS; SVP-UDC; one-seat,10,,collegial_all_party,0,,unknown,,,,parlgov_2024+manual
+CH,pg556,Bundesrat 1947,,1947-12-11,1951-12-13,DG; EVP-PEP; FDP-PRD; KK/CVP; LF/PEB; LPS; LdU-ADI; PdA; SP-PS; SVP-UDC,10,,collegial_all_party,0,,unknown,,,,parlgov_2024+manual
+CH,pg814,Bundesrat 1951,,1951-12-13,1955-12-15,DG; EVP-PEP; FDP-PRD; KK/CVP; LPS; LdU-ADI; PdA; SP-PS; SVP-UDC,9,,collegial_all_party,0,,unknown,,,,parlgov_2024+manual
+CH,pg635,Bundesrat 1955,,1955-12-15,1959-12-17,DG; EVP-PEP; FDP-PRD; KK/CVP; LPS; LdU-ADI; PdA; SP-PS; SVP-UDC,9,,collegial_all_party,0,,unknown,,,,parlgov_2024+manual
+CH,pg623,Bundesrat 1959,,1959-12-17,1963-12-12,DG; EVP-PEP; FDP-PRD; KK/CVP; LPS; LdU-ADI; PdA; SP-PS; SVP-UDC,9,,collegial_all_party,0,,unknown,,,,parlgov_2024+manual
+CH,pg513,Bundesrat 1963,,1963-12-12,1967-12-14,DG; EVP-PEP; FDP-PRD; KK/CVP; LPS; LdU-ADI; PdA; SP-PS; SVP-UDC,9,,collegial_all_party,0,,unknown,,,,parlgov_2024+manual
+CH,pg777,Bundesrat 1967,,1967-12-14,1971-12-08,DG; EVP-PEP; FDP-PRD; KK/CVP; LPS; LdU-ADI; NA|SD; PdA; SP-PS; SVP-UDC; one-seat,11,,collegial_all_party,0,,unknown,,,,parlgov_2024+manual
+CH,pg79,Bundesrat 1971,,1971-12-08,1975-12-10,EVP-PEP; FDP-PRD; KK/CVP; LPS; LdU-ADI; NA|SD; PdA; RB; SP-PS; SVP-UDC,10,,collegial_all_party,0,,unknown,,,,parlgov_2024+manual
+CH,pg20,Bundesrat 1975,,1975-12-10,1979-12-05,EVP-PEP; FDP-PRD; KK/CVP; LPS; LdU-ADI; NA|SD; PSA; PdA; RB; SP-PS; SVP-UDC,11,,collegial_all_party,0,,unknown,,,,parlgov_2024+manual
+CH,pg723,Bundesrat 1979,,1979-12-05,1983-12-07,EJ; EVP-PEP; FDP-PRD; Grue; KK/CVP; LPS; LdU-ADI; NA|SD; POCH; PSA; PdA; RB; SP-PS; SVP-UDC; one-seat,15,,collegial_all_party,0,,unknown,,,,parlgov_2024+manual
+CH,pg129,Bundesrat 1983,,1983-12-07,1987-12-09,EVP-PEP; FDP-PRD; Grue; KHM; KK/CVP; LPS; LdU-ADI; NA|SD; POCH; PSA; PdA; RB; SP-PS; SVP-UDC; one-seat,15,,collegial_all_party,0,,unknown,,,,parlgov_2024+manual
+CH,pg426,Bundesrat 1987,,1987-12-09,1991-12-04,EVP-PEP; FDP-PRD; FGr-ASF; FPS; Grue; KHM; KK/CVP; LPS; LdU-ADI; NA|SD; POCH; PSA; PdA; SP-PS; SVP-UDC,15,,collegial_all_party,0,,unknown,,,,parlgov_2024+manual
+CH,pg773,Bundesrat 1991,,1991-12-04,1995-12-13,CsP-PCS; EDU-UDF; EJ; EVP-PEP; FDP-PRD; FGr-ASF; FPS; Grue; KHM; KK/CVP; LPS; LdT; LdU-ADI; NA|SD; PSA; PdA; SP-PS; SVP-UDC,18,,collegial_all_party,0,,unknown,,,,parlgov_2024+manual
+CH,pg38,Bundesrat 1995,,1995-12-13,1999-12-15,CsP-PCS; EDU-UDF; EVP-PEP; FDP-PRD; FGr-ASF; FPS; Grue; KK/CVP; LPS; LdT; LdU-ADI; NA|SD; PdA; SP-PS; SVP-UDC,15,,collegial_all_party,0,,unknown,,,,parlgov_2024+manual
+CH,pg198,Bundesrat 1999,,1999-12-15,2003-12-10,CsP-PCS; EDU-UDF; EVP-PEP; FDP-PRD; FGr-ASF; Grue; KK/CVP; LPS; LdT; LdU-ADI; NA|SD; PdA; S; SP-PS; SVP-UDC,15,,collegial_all_party,0,,unknown,,,,parlgov_2024+manual
+CH,pg855,Bundesrat 2003,,2003-12-10,2007-12-12,CsP-PCS; EDU-UDF; EVP-PEP; FDP-PRD; FGr-ASF; Grue; KK/CVP; LPS; LdT; NA|SD; PdA; S; SP-PS; SVP-UDC,14,,collegial_all_party,0,,unknown,,,,parlgov_2024+manual
+CH,pg508,Bundesrat 2007,,2007-12-12,2008-12-10,CsP-PCS; EDU-UDF; EVP-PEP; FDP-PRD; GPL-PVL; Grue; KK/CVP; LPS; LdT; PdA; SP-PS; SVP-UDC,12,,collegial_all_party,0,,unknown,,,,parlgov_2024+manual
+CH,pg903,Bundesrat 2008,,2008-12-10,2011-12-14,BDP; CsP-PCS; EDU-UDF; EVP-PEP; FDP-PRD; GPL-PVL; Grue; KK/CVP; LPS; LdT; PdA; SP-PS; SVP-UDC,13,,collegial_all_party,0,,unknown,,,,parlgov_2024+manual
+CH,pg989,Bundesrat 2011,,2011-12-14,2015-12-09,BDP; EVP-PEP; FDP-PRD; GPL-PVL; Grue; KK/CVP; LdT; MCR; SP-PS; SVP-UDC; one-seat,11,,collegial_all_party,0,,unknown,,,,parlgov_2024+manual
+CH,pg1212,Bundesrat 2015,,2015-12-09,2019-12-11,BDP; EVP-PEP; FDP-PRD; GPL-PVL; Grue; KK/CVP; LdT; MCR; PdA; SP-PS; SVP-UDC; etc,12,,collegial_all_party,0,,unknown,,,,parlgov_2024+manual
+CH,pg1612,Bundesrat 2019,,2019-12-11,2023-12-13,BDP; EDU-UDF; EVP-PEP; FDP-PRD; GPL-PVL; Grue; KK/CVP; LdT; PdA; S; SP-PS; SVP-UDC,12,,collegial_all_party,0,,unknown,,,,parlgov_2024+manual
+CH,manual_CH_2023-12-13,Bundesrat 2023,,2023-12-13,,,1,,collegial_all_party,0,,unknown,,,,parlgov_2024+manual
+CY,pg1478,Mouskos,Mouskos,1976-09-05,1977-08-31,AKEL; DIKO; EDEK; none,4,,unknown,0,,unknown,,,,parlgov_2024+manual
+CY,pg166,Kyprianou I,Kyprianou,1977-08-31,1978-03-08,AKEL; DIKO; EDEK; none,4,,caretaker,1,,unknown,,,,parlgov_2024+manual
+CY,pg210,Kyprianou II,Kyprianou,1978-03-08,1981-05-24,AKEL; DIKO; EDEK; none,4,,unknown,0,,unknown,,,,parlgov_2024+manual
+CY,pg914,Kyprianou III,Kyprianou,1981-05-24,1983-02-28,AKEL; DIKO; DISY; EDEK,4,,unknown,0,,unknown,,,,parlgov_2024+manual
+CY,pg313,Kyprianou IV,Kyprianou,1983-02-28,1985-12-08,AKEL; DIKO; DISY; EDEK,4,,unknown,0,,unknown,,,,parlgov_2024+manual
+CY,pg913,Kyprianou V,Kyprianou,1985-12-08,1988-02-28,AKEL; DIKO; DISY; EDEK,4,,unknown,0,,unknown,,,,parlgov_2024+manual
+CY,pg784,Vassiliou I,Vassiliou,1988-02-28,1991-05-19,AKEL; DIKO; DISY; EDEK; none,5,,unknown,0,,unknown,,,,parlgov_2024+manual
+CY,pg912,Vassiliou II,Vassiliou,1991-05-19,1993-02-28,AKEL; DIKO; DISY; EDEK; none,5,,unknown,0,,unknown,,,,parlgov_2024+manual
+CY,pg645,Clerides I,Clerides,1993-02-28,1996-05-26,AKEL; DIKO; DISY; EDEK; Greek,5,,unknown,0,,unknown,,,,parlgov_2024+manual
+CY,pg911,Clerides II,Clerides,1996-05-26,1998-02-28,AKEL; DIKO; DISY; ED; EDEK; Greek,6,,unknown,0,,unknown,,,,parlgov_2024+manual
+CY,pg731,Clerides III,Clerides,1998-02-28,2001-05-27,AKEL; DIKO; DISY; ED; EDEK; LP,6,,unknown,0,,unknown,,,,parlgov_2024+manual
+CY,pg910,Clerides IV,Clerides,2001-05-27,2003-02-28,ADK; AKEL; DIKO; DISY; ED; EDEK; KOP; LP; NO,9,,unknown,0,,unknown,,,,parlgov_2024+manual
+CY,pg342,Papadopoulos I,Papadopoulos,2003-02-28,2006-05-21,ADK; AKEL; DIKO; DISY; ED; EDEK; KOP; NO,8,,unknown,0,,unknown,,,,parlgov_2024+manual
+CY,pg909,Papadopoulos II,Papadopoulos,2006-05-21,2008-02-28,AKEL; DIKO; DISY; EDEK; EK; KOP,6,,unknown,0,,unknown,,,,parlgov_2024+manual
+CY,pg289,Christofias I,Christofias,2008-02-28,2010-03-02,AKEL; DIKO; DISY; EDEK; EK; KOP,6,,unknown,0,,unknown,,,,parlgov_2024+manual
+CY,pg908,Christofias II,Christofias,2010-03-02,2011-05-22,AKEL; DIKO; DISY; EDEK; EK; KOP,6,,unknown,0,,unknown,,,,parlgov_2024+manual
+CY,pg921,Christofias III,Christofias,2011-05-22,2011-08-05,AKEL; DIKO; DISY; EDEK; EK; KOP,6,,unknown,0,,unknown,,,,parlgov_2024+manual
+CY,pg920,Christofias IV,Christofias,2011-08-05,2013-02-28,AKEL; DIKO; DISY; EDEK; EK; KOP,6,,unknown,0,,unknown,,,,parlgov_2024+manual
+CY,pg1064,Anastasiades I,Anastasiades,2013-02-28,2014-03-14,AKEL; DIKO; DISY; EDEK; EK; KOP,6,,unknown,0,,unknown,,,,parlgov_2024+manual
+CY,pg1086,Anastasiades II,Anastasiades,2014-03-14,2016-05-22,AKEL; DIKO; DISY; EDEK; EK; KOP,6,,unknown,0,,unknown,,,,parlgov_2024+manual
+CY,pg1492,Anastasiades III,Anastasiades,2016-05-22,2018-03-01,AKEL; DIKO; DISY; EDEK; EK; ELAM; KINHMA; KOP; SYM,9,,unknown,0,,unknown,,,,parlgov_2024+manual
+CY,pg1628,Anastasiades IV,Anastasiades,2018-03-01,2021-05-30,AKEL; DIKO; DISY; EDEK; ELAM; KINHMA; KOP; SYM,8,,unknown,0,,unknown,,,,parlgov_2024+manual
+CY,pg1659,Anastasiades V,Anastasiades,2021-05-30,2023-03-01,AKEL; DIKO; DISY; DP; EDEK; ELAM; KOP,7,,unknown,0,,unknown,,,,parlgov_2024+manual
+CY,manual_CY_2023-03-01,Christodoulides I,Christodoulides,2023-03-01,,,1,,unknown,0,,unknown,,,,parlgov_2024+manual
+CZ,20001,Klaus I,Klaus,1992-07-02,1996-06-01,200015.0; 200011.0; 200013.0; 200012.0,4,105.0,coalition_majority,0,26.0,regular_election,0,0,39.772999,repdem_basic_2026_07
+CZ,20002,Klaus II,Klaus,1996-07-04,1997-11-30,200015.0; 200011.0; 200013.0,3,99.0,minority,0,33.0,other,0,0,17.717001,repdem_basic_2026_07
+CZ,20003,Tošovský,Tošovský,1998-01-02,1998-06-20,200011.0; 200014.0; 200013.0,3,62.0,minority,0,33.0,early_election,1,0,,repdem_basic_2026_07
+CZ,20004,Zeman,Zeman,1998-07-22,2002-06-15,200002.0,1,74.0,minority,0,32.0,regular_election,0,0,0.0,repdem_basic_2026_07
+CZ,20005,Špidla,Špidla,2002-07-15,2004-07-01,200002.0; 200011.0; 200014.0,3,101.0,coalition_majority,0,30.0,other,0,0,,repdem_basic_2026_07
+CZ,20006,Gross I,Gross,2004-08-04,2005-03-30,200002.0; 200011.0; 200014.0,3,101.0,coalition_majority,0,34.0,other,0,0,,repdem_basic_2026_07
+CZ,20007,Gross II,Gross,2005-03-30,2005-04-25,200002.0; 200014.0,2,80.0,minority,0,0.0,other,0,0,18.464001,repdem_basic_2026_07
+CZ,20008,Paroubek,Paroubek,2005-04-25,2006-06-03,200002.0; 200011.0; 200014.0,3,101.0,coalition_majority,0,0.0,regular_election,0,0,,repdem_basic_2026_07
+CZ,20009,Topolánek I,Topolánek,2006-09-04,2006-10-03,200015.0,1,81.0,minority,0,93.0,cabinet_defeat,0,1,0.0,repdem_basic_2026_07
+CZ,20010,Topolánek II,Topolánek,2007-01-09,2009-03-24,200015.0; 200011.0; 200007.0,3,100.0,minority,0,98.0,cabinet_defeat,0,1,25.528999,repdem_basic_2026_07
+CZ,20011,Fischer,Fischer,2009-05-08,2010-05-29,200002.0; 200015.0; 200007.0,3,153.0,coalition_majority,0,45.0,regular_election,0,0,33.371002,repdem_basic_2026_07
+CZ,20012,Nečas I,Nečas,2010-07-13,2012-04-26,200015.0; 200016.0; 200008.0,3,118.0,coalition_majority,0,45.0,other,0,0,10.36,repdem_basic_2026_07
+CZ,20013,Nečas II,Nečas,2012-04-27,2013-06-17,200015.0; 200016.0; 200009.0,3,100.0,minority,0,1.0,voluntary,0,0,10.36,repdem_basic_2026_07
+CZ,20014,Rusnok,Rusnok,2013-07-10,2013-08-13,,0,0.0,single_majority,0,23.0,early_election,1,1,,repdem_basic_2026_07
+CZ,20015,Sobotka,Sobotka,2014-01-29,2017-10-20,200002.0; 200010.0; 200011.0,3,111.0,coalition_majority,0,169.0,regular_election,0,0,16.334,repdem_basic_2026_07
+CZ,20016,Babiš I,Babiš,2017-12-13,2018-01-24,200010.0,1,78.0,minority,0,54.0,cabinet_defeat,0,1,0.0,repdem_basic_2026_07
+CZ,20017,Babiš II,Babiš,2018-06-27,2021-10-09,200010.0; 200002.0,2,93.0,minority,0,154.0,regular_election,0,0,22.883999,repdem_basic_2026_07
+CZ,20018,Fiala,Fiala,2021-12-17,2024-09-30,200015.0; 200011.0; 200016.0; 200017.0; 200018.0,5,108.0,coalition_majority,0,69.0,other,0,0,,repdem_basic_2026_07
+CZ,20019,Fiala II,Fiala,2024-10-11,2025-10-04,200015.0; 200011.0; 200016.0; 200018.0,4,104.0,coalition_majority,0,11.0,regular_election,0,0,,repdem_basic_2026_07
+CZ,20020,Babiš III,Babiš,2025-12-15,,200010.0; 200019.0; 200020.0,3,108.0,coalition_majority,0,72.0,in_office,0,0,,repdem_basic_2026_07
+DE,6001,Adenauer I,Adenauer,1949-09-15,1953-09-06,60007.0; 60006.0; 60012.0,3,209.0,coalition_majority,0,32.0,regular_election,0,0,40.135998,repdem_basic_2026_07
+DE,6002,Adenauer II,Adenauer,1953-10-09,1955-07-23,60007.0; 60006.0; 60012.0; 60010.0,4,334.0,coalition_majority,0,33.0,other,0,0,14.352,repdem_basic_2026_07
+DE,6003,Adenauer III,Adenauer,1955-07-23,1956-02-25,60007.0; 60006.0; 60012.0,3,315.0,coalition_majority,0,0.0,other,0,0,14.352,repdem_basic_2026_07
+DE,6004,Adenauer IV,Adenauer,1956-02-25,1957-09-15,60007.0; 60012.0; 60011.0,3,281.0,coalition_majority,0,0.0,regular_election,0,0,,repdem_basic_2026_07
+DE,6005,Adenauer V,Adenauer,1957-10-22,1960-07-02,60007.0; 60012.0,2,287.0,coalition_majority,0,37.0,other,0,0,70.0,repdem_basic_2026_07
+DE,6006,Adenauer VI,Adenauer,1960-07-02,1961-09-17,60007.0,1,271.0,single_majority,0,0.0,regular_election,0,0,0.0,repdem_basic_2026_07
+DE,6007,Adenauer VII,Adenauer,1961-11-07,1962-11-19,60007.0; 60006.0,2,309.0,coalition_majority,0,51.0,other,0,0,20.083,repdem_basic_2026_07
+DE,6008,Adenauer VIII,Adenauer,1962-11-19,1962-12-13,60007.0,1,241.0,minority,0,0.0,other,0,0,0.0,repdem_basic_2026_07
+DE,6009,Adenauer IX,Adenauer,1962-12-13,1963-10-16,60007.0; 60006.0,2,308.0,coalition_majority,0,0.0,other,0,0,20.083,repdem_basic_2026_07
+DE,6010,Erhard I,Erhard,1963-10-16,1965-09-19,60007.0; 60006.0,2,308.0,coalition_majority,0,0.0,regular_election,0,0,20.083,repdem_basic_2026_07
+DE,6011,Erhard II,Erhard,1965-10-20,1966-10-28,60007.0; 60006.0,2,294.0,coalition_majority,0,31.0,other,0,0,2.543,repdem_basic_2026_07
+DE,6012,Erhard III,Erhard,1966-10-28,1966-12-01,60007.0,1,245.0,minority,0,0.0,other,0,0,0.0,repdem_basic_2026_07
+DE,6013,Kiesinger,Kiesinger,1966-12-01,1969-09-28,60007.0; 60005.0,2,447.0,coalition_majority,0,0.0,regular_election,0,0,4.323,repdem_basic_2026_07
+DE,6014,Brandt I,Brandt,1969-10-21,1972-11-19,60005.0; 60006.0,2,254.0,coalition_majority,0,23.0,early_election,1,1,8.2319994,repdem_basic_2026_07
+DE,6015,Brandt II,Brandt,1972-12-14,1974-05-16,60005.0; 60006.0,2,271.0,coalition_majority,0,25.0,other,0,0,41.367001,repdem_basic_2026_07
+DE,6016,Schmidt I,Schmidt,1974-05-16,1976-10-03,60005.0; 60006.0,2,271.0,coalition_majority,0,0.0,regular_election,0,0,41.367001,repdem_basic_2026_07
+DE,6017,Schmidt II,Schmidt,1976-12-15,1980-10-05,60005.0; 60006.0,2,253.0,coalition_majority,0,73.0,regular_election,0,0,15.26,repdem_basic_2026_07
+DE,6018,Schmidt III,Schmidt,1980-11-05,1982-09-17,60005.0; 60006.0,2,271.0,coalition_majority,0,31.0,other,0,0,13.219,repdem_basic_2026_07
+DE,6019,Schmidt IV,Schmidt,1982-09-17,1982-10-01,60005.0,1,215.0,minority,0,0.0,cabinet_defeat,0,1,0.0,repdem_basic_2026_07
+DE,6020,Kohl I,Kohl,1982-10-01,1983-03-06,60007.0; 60006.0,2,279.0,coalition_majority,0,0.0,early_election,1,0,28.344,repdem_basic_2026_07
+DE,6021,Kohl II,Kohl,1983-03-29,1987-01-25,60007.0; 60006.0,2,278.0,coalition_majority,0,23.0,regular_election,0,0,25.927,repdem_basic_2026_07
+DE,6022,Kohl III,Kohl,1987-03-11,1990-10-30,60007.0; 60006.0,2,269.0,coalition_majority,0,45.0,other,0,0,1.3299999,repdem_basic_2026_07
+DE,6023,Kohl IV,Kohl,1990-10-30,1990-12-02,60007.0; 60006.0; 60008.0,2,354.0,coalition_majority,0,0.0,regular_election,0,0,1.3299999,repdem_basic_2026_07
+DE,6024,Kohl V,Kohl,1991-01-17,1994-10-16,60007.0; 60006.0,2,398.0,coalition_majority,0,46.0,regular_election,0,0,11.76,repdem_basic_2026_07
+DE,6025,Kohl VI,Kohl,1994-11-15,1998-09-27,60007.0; 60006.0,2,341.0,coalition_majority,0,30.0,regular_election,0,0,25.155001,repdem_basic_2026_07
+DE,6026,Schröder I,Schröder,1998-10-27,2002-09-22,60005.0; 60003.0,2,345.0,coalition_majority,0,30.0,regular_election,0,0,14.653001,repdem_basic_2026_07
+DE,6027,Schröder II,Schröder,2002-10-22,2005-09-18,60005.0; 60003.0,2,306.0,coalition_majority,0,30.0,early_election,1,1,17.533001,repdem_basic_2026_07
+DE,6028,Merkel I,Merkel,2005-11-22,2009-09-27,60007.0; 60005.0,2,448.0,coalition_majority,0,65.0,regular_election,0,0,27.764999,repdem_basic_2026_07
+DE,6029,Merkel II,Merkel,2009-10-28,2013-09-22,60007.0; 60006.0,2,332.0,coalition_majority,0,31.0,regular_election,0,0,4.4520001,repdem_basic_2026_07
+DE,6030,Merkel III,Merkel,2013-12-17,2017-09-24,60007.0; 60005.0,2,504.0,coalition_majority,0,86.0,regular_election,0,0,26.132,repdem_basic_2026_07
+DE,6031,Merkel IV,Merkel,2018-03-14,2021-09-26,60007.0; 60005.0,2,399.0,coalition_majority,0,171.0,regular_election,0,0,24.209999,repdem_basic_2026_07
+DE,6032,Scholz,Scholz,2021-12-08,2024-12-16,60005.0; 60003.0; 60006.0,3,416.0,coalition_majority,0,73.0,cabinet_defeat,0,1,24.939001,repdem_basic_2026_07
+DE,6033,Merz,Merz,2025-05-06,,60007.0; 60005.0,2,328.0,coalition_majority,0,141.0,in_office,0,0,32.289001,repdem_basic_2026_07
+DK,3001,Kristensen,Kristensen,1945-11-07,1947-10-28,30013.0,1,38.0,minority,0,8.0,early_election,1,1,0.0,repdem_basic_2026_07
+DK,3002,Hedtoft I,Hedtoft,1947-11-13,1950-09-05,30006.0,1,58.0,minority,0,16.0,early_election,1,0,0.0,repdem_basic_2026_07
+DK,3003,Hedtoft II,Hedtoft,1950-09-16,1950-10-26,30006.0,1,60.0,minority,0,11.0,cabinet_defeat,0,1,0.0,repdem_basic_2026_07
+DK,3004,Eriksen I,Eriksen,1950-10-30,1953-04-21,30013.0; 30012.0,2,60.0,minority,0,4.0,other,0,0,18.200001,repdem_basic_2026_07
+DK,3005,Eriksen II,Eriksen,1953-04-21,1953-09-22,30013.0; 30012.0,2,60.0,caretaker,1,0.0,other,0,0,0.4000001,repdem_basic_2026_07
+DK,3006,Hedtoft III,Hedtoft,1953-09-30,1955-01-29,30006.0,1,75.0,minority,0,8.0,other,0,0,0.0,repdem_basic_2026_07
+DK,3007,Hansen,Hansen,1955-02-01,1957-05-14,30006.0,1,75.0,minority,0,3.0,regular_election,0,0,0.0,repdem_basic_2026_07
+DK,3008,Hansen II,Hansen,1957-05-28,1960-02-19,30006.0; 30007.0; 30008.0,3,94.0,coalition_majority,0,14.0,other,0,0,44.400002,repdem_basic_2026_07
+DK,3009,Kampmann I,Kampmann,1960-02-21,1960-11-15,30006.0; 30007.0; 30008.0,3,94.0,coalition_majority,0,2.0,early_election,1,0,44.400002,repdem_basic_2026_07
+DK,3010,Kampmann II,Kampmann,1960-11-18,1962-09-03,30006.0; 30007.0,2,88.0,minority,0,3.0,other,0,0,19.799999,repdem_basic_2026_07
+DK,3011,Krag I,Krag,1962-09-03,1964-09-22,30006.0; 30007.0,2,88.0,minority,0,0.0,regular_election,0,0,19.799999,repdem_basic_2026_07
+DK,3012,Krag II,Krag,1964-09-26,1966-11-22,30006.0,1,77.0,minority,0,4.0,early_election,1,0,0.0,repdem_basic_2026_07
+DK,3013,Krag III,Krag,1966-11-22,1968-01-23,30006.0,1,70.0,minority,0,0.0,early_election,1,1,0.0,repdem_basic_2026_07
+DK,3014,Baunsgaard,Baunsgaard,1968-02-22,1971-09-21,30007.0; 30012.0; 30013.0,3,98.0,coalition_majority,0,30.0,early_election,1,0,27.799999,repdem_basic_2026_07
+DK,3015,Krag IV,Krag,1971-10-11,1972-10-05,30006.0,1,71.0,minority,0,20.0,other,0,0,0.0,repdem_basic_2026_07
+DK,3016,Jorgensen I,Jorgensen,1972-10-05,1973-12-04,30006.0,1,71.0,minority,0,0.0,early_election,1,1,0.0,repdem_basic_2026_07
+DK,3017,Hartling,Hartling,1973-12-19,1975-01-09,30013.0,1,22.0,minority,0,15.0,early_election,1,1,0.0,repdem_basic_2026_07
+DK,3018,Jorgensen II,Jorgensen,1975-02-13,1977-02-15,30006.0,1,54.0,minority,0,35.0,early_election,1,0,0.0,repdem_basic_2026_07
+DK,3019,Jorgensen III,Jorgensen,1977-02-15,1978-08-30,30006.0,1,66.0,minority,0,0.0,other,0,0,0.0,repdem_basic_2026_07
+DK,3020,Jorgensen IV,Jorgensen,1978-08-30,1979-10-23,30006.0; 30013.0,2,88.0,minority,0,0.0,early_election,1,0,33.299999,repdem_basic_2026_07
+DK,3021,Jorgensen V,Jorgensen,1979-10-26,1981-12-08,30006.0,1,69.0,minority,0,3.0,early_election,1,1,0.0,repdem_basic_2026_07
+DK,3022,Jorgensen VI,Jorgensen,1981-12-30,1982-09-03,30006.0,1,60.0,minority,0,22.0,cabinet_defeat,0,1,0.0,repdem_basic_2026_07
+DK,3023,Schlüter I,Schlüter,1982-09-10,1984-01-10,30012.0; 30013.0; 30010.0; 30011.0,4,66.0,minority,0,7.0,early_election,1,1,36.300003,repdem_basic_2026_07
+DK,3024,Schlüter II,Schlüter,1984-01-10,1987-09-08,30012.0; 30013.0; 30010.0; 30011.0,4,78.0,minority,0,0.0,early_election,1,0,23.431002,repdem_basic_2026_07
+DK,3025,Schlüter III,Schlüter,1987-09-10,1988-05-10,30012.0; 30013.0; 30010.0; 30011.0,4,70.0,minority,0,2.0,early_election,1,1,24.731001,repdem_basic_2026_07
+DK,3026,Schlüter IV,Schlüter,1988-06-03,1990-12-12,30012.0; 30013.0; 30007.0,3,68.0,minority,0,24.0,early_election,1,0,50.542999,repdem_basic_2026_07
+DK,3027,Schlüter V,Schlüter,1990-12-18,1993-01-15,30012.0; 30013.0,2,60.0,minority,0,6.0,cabinet_defeat,0,1,0.03600025,repdem_basic_2026_07
+DK,3028,Nyrup Rasmussen I,Nyrup Rasmussen,1993-01-25,1994-09-21,30006.0; 30007.0; 30010.0; 30011.0,4,89.0,minority,0,10.0,regular_election,0,0,50.299,repdem_basic_2026_07
+DK,3029,Nyrup Rasmussen II,Nyrup Rasmussen,1994-09-27,1996-12-30,30006.0; 30007.0; 30010.0,3,76.0,minority,0,6.0,other,0,0,9.8940001,repdem_basic_2026_07
+DK,3030,Nyrup Rasmussen III,Nyrup Rasmussen,1996-12-30,1998-03-11,30006.0; 30007.0,2,71.0,minority,0,0.0,early_election,1,0,0.46999979,repdem_basic_2026_07
+DK,3031,Nyrup Rasmussen IV,Nyrup Rasmussen,1998-03-11,2001-11-20,30006.0; 30007.0,2,71.0,minority,0,0.0,regular_election,0,0,4.4130001,repdem_basic_2026_07
+DK,3032,Fogh Rasmussen I,Fogh Rasmussen,2001-11-27,2005-02-08,30013.0; 30012.0,2,73.0,minority,0,7.0,early_election,1,0,15.861998,repdem_basic_2026_07
+DK,3033,Fogh Rasmussen II,Fogh Rasmussen,2005-02-08,2007-11-13,30013.0; 30012.0,2,71.0,minority,0,0.0,early_election,1,0,12.085999,repdem_basic_2026_07
+DK,3034,Fogh Rasmussen III,Fogh Rasmussen,2007-11-13,2009-04-05,30013.0; 30012.0,2,65.0,minority,0,0.0,other,0,0,10.377999,repdem_basic_2026_07
+DK,3035,Løkke Rasmussen I,Løkke Rasmussen,2009-04-05,2011-09-15,30013.0; 30012.0,2,65.0,minority,0,0.0,regular_election,0,0,10.377999,repdem_basic_2026_07
+DK,3036,Thorning-Schmidt I,Thorning-Schmidt,2011-10-03,2014-02-03,30006.0; 30005.0; 30007.0,3,77.0,minority,0,18.0,other,0,0,44.631001,repdem_basic_2026_07
+DK,3037,Thorning-Schmidt II,Thorning-Schmidt,2014-02-03,2015-06-18,30006.0; 30007.0,2,64.0,minority,0,0.0,regular_election,0,0,5.7219996,repdem_basic_2026_07
+DK,3038,Løkke Rasmussen II,Løkke Rasmussen,2015-06-28,2016-11-28,30013.0,1,34.0,minority,0,10.0,other,0,0,0.0,repdem_basic_2026_07
+DK,3039,Løkke Rasmussen III,Løkke Rasmussen,2016-11-28,2019-06-05,30013.0; 30017.0; 30012.0,3,53.0,minority,0,0.0,regular_election,0,0,42.178001,repdem_basic_2026_07
+DK,3040,Frederiksen I,Frederiksen,2019-06-27,2022-11-01,30006.0,1,48.0,minority,0,22.0,early_election,1,0,0.0,repdem_basic_2026_07
+DK,3041,Frederiksen II,Frederiksen,2022-12-15,2026-03-24,30006.0; 30013.0; 30020.0,3,89.0,minority,0,44.0,regular_election,0,0,,repdem_basic_2026_07
+DK,3042,Frederiksen III,Frederiksen,2026-06-03,,30006.0; 30005.0; 30020.0; 30007.0,4,83.0,minority,0,71.0,in_office,0,0,,repdem_basic_2026_07
+EE,21001,Laar I,Laar,1992-10-21,1994-09-26,210015.0; 210007.0; 210016.0,3,53.0,coalition_majority,0,31.0,cabinet_defeat,0,1,24.729,repdem_basic_2026_07
+EE,21002,Tarand,Tarand,1994-11-08,1995-03-05,210007.0; 210015.0; 210016.0; 210021.0; 210022.0,5,47.0,minority,0,43.0,regular_election,0,0,,repdem_basic_2026_07
+EE,21003,Vähi I,Vähi,1995-04-17,1995-10-12,210018.0; 210005.0; 210010.0; 210003.0; 210002.0,5,57.0,coalition_majority,0,43.0,other,0,0,21.02,repdem_basic_2026_07
+EE,21004,Vähi II,Vähi,1995-11-06,1996-11-20,210018.0; 210022.0; 210003.0; 210010.0; 210002.0,5,60.0,coalition_majority,0,25.0,other,0,0,6.9850001,repdem_basic_2026_07
+EE,21005,Vähi III,Vähi,1996-12-02,1997-02-25,210018.0; 210003.0; 210010.0; 210004.0; 210002.0,5,46.0,minority,0,12.0,voluntary,0,0,21.02,repdem_basic_2026_07
+EE,21006,Siimann,Siimann,1997-03-17,1999-03-07,210018.0; 210003.0; 210010.0; 210004.0; 210002.0,5,45.0,minority,0,20.0,regular_election,0,0,21.02,repdem_basic_2026_07
+EE,21007,Laar II,Laar,1999-03-25,2002-01-08,210015.0; 210022.0; 210007.0,3,53.0,coalition_majority,0,18.0,other,0,0,32.402,repdem_basic_2026_07
+EE,21008,Kallas,Kallas,2002-01-28,2003-03-02,210022.0; 210005.0,2,46.0,minority,0,20.0,regular_election,0,0,7.6000004,repdem_basic_2026_07
+EE,21009,Parts,Parts,2003-04-10,2005-03-24,210017.0; 210022.0; 210008.0,3,60.0,coalition_majority,0,39.0,cabinet_defeat,0,1,7.1929998,repdem_basic_2026_07
+EE,21010,Ansip I,Ansip,2005-04-13,2007-03-04,210022.0; 210005.0; 210008.0,3,52.0,coalition_majority,0,20.0,regular_election,0,0,4.6059999,repdem_basic_2026_07
+EE,21011,Ansip II,Ansip,2007-04-04,2009-05-21,210022.0; 210019.0; 210007.0,3,60.0,coalition_majority,0,31.0,other,0,0,16.374001,repdem_basic_2026_07
+EE,21012,Ansip III,Ansip,2009-06-04,2011-03-06,210022.0; 210019.0,2,50.0,minority,0,14.0,regular_election,0,0,1.3330002,repdem_basic_2026_07
+EE,21013,Ansip IV,Ansip,2011-04-06,2014-03-04,210022.0; 210019.0,2,56.0,coalition_majority,0,31.0,voluntary,0,0,0.19299984,repdem_basic_2026_07
+EE,21014,Rõivas,Rõivas,2014-03-26,2015-03-01,210022.0; 210007.0,2,52.0,coalition_majority,0,22.0,regular_election,0,0,11.3,repdem_basic_2026_07
+EE,21015,Rõivas II,Rõivas,2015-04-09,2016-11-09,210022.0; 210007.0; 210019.0,3,59.0,coalition_majority,0,39.0,other,0,0,20.993999,repdem_basic_2026_07
+EE,21016,Ratas I,Ratas,2016-11-23,2019-03-03,210005.0; 210007.0; 210019.0,3,56.0,coalition_majority,0,14.0,regular_election,0,0,31.049999,repdem_basic_2026_07
+EE,21017,Ratas II,Ratas,2019-04-29,2021-01-14,210005.0; 210024.0; 210019.0,3,56.0,coalition_majority,0,57.0,voluntary,0,0,40.142002,repdem_basic_2026_07
+EE,21018,Kallas K I,Kallas K,2021-01-26,2022-07-14,210022.0; 210005.0,2,59.0,coalition_majority,0,12.0,voluntary,0,0,5.7010002,repdem_basic_2026_07
+EE,21019,Kallas K II,Kallas K,2022-07-18,2023-03-05,210022.0; 210019.0; 210007.0,3,56.0,coalition_majority,0,4.0,regular_election,0,0,31.092999,repdem_basic_2026_07
+EE,21020,Kallas K III,Kallas K,2023-04-17,2024-07-15,210022.0; 210025.0; 210007.0,3,60.0,coalition_majority,0,43.0,voluntary,0,0,,repdem_basic_2026_07
+EE,21021,Michal I,Michal,2024-07-23,2025-03-11,210022.0; 210025.0; 210007.0,3,59.0,coalition_majority,0,8.0,other,0,0,,repdem_basic_2026_07
+EE,21022,Michal II,Michal,2025-03-11,,210005.0; 210025.0,2,50.0,minority,0,0.0,in_office,0,0,,repdem_basic_2026_07
+ES,15001,Suárez II,Suárez,1977-07-05,1979-03-01,150017.0,1,166.0,minority,0,20.0,early_election,1,0,0.0,repdem_basic_2026_07
+ES,15002,Suárez III,Suárez,1979-04-06,1981-01-29,150017.0,1,168.0,minority,0,36.0,voluntary,0,0,0.0,repdem_basic_2026_07
+ES,15003,Calvo-Sotelo,Calvo-Sotelo,1981-02-27,1982-10-28,150017.0,1,165.0,minority,0,29.0,early_election,1,0,0.0,repdem_basic_2026_07
+ES,15004,González I,González,1982-12-03,1986-06-22,150008.0,1,202.0,single_majority,0,36.0,regular_election,0,0,0.0,repdem_basic_2026_07
+ES,15005,González II,González,1986-07-26,1989-10-29,150008.0,1,184.0,single_majority,0,34.0,early_election,1,0,0.0,repdem_basic_2026_07
+ES,15006,González III,González,1989-12-07,1993-06-06,150008.0,1,175.0,minority,0,39.0,early_election,1,0,0.0,repdem_basic_2026_07
+ES,15007,González IV,González,1993-07-14,1996-03-03,150008.0,1,159.0,minority,0,38.0,early_election,1,1,0.0,repdem_basic_2026_07
+ES,15008,Aznar I,Aznar,1996-05-06,2000-03-12,150019.0,1,156.0,minority,0,64.0,regular_election,0,0,0.0,repdem_basic_2026_07
+ES,15009,Aznar II,Aznar,2000-04-28,2004-03-14,150019.0,1,183.0,single_majority,0,47.0,regular_election,0,0,0.0,repdem_basic_2026_07
+ES,15010,Zapatero I,Zapatero,2004-04-18,2008-03-09,150008.0,1,164.0,minority,0,35.0,regular_election,0,0,0.0,repdem_basic_2026_07
+ES,15011,Zapatero II,Zapatero,2008-04-14,2011-11-20,150008.0,1,169.0,minority,0,36.0,early_election,1,0,0.0,repdem_basic_2026_07
+ES,15012,Rajoy I,Rajoy,2011-12-22,2015-12-20,150019.0,1,185.0,single_majority,0,32.0,regular_election,0,0,0.0,repdem_basic_2026_07
+ES,15013,Rajoy II,Rajoy,2015-12-20,2016-06-26,150019.0,1,119.0,caretaker,1,0.0,other,0,0,0.0,repdem_basic_2026_07
+ES,15014,Rajoy III,Rajoy,2016-11-04,2018-06-02,150019.0,1,134.0,minority,0,131.0,cabinet_defeat,0,1,0.0,repdem_basic_2026_07
+ES,15015,Sánchez I,Sánchez,2018-06-06,2019-04-28,150008.0,1,84.0,minority,0,4.0,early_election,1,1,0.0,repdem_basic_2026_07
+ES,15016,Sánchez II,Sánchez,2019-04-28,2019-11-10,150008.0,1,123.0,caretaker,1,0.0,early_election,1,0,0.0,repdem_basic_2026_07
+ES,15017,Sánchez III,Sánchez,2020-01-13,2023-07-23,150008.0; 150003.0; 150005.0,3,155.0,minority,0,260.0,regular_election,0,0,8.9790001,repdem_basic_2026_07
+ES,15018,Sánchez IV,Sánchez,2023-11-16,,150008.0; 150027.0,2,152.0,minority,0,116.0,in_office,0,0,,repdem_basic_2026_07
+FI,4001,Paasikivi III,Paasikivi,1945-04-17,1946-03-08,49999.0; 40003.0; 40001.0; 40005.0; 40008.0,4,157.0,coalition_majority,0,31.0,other,0,0,121.87399,repdem_basic_2026_07
+FI,4002,Pekkala,Pekkala,1946-03-26,1948-07-02,40001.0; 40005.0; 40003.0; 40010.0,4,162.0,coalition_majority,0,18.0,regular_election,0,0,121.87399,repdem_basic_2026_07
+FI,4003,Fagerholm I,Fagerholm,1948-07-29,1950-03-01,40003.0,1,54.0,minority,0,27.0,other,0,0,0.0,repdem_basic_2026_07
+FI,4004,Kekkonen I,Kekkonen,1950-03-17,1951-01-17,40005.0; 40008.0; 40010.0,3,75.0,minority,0,16.0,other,0,0,23.909,repdem_basic_2026_07
+FI,4005,Kekkonen II,Kekkonen,1951-01-17,1951-07-03,40005.0; 40003.0; 40008.0; 40010.0,4,129.0,coalition_majority,0,0.0,regular_election,0,0,23.909,repdem_basic_2026_07
+FI,4006,Kekkonen III,Kekkonen,1951-09-20,1953-06-29,40005.0; 40003.0; 40010.0,3,118.0,coalition_majority,0,79.0,other,0,0,7.9260006,repdem_basic_2026_07
+FI,4007,Kekkonen IV,Kekkonen,1953-07-09,1953-11-04,40005.0; 40010.0,2,66.0,minority,0,10.0,cabinet_defeat,0,1,7.9260006,repdem_basic_2026_07
+FI,4008,Tuomioja,Tuomioja,1953-11-17,1954-03-08,49999.0,0,0.0,caretaker,1,13.0,early_election,1,0,,repdem_basic_2026_07
+FI,4009,Törngren,Törngren,1954-05-05,1954-10-14,40010.0; 40003.0; 40005.0,3,119.0,coalition_majority,0,58.0,early_election,1,0,76.602005,repdem_basic_2026_07
+FI,4010,Kekkonen V,Kekkonen,1954-10-20,1956-01-27,40005.0; 40003.0,2,107.0,coalition_majority,0,6.0,other,0,0,76.602005,repdem_basic_2026_07
+FI,4011,Fagerholm II,Fagerholm,1956-03-03,1957-05-17,40003.0; 40005.0; 40010.0; 40008.0,4,133.0,coalition_majority,0,36.0,other,0,0,76.602005,repdem_basic_2026_07
+FI,4012,Fagerholm III,Fagerholm,1957-05-17,1957-05-22,40003.0; 40005.0; 40010.0,3,120.0,coalition_majority,0,0.0,other,0,0,76.602005,repdem_basic_2026_07
+FI,4013,Sukselainen I,Sukselainen,1957-05-27,1957-07-02,40005.0; 40010.0; 40008.0; 40008.0,3,79.0,minority,0,5.0,other,0,0,36.542999,repdem_basic_2026_07
+FI,4014,Sukselainen II,Sukselainen,1957-07-02,1957-09-02,40005.0; 40008.0,2,66.0,minority,0,0.0,other,0,0,16.195,repdem_basic_2026_07
+FI,4015,Sukselainen III,Sukselainen,1957-09-02,1957-10-18,40005.0; 40002.0; 40008.0; 40003.0,4,120.0,coalition_majority,0,0.0,cabinet_defeat,0,1,,repdem_basic_2026_07
+FI,4016,von Fieandt,von Fieandt,1957-11-29,1958-04-18,49999.0,0,0.0,caretaker,1,42.0,cabinet_defeat,0,1,,repdem_basic_2026_07
+FI,4017,Kuuskoski,Kuuskoski,1958-04-26,1958-07-07,49999.0,0,0.0,caretaker,1,8.0,regular_election,0,0,,repdem_basic_2026_07
+FI,4018,Fagerholm IV,Fagerholm,1958-08-29,1958-12-04,40003.0; 40005.0; 40011.0; 40010.0; 40008.0,5,133.0,coalition_majority,0,53.0,other,0,0,65.583,repdem_basic_2026_07
+FI,4019,Sukselainen IV,Sukselainen,1959-01-13,1961-06-28,40005.0; 40010.0,2,62.0,minority,0,40.0,early_election,1,0,9.5650005,repdem_basic_2026_07
+FI,4020,Miettunen I,Miettunen,1961-07-14,1962-02-05,40005.0,1,48.0,minority,0,16.0,early_election,1,0,0.0,repdem_basic_2026_07
+FI,4021,Karjalainen I,Karjalainen,1962-04-13,1963-10-18,40005.0; 40011.0; 40002.0; 40010.0; 40008.0,5,113.0,coalition_majority,0,67.0,other,0,0,43.814999,repdem_basic_2026_07
+FI,4022,Karjalainen II,Karjalainen,1963-10-18,1963-12-17,40005.0; 40011.0; 40010.0; 40008.0,4,111.0,coalition_majority,0,0.0,other,0,0,24.881001,repdem_basic_2026_07
+FI,4023,Lehto,Lehto,1963-12-18,1964-09-12,49999.0,0,3.0,caretaker,1,1.0,early_election,1,0,,repdem_basic_2026_07
+FI,4024,Virolainen,Virolainen,1964-09-12,1966-03-21,40005.0; 40011.0; 40010.0; 40008.0,4,112.0,coalition_majority,0,0.0,regular_election,0,0,24.881001,repdem_basic_2026_07
+FI,4025,Paasio I,Paasio,1966-05-27,1968-03-01,40003.0; 40005.0; 40001.0; 40002.0,4,145.0,coalition_majority,0,67.0,other,0,0,90.516998,repdem_basic_2026_07
+FI,4026,Koivisto I,Koivisto,1968-03-22,1970-03-16,40003.0; 40005.0; 40001.0; 40010.0; 40002.0,5,156.0,coalition_majority,0,21.0,regular_election,0,0,94.175995,repdem_basic_2026_07
+FI,4027,Aura I,Aura,1970-05-14,1970-07-15,49999.0,0,1.0,caretaker,1,59.0,other,0,0,,repdem_basic_2026_07
+FI,4028,Karjalainen III,Karjalainen,1970-07-15,1971-03-26,40005.0; 40003.0; 40001.0; 40008.0; 40010.0,5,143.0,coalition_majority,0,0.0,other,0,0,74.678001,repdem_basic_2026_07
+FI,4029,Karjalainen IV,Karjalainen,1971-03-26,1971-10-29,40005.0; 40003.0; 40008.0; 40010.0,4,107.0,coalition_majority,0,0.0,other,0,0,63.462997,repdem_basic_2026_07
+FI,4030,Aura II,Aura,1971-10-29,1972-01-03,49999.0,0,1.0,caretaker,1,0.0,early_election,1,0,,repdem_basic_2026_07
+FI,4031,Paasio II,Paasio,1972-02-23,1972-07-19,40003.0,1,55.0,minority,0,51.0,other,0,0,0.0,repdem_basic_2026_07
+FI,4032,Sorsa I,Sorsa,1972-09-04,1975-06-04,40003.0; 40005.0; 40010.0; 40008.0,4,107.0,coalition_majority,0,47.0,other,0,0,66.223999,repdem_basic_2026_07
+FI,4033,Liinamaa,Liinamaa,1975-06-13,1975-09-22,49999.0,0,0.0,caretaker,1,9.0,early_election,1,0,,repdem_basic_2026_07
+FI,4034,Miettunen II,Miettunen,1975-11-30,1976-09-17,40005.0; 40003.0; 40001.0; 40010.0; 40008.0,5,151.0,coalition_majority,0,69.0,other,0,0,50.777,repdem_basic_2026_07
+FI,4035,Miettunen III,Miettunen,1976-09-29,1977-05-11,40005.0; 40008.0; 40010.0,3,57.0,minority,0,12.0,other,0,0,48.467999,repdem_basic_2026_07
+FI,4036,Sorsa II,Sorsa,1977-05-15,1978-01-17,40003.0; 40005.0; 40001.0; 40008.0; 40010.0,5,151.0,coalition_majority,0,4.0,other,0,0,50.777,repdem_basic_2026_07
+FI,4037,Sorsa III,Sorsa,1978-03-02,1979-03-19,40003.0; 40005.0; 40001.0; 40008.0,4,142.0,coalition_majority,0,44.0,regular_election,0,0,50.777,repdem_basic_2026_07
+FI,4038,Koivisto II,Koivisto,1979-05-26,1982-01-26,40003.0; 40005.0; 40001.0; 40010.0,4,132.0,coalition_majority,0,68.0,other,0,0,46.487,repdem_basic_2026_07
+FI,4039,Sorsa IV,Sorsa,1982-02-19,1982-12-30,40003.0; 40005.0; 40001.0; 40010.0,4,133.0,coalition_majority,0,24.0,other,0,0,46.487,repdem_basic_2026_07
+FI,4040,Sorsa V,Sorsa,1982-12-31,1983-03-21,40003.0; 40005.0; 40010.0; 40008.0,4,102.0,coalition_majority,0,1.0,regular_election,0,0,46.487,repdem_basic_2026_07
+FI,4041,Sorsa VI,Sorsa,1983-05-06,1987-03-16,40003.0; 40005.0; 40007.0; 40010.0,4,123.0,coalition_majority,0,46.0,regular_election,0,0,79.977997,repdem_basic_2026_07
+FI,4042,Holkeri I,Holkeri,1987-04-30,1990-08-24,40011.0; 40003.0; 40010.0; 40007.0,4,130.0,coalition_majority,0,45.0,other,0,0,21.645002,repdem_basic_2026_07
+FI,4043,Holkeri II,Holkeri,1990-08-28,1991-03-17,40011.0; 40003.0; 40010.0,3,121.0,coalition_majority,0,4.0,regular_election,0,0,15.925001,repdem_basic_2026_07
+FI,4044,Aho I,Aho,1991-04-26,1994-06-20,40005.0; 40011.0; 40010.0; 40009.0,4,114.0,coalition_majority,0,40.0,other,0,0,12.691999,repdem_basic_2026_07
+FI,4045,Aho II,Aho,1994-06-28,1995-03-19,40005.0; 40011.0; 40010.0,3,106.0,coalition_majority,0,8.0,regular_election,0,0,8.9580002,repdem_basic_2026_07
+FI,4046,Lipponen I,Lipponen,1995-04-13,1999-03-21,40003.0; 40011.0; 40010.0; 40001.0; 40004.0,5,144.0,coalition_majority,0,25.0,regular_election,0,0,29.514,repdem_basic_2026_07
+FI,4047,Lipponen II,Lipponen,1999-04-15,2002-05-31,40003.0; 40011.0; 40010.0; 40001.0; 40004.0,5,139.0,coalition_majority,0,25.0,other,0,0,67.632004,repdem_basic_2026_07
+FI,4048,Lipponen III,Lipponen,2002-05-31,2003-03-16,40003.0; 40011.0; 40010.0; 40001.0,4,128.0,coalition_majority,0,0.0,regular_election,0,0,67.632004,repdem_basic_2026_07
+FI,4049,Jäätteenmäki,Jäätteenmäki,2003-04-17,2003-06-18,40005.0; 40003.0; 40010.0,3,116.0,coalition_majority,0,32.0,other,0,0,17.106001,repdem_basic_2026_07
+FI,4050,Vanhanen I,Vanhanen,2003-06-24,2007-03-18,40005.0; 40003.0; 40010.0,3,116.0,coalition_majority,0,6.0,regular_election,0,0,17.106001,repdem_basic_2026_07
+FI,4051,Vanhanen II,Vanhanen,2007-04-19,2010-06-18,40005.0; 40011.0; 40004.0; 40010.0,4,125.0,coalition_majority,0,32.0,voluntary,0,0,10.382,repdem_basic_2026_07
+FI,4052,Mari Kiviniemi,Mari Kiviniemi,2010-06-22,2011-04-17,40005.0; 40011.0; 40004.0; 40010.0,4,125.0,coalition_majority,0,4.0,regular_election,0,0,10.382,repdem_basic_2026_07
+FI,4053,Katainen I,Katainen,2011-06-22,2014-03-25,40011.0; 40003.0; 40010.0; 40001.0; 40004.0; 40009.0,6,125.0,coalition_majority,0,66.0,other,0,0,58.516998,repdem_basic_2026_07
+FI,4054,Katainen II,Katainen,2014-03-25,2014-06-24,40011.0; 40003.0; 40010.0; 40004.0; 40009.0,5,112.0,coalition_majority,0,0.0,voluntary,0,0,41.465,repdem_basic_2026_07
+FI,4055,Stubb I,Stubb,2014-06-24,2014-09-20,40011.0; 40003.0; 40010.0; 40004.0; 40009.0,5,112.0,coalition_majority,0,0.0,other,0,0,41.465,repdem_basic_2026_07
+FI,4056,Stubb II,Stubb,2014-09-20,2015-04-19,40011.0; 40003.0; 40010.0; 40009.0,4,102.0,coalition_majority,0,0.0,regular_election,0,0,37.141998,repdem_basic_2026_07
+FI,4057,Sipilä I,Sipilä,2015-05-29,2017-06-13,40005.0; 40011.0; 40007.0,3,124.0,coalition_majority,0,40.0,other,0,0,8.1870003,repdem_basic_2026_07
+FI,4058,Sipilä II,Sipilä,2017-06-13,2019-04-14,40005.0; 40011.0; 40006.0,3,106.0,coalition_majority,0,0.0,regular_election,0,0,8.1870003,repdem_basic_2026_07
+FI,4059,Rinne,Rinne,2019-06-06,2019-12-10,40003.0; 40005.0; 40004.0; 40010.0; 40001.0,5,116.0,coalition_majority,0,53.0,voluntary,0,0,26.821999,repdem_basic_2026_07
+FI,4060,Marin,Marin,2019-12-10,2023-04-02,40003.0; 40005.0; 40004.0; 40010.0; 40001.0,5,116.0,coalition_majority,0,0.0,regular_election,0,0,26.821999,repdem_basic_2026_07
+FI,4061,Orpo,Orpo,2023-06-20,,40011.0; 40007.0; 40010.0; 40009.0,4,108.0,coalition_majority,0,79.0,in_office,0,0,,repdem_basic_2026_07
+FR,5001,Debré,Debré,1959-01-20,1962-04-14,50010.0; 50009.0; 50008.0; 50006.0,4,427.0,coalition_majority,0,0.0,other,0,0,32.200001,repdem_basic_2026_07
+FR,5002,Pompidou I,Pompidou,1962-04-15,1962-11-25,50010.0; 50009.0; 50008.0,3,387.0,coalition_majority,0,1.0,early_election,1,1,32.200001,repdem_basic_2026_07
+FR,5003,Pompidou II,Pompidou,1962-12-06,1966-01-08,50010.0; 50009.0,2,268.0,coalition_majority,0,11.0,other,0,0,1.7999992,repdem_basic_2026_07
+FR,5004,Pompidou III,Pompidou,1966-01-08,1967-03-12,50010.0; 50009.0,2,268.0,coalition_majority,0,0.0,regular_election,0,0,1.7999992,repdem_basic_2026_07
+FR,5005,Pompidou IV,Pompidou,1967-04-07,1968-06-30,50010.0; 50009.0,2,242.0,minority,0,26.0,early_election,1,0,0.39999962,repdem_basic_2026_07
+FR,5006,Couve de Murville,Couve de Murville,1968-07-12,1969-06-20,50010.0; 50009.0,2,354.0,coalition_majority,0,12.0,other,0,0,19.9,repdem_basic_2026_07
+FR,5007,Chaban Delmas,Chaban Delmas,1969-06-22,1972-07-05,50010.0; 50009.0; 50008.0,3,387.0,coalition_majority,0,2.0,other,0,0,35.299999,repdem_basic_2026_07
+FR,5008,Messmer I,Messmer,1972-07-06,1973-03-11,50010.0; 50009.0; 50008.0,3,387.0,coalition_majority,0,1.0,regular_election,0,0,35.299999,repdem_basic_2026_07
+FR,5009,Messmer II and III,Messmer II and,1973-04-12,1974-05-27,50010.0; 50009.0; 50008.0,4,302.0,coalition_majority,0,32.0,other,0,0,52.900002,repdem_basic_2026_07
+FR,5010,Chirac I,Chirac,1974-06-08,1976-08-25,50010.0; 50009.0; 50008.0,4,302.0,coalition_majority,0,12.0,other,0,0,52.900002,repdem_basic_2026_07
+FR,5011,Barre I,Barre,1976-08-27,1977-03-29,50010.0; 50009.0; 50008.0,4,302.0,coalition_majority,0,2.0,other,0,0,52.900002,repdem_basic_2026_07
+FR,5012,Barre II,Barre,1977-04-01,1978-03-19,50010.0; 50009.0; 50008.0,4,302.0,coalition_majority,0,3.0,regular_election,0,0,52.900002,repdem_basic_2026_07
+FR,5013,Barre III,Barre,1978-04-06,1981-05-13,50010.0; 50008.0,2,277.0,coalition_majority,0,18.0,other,0,0,8.191,repdem_basic_2026_07
+FR,5014,Mauroy I,Mauroy,1981-05-22,1981-06-21,50005.0; 50006.0,2,115.0,caretaker,1,9.0,early_election,1,0,,repdem_basic_2026_07
+FR,5015,Mauroy II and III,Mauroy II and,1981-06-23,1984-07-17,50005.0; 50006.0; 50001.0,3,329.0,coalition_majority,0,2.0,other,0,0,4.5,repdem_basic_2026_07
+FR,5016,Fabius,Fabius,1984-07-23,1986-03-16,50005.0; 50006.0,2,285.0,coalition_majority,0,6.0,regular_election,0,0,0.0,repdem_basic_2026_07
+FR,5017,Chirac II,Chirac,1986-03-20,1988-05-10,50010.0; 50008.0,2,286.0,minority,0,4.0,other,0,0,29.591,repdem_basic_2026_07
+FR,5018,Rocard I,Rocard,1988-05-13,1988-06-12,50005.0; 50006.0,2,213.0,caretaker,1,3.0,early_election,1,0,,repdem_basic_2026_07
+FR,5019,Rocard II,Rocard,1988-06-28,1991-05-15,50005.0; 50006.0; 50008.0,3,316.0,coalition_majority,0,16.0,other,0,0,,repdem_basic_2026_07
+FR,5020,Cresson,Cresson,1991-05-17,1992-04-02,50005.0; 50006.0; 50004.0,2,275.0,minority,0,2.0,voluntary,0,0,,repdem_basic_2026_07
+FR,5021,Beregovoy,Beregovoy,1992-04-04,1993-03-28,50005.0; 50006.0,2,275.0,minority,0,2.0,regular_election,0,0,,repdem_basic_2026_07
+FR,5022,Balladur,Balladur,1993-03-30,1995-05-11,50010.0; 50008.0,2,472.0,coalition_majority,0,2.0,other,0,0,15.633,repdem_basic_2026_07
+FR,5023,Juppé I and II,Juppé I and,1995-05-18,1997-06-01,50010.0; 50008.0,2,472.0,coalition_majority,0,7.0,early_election,1,0,15.633,repdem_basic_2026_07
+FR,5024,Jospin,Jospin,1997-06-04,2002-05-06,50005.0; 50001.0; 50003.0; 50006.0,4,319.0,coalition_majority,0,3.0,other,0,0,,repdem_basic_2026_07
+FR,5025,Raffarin I,Raffarin,2002-05-07,2002-06-16,50010.0,2,253.0,caretaker,1,1.0,regular_election,0,0,0.0,repdem_basic_2026_07
+FR,5026,Raffarin II and III,Raffarin II and,2002-06-17,2005-05-31,50010.0,1,365.0,single_majority,0,1.0,voluntary,0,0,0.0,repdem_basic_2026_07
+FR,5027,de Villepin,de Villepin,2005-06-02,2007-05-15,50010.0,1,365.0,single_majority,0,2.0,other,0,0,0.0,repdem_basic_2026_07
+FR,5028,Fillon I,Fillon,2007-05-18,2007-06-17,50010.0,1,365.0,caretaker,1,3.0,regular_election,0,0,0.0,repdem_basic_2026_07
+FR,5029,Fillon II,Fillon,2007-06-19,2012-05-10,50010.0; 50009.0,2,343.0,coalition_majority,0,2.0,other,0,0,8.2200003,repdem_basic_2026_07
+FR,5030,Ayrault I,Ayrault,2012-05-16,2012-06-17,50005.0; 50003.0; 50006.0,3,212.0,caretaker,1,6.0,regular_election,0,0,,repdem_basic_2026_07
+FR,5031,Ayrault II,Ayrault,2012-06-21,2014-03-31,50005.0; 50003.0; 50006.0,3,311.0,coalition_majority,0,4.0,voluntary,0,0,3.3959999,repdem_basic_2026_07
+FR,5032,Valls I,Valls,2014-04-09,2014-08-25,50005.0; 50006.0,2,294.0,coalition_majority,0,9.0,other,0,0,3.0979996,repdem_basic_2026_07
+FR,5033,Valls II,Valls,2014-08-26,2016-02-11,50005.0; 50006.0,2,294.0,coalition_majority,0,1.0,other,0,0,3.0979996,repdem_basic_2026_07
+FR,5034,Valls III,Valls,2016-02-11,2016-12-06,50005.0; 50006.0; 50004.0,3,302.0,coalition_majority,0,0.0,other,0,0,,repdem_basic_2026_07
+FR,5035,Cazeneuve,Cazeneuve,2016-12-06,2017-05-10,50005.0; 50006.0; 50004.0,3,302.0,coalition_majority,0,0.0,other,0,0,,repdem_basic_2026_07
+FR,5036,Philippe I,Philippe,2017-05-17,2017-06-18,50007.0; 50008.0; 50006.0,1,15.0,caretaker,1,7.0,regular_election,0,0,0.0,repdem_basic_2026_07
+FR,5037,Philippe II,Philippe,2017-06-21,2020-07-03,50007.0; 50008.0; 50006.0,3,359.0,coalition_majority,0,3.0,voluntary,0,0,17.92,repdem_basic_2026_07
+FR,5038,Castex,Castex,2020-07-03,2022-05-16,50007.0; 50008.0; 50006.0,3,357.0,coalition_majority,0,0.0,voluntary,0,0,17.92,repdem_basic_2026_07
+FR,5039,Borne I,Borne,2022-05-16,2022-06-19,50007.0; 50008.0; 50006.0,3,353.0,coalition_majority,0,0.0,regular_election,0,0,17.92,repdem_basic_2026_07
+FR,5040,Borne II,Borne,2022-07-04,2024-01-09,50007.0; 50008.0; 50014.0,2,110.0,minority,0,15.0,other,0,0,,repdem_basic_2026_07
+FR,5041,Attal,Attal,2024-01-09,2024-07-07,50007.0; 50008.0; 50014.0,3,246.0,minority,0,0.0,early_election,1,0,,repdem_basic_2026_07
+FR,5042,Barnier,Barnier,2024-09-05,2024-12-04,50010.0; 50007.0; 50008.0; 50014.0; 50009.0,5,218.0,minority,0,60.0,cabinet_defeat,0,1,,repdem_basic_2026_07
+FR,5043,Bayrou,Bayrou,2024-12-13,2025-09-08,50008.0; 50007.0; 50010.0; 50014.0,4,210.0,minority,0,9.0,cabinet_defeat,0,1,,repdem_basic_2026_07
+FR,5044,Lecornu I,Lecornu,2025-10-05,2025-10-06,50007.0; 50010.0; 50008.0; 50014.0,3,161.0,minority,0,27.0,voluntary,0,0,,repdem_basic_2026_07
+FR,5045,Lecornu II,Lecornu,2025-10-12,,50007.0; 50008.0; 50014.0; 50009.0,4,161.0,minority,0,6.0,in_office,0,0,,repdem_basic_2026_07
+GR,7001,Karamanlis,Karamanlis,1977-11-28,1980-05-10,70016.0,1,171.0,single_majority,0,8.0,other,0,0,0.0,repdem_basic_2026_07
+GR,7002,Rallis,Rallis,1980-05-10,1981-10-18,70016.0,1,173.0,single_majority,0,0.0,early_election,1,0,0.0,repdem_basic_2026_07
+GR,7003,Papandreou I,Papandreou,1981-10-21,1985-06-02,70010.0,1,172.0,single_majority,0,3.0,early_election,1,0,0.0,repdem_basic_2026_07
+GR,7004,Papandreou II,Papandreou,1985-06-05,1989-06-18,70010.0,1,161.0,single_majority,0,3.0,regular_election,0,0,0.0,repdem_basic_2026_07
+GR,7005,Tzannetakis,Tzannetakis,1989-07-02,1989-10-07,70016.0; 70007.0,2,173.0,caretaker,1,14.0,early_election,1,0,65.658997,repdem_basic_2026_07
+GR,7006,Grivas,Grivas,1989-10-12,1989-11-05,79999.0,0,0.0,caretaker,1,5.0,early_election,1,0,,repdem_basic_2026_07
+GR,7007,Zolotas,Zolotas,1989-11-23,1990-04-08,70016.0; 70010.0; 70007.0,3,297.0,caretaker,1,18.0,early_election,1,0,42.593998,repdem_basic_2026_07
+GR,7008,Mitsotakis,Mitsotakis,1990-04-11,1993-10-10,70016.0,1,150.0,minority,0,3.0,early_election,1,0,0.0,repdem_basic_2026_07
+GR,7009,Papandreou III,Papandreou,1993-10-13,1996-01-16,70010.0,1,170.0,single_majority,0,3.0,voluntary,0,0,0.0,repdem_basic_2026_07
+GR,7010,Simitis I,Simitis,1996-01-22,1996-09-22,70010.0,1,166.0,single_majority,0,6.0,early_election,1,0,0.0,repdem_basic_2026_07
+GR,7011,Simitis II,Simitis,1996-09-25,2000-04-09,70010.0,1,162.0,single_majority,0,3.0,early_election,1,0,0.0,repdem_basic_2026_07
+GR,7012,Simitis III,Simitis,2000-04-13,2004-03-07,70010.0,1,158.0,single_majority,0,4.0,early_election,1,0,0.0,repdem_basic_2026_07
+GR,7013,Karamanlis I,Karamanlis,2004-03-10,2007-09-16,70016.0,1,165.0,single_majority,0,3.0,early_election,1,0,0.0,repdem_basic_2026_07
+GR,7014,Karamanlis II,Karamanlis,2007-09-19,2009-10-04,70016.0,1,152.0,single_majority,0,3.0,early_election,1,0,0.0,repdem_basic_2026_07
+GR,7015,Papandreou,Papandreou,2009-10-06,2011-11-11,70010.0,1,160.0,single_majority,0,2.0,voluntary,0,0,0.0,repdem_basic_2026_07
+GR,7016,Papademos I,Papademos,2011-11-16,2012-02-10,70010.0; 70016.0; 70020.0,3,252.0,caretaker,1,5.0,other,0,0,4.469,repdem_basic_2026_07
+GR,7017,Papademos II,Papademos,2012-02-11,2012-05-06,70010.0; 70016.0,2,193.0,caretaker,1,1.0,early_election,1,0,4.4689999,repdem_basic_2026_07
+GR,7018,Pikramenos,Pikramenos,2012-05-16,2012-06-17,79999.0,0,0.0,caretaker,1,10.0,early_election,1,0,,repdem_basic_2026_07
+GR,7019,Samaras I,Samaras,2012-06-21,2013-06-22,70016.0; 70010.0; 70009.0,3,179.0,coalition_majority,0,4.0,other,0,0,33.240002,repdem_basic_2026_07
+GR,7020,Samaras II,Samaras,2013-06-22,2015-01-25,70016.0; 70010.0,2,154.0,coalition_majority,0,0.0,other,0,0,3.8040009,repdem_basic_2026_07
+GR,7021,Tsipras I,Tsipras,2015-01-26,2015-08-20,70006.0; 70018.0,2,162.0,coalition_majority,0,1.0,early_election,1,0,87.875999,repdem_basic_2026_07
+GR,7022,Thanou-Christophilou,Thanou-Christophilou,2015-08-28,2015-09-20,79999.0,0,0.0,caretaker,1,8.0,early_election,1,0,,repdem_basic_2026_07
+GR,7023,Tsipras II,Tsipras,2015-09-23,2019-01-13,70006.0; 70018.0,2,155.0,coalition_majority,0,3.0,other,0,0,0.0,repdem_basic_2026_07
+GR,7024,Tsipras III,Tsipras,2019-01-16,2019-07-07,70006.0,1,145.0,minority,0,3.0,early_election,1,0,0.0,repdem_basic_2026_07
+GR,7025,Mitsotakis I,Mitsotakis,2019-07-08,2023-06-25,70016.0,1,158.0,single_majority,0,1.0,regular_election,0,0,0.0,repdem_basic_2026_07
+GR,7026,Mitsotakis II,Mitsotakis,2023-06-26,,70016.0,1,158.0,single_majority,0,1.0,in_office,0,0,,repdem_basic_2026_07
+HR,30001,Mesic,Mesic,1990-05-31,1990-08-24,300017.0,1,55.0,single_majority,0,0.0,other,0,0,0.0,repdem_basic_2026_07
+HR,30002,Manolic,Manolic,1990-08-24,1991-07-17,300017.0,1,55.0,single_majority,0,0.0,voluntary,0,0,0.0,repdem_basic_2026_07
+HR,30003,Greguric I,Greguric,1991-07-17,1992-02-20,300017.0; 300007.0; 300002.0; 300012.0; 300009.0; 300018.0; 300019.0,4,75.0,coalition_majority,0,0.0,other,0,0,16.091,repdem_basic_2026_07
+HR,30004,Greguric II,Greguric,1992-02-20,1992-05-14,300017.0; 300007.0; 300002.0; 300009.0; 300018.0; 300019.0,4,75.0,coalition_majority,0,0.0,other,0,0,16.091,repdem_basic_2026_07
+HR,30005,Greguric III,Greguric,1992-05-14,1992-08-02,300017.0; 300007.0; 300002.0; 300018.0; 300019.0,4,75.0,coalition_majority,0,0.0,early_election,1,0,16.091,repdem_basic_2026_07
+HR,30006,Sarinic,Sarinic,1992-08-12,1993-03-29,300017.0,1,85.0,single_majority,0,10.0,voluntary,0,0,0.0,repdem_basic_2026_07
+HR,30007,Valentic,Valentic,1993-04-03,1995-10-29,300017.0,1,85.0,single_majority,0,5.0,early_election,1,0,0.0,repdem_basic_2026_07
+HR,30008,Matesa,Matesa,1995-11-07,2000-01-03,300017.0,1,75.0,single_majority,0,9.0,regular_election,0,0,0.0,repdem_basic_2026_07
+HR,30009,Racan I,Racan,2000-01-27,2001-06-04,300007.0; 300012.0; 300009.0; 300014.0; 300006.0; 300011.0,6,92.0,coalition_majority,0,24.0,other,0,0,56.042999,repdem_basic_2026_07
+HR,30010,Racan II,Racan,2001-06-04,2002-07-05,300007.0; 300012.0; 300009.0; 300014.0; 300011.0,5,88.0,coalition_majority,0,0.0,other,0,0,51.612999,repdem_basic_2026_07
+HR,30011,Racan III,Racan,2002-07-30,2003-11-23,300007.0; 300010.0; 300009.0; 300014.0; 300011.0,5,74.0,minority,0,25.0,regular_election,0,0,51.612999,repdem_basic_2026_07
+HR,30012,Sanader I,Sanader,2003-12-23,2006-02-09,300017.0; 300016.0,2,67.0,minority,0,30.0,other,0,0,12.937,repdem_basic_2026_07
+HR,30013,Sanader II,Sanader,2006-02-09,2007-11-25,300017.0,1,63.0,minority,0,0.0,regular_election,0,0,0.0,repdem_basic_2026_07
+HR,30014,Sanader III,Sanader,2008-01-13,2009-07-01,300017.0; 300014.0; 300012.0; 300008.0,4,77.0,coalition_majority,0,49.0,voluntary,0,0,31.285,repdem_basic_2026_07
+HR,30015,Kosor I,Kosor,2009-07-06,2010-07-10,300017.0; 300014.0; 300012.0; 300008.0,4,77.0,coalition_majority,0,5.0,other,0,0,31.285,repdem_basic_2026_07
+HR,30016,Kosor II,Kosor,2010-07-10,2011-12-04,300017.0; 300014.0; 300008.0,3,75.0,minority,0,0.0,regular_election,0,0,31.285,repdem_basic_2026_07
+HR,30017,Milanovic,Milanovic,2011-12-23,2015-11-08,300007.0; 300009.0; 300006.0,3,77.0,coalition_majority,0,19.0,regular_election,0,0,0.0,repdem_basic_2026_07
+HR,30018,Oreskovic,Oreskovic,2016-01-22,2016-06-16,309999.0; 300017.0; 300015.0,2,65.0,minority,0,75.0,cabinet_defeat,0,1,0.80699921,repdem_basic_2026_07
+HR,30019,Plenkovic I,Plenkovic,2016-10-19,2017-04-27,300017.0; 300015.0,2,69.0,minority,0,125.0,other,0,0,0.31200004,repdem_basic_2026_07
+HR,30020,Plenkovic II,Plenkovic,2017-04-27,2017-06-09,300017.0,1,56.0,minority,0,0.0,other,0,0,0.0,repdem_basic_2026_07
+HR,30021,Plenkovic III,Plenkovic,2017-06-09,2020-07-05,300017.0; 300009.0,2,61.0,minority,0,0.0,regular_election,0,0,7.2580004,repdem_basic_2026_07
+HR,30022,Plenkovic IV,Plenkovic,2020-07-23,2024-04-17,300017.0; 300008.0,2,65.0,minority,0,18.0,regular_election,0,0,,repdem_basic_2026_07
+HR,30023,Plenković V,Plenković,2024-05-17,,300017.0; 300023.0,2,65.0,minority,0,30.0,in_office,0,0,,repdem_basic_2026_07
+HU,22001,Antall I,Antall,1990-05-23,1992-02-24,220011.0; 220003.0; 220001.0,3,230.0,coalition_majority,0,12.0,other,0,0,18.160999,repdem_basic_2026_07
+HU,22002,Antall II,Antall,1992-02-24,1993-12-12,220011.0; 220004.0; 220001.0,3,214.0,coalition_majority,0,0.0,other,0,0,18.160999,repdem_basic_2026_07
+HU,22003,Boross,Boross,1993-12-21,1994-05-29,220011.0; 220005.0; 220001.0,3,196.0,coalition_majority,0,9.0,regular_election,0,0,18.160999,repdem_basic_2026_07
+HU,22004,Horn,Horn,1994-07-15,1998-05-24,220010.0; 220013.0,2,279.0,coalition_majority,0,47.0,regular_election,0,0,22.927,repdem_basic_2026_07
+HU,22005,Orbán I,Orbán,1998-07-06,2002-04-21,220008.0; 220011.0; 220003.0,3,213.0,coalition_majority,0,43.0,regular_election,0,0,12.213,repdem_basic_2026_07
+HU,22006,Medgyessy,Medgyessy,2002-05-27,2004-08-25,220010.0; 220013.0,2,198.0,coalition_majority,0,36.0,other,0,0,15.046,repdem_basic_2026_07
+HU,22007,Gyurcsány I,Gyurcsány,2004-09-29,2006-04-23,220010.0; 220013.0,2,198.0,coalition_majority,0,35.0,regular_election,0,0,15.046,repdem_basic_2026_07
+HU,22008,Gyurcsány II,Gyurcsány,2006-06-09,2008-04-30,220010.0; 220013.0,2,210.0,coalition_majority,0,47.0,other,0,0,8.4390001,repdem_basic_2026_07
+HU,22009,Gyurcsány III,Gyurcsány,2008-05-01,2009-03-21,220010.0; 220012.0,2,191.0,minority,0,1.0,voluntary,0,0,,repdem_basic_2026_07
+HU,22010,Bajnai,Bajnai,2009-04-14,2010-04-25,220010.0,1,189.0,minority,0,24.0,regular_election,0,0,0.0,repdem_basic_2026_07
+HU,22011,Orbán II,Orbán,2010-05-29,2014-04-06,220008.0; 220001.0,2,263.0,coalition_majority,0,34.0,regular_election,0,0,0.0,repdem_basic_2026_07
+HU,22012,Orbán III,Orbán,2014-06-06,2018-04-08,220008.0; 220001.0,2,133.0,coalition_majority,0,61.0,regular_election,0,0,0.0,repdem_basic_2026_07
+HU,22013,Orbán IV,Orbán,2018-05-18,2022-04-03,220008.0; 220001.0,2,133.0,coalition_majority,0,40.0,regular_election,0,0,0.0,repdem_basic_2026_07
+HU,22014,Orbán V,Orbán,2022-05-24,2026-04-12,220008.0; 220001.0,2,135.0,coalition_majority,0,51.0,regular_election,0,0,0.0,repdem_basic_2026_07
+HU,22015,Magyar,Magyar,2026-05-13,,220022.0,1,141.0,single_majority,0,31.0,in_office,0,0,,repdem_basic_2026_07
+IE,9001,de Valera VI,de Valera,1944-06-09,1948-02-04,90008.0,1,76.0,single_majority,0,10.0,early_election,1,0,,repdem_basic_2026_07
+IE,9002,Costello I,Costello,1948-02-18,1951-05-30,90009.0; 90004.0; 90007.0; 90006.0; 90005.0,5,67.0,minority,0,14.0,early_election,1,0,,repdem_basic_2026_07
+IE,9003,de Valera VII,de Valera,1951-06-13,1954-05-18,90008.0,1,69.0,minority,0,14.0,early_election,1,0,0.0,repdem_basic_2026_07
+IE,9004,Costello II,Costello,1954-06-02,1957-03-05,90009.0; 90004.0; 90007.0,3,74.0,coalition_majority,0,15.0,early_election,1,0,39.700001,repdem_basic_2026_07
+IE,9005,de Valera VIII,de Valera,1957-03-20,1959-06-23,90008.0,1,78.0,single_majority,0,15.0,other,0,0,0.0,repdem_basic_2026_07
+IE,9006,Lemass I,Lemass,1959-06-23,1961-10-04,90008.0,1,78.0,single_majority,0,0.0,early_election,1,0,0.0,repdem_basic_2026_07
+IE,9007,Lemass II,Lemass,1961-10-11,1965-04-07,90008.0,1,70.0,minority,0,7.0,early_election,1,0,0.0,repdem_basic_2026_07
+IE,9008,Lemass III,Lemass,1965-04-21,1966-11-10,90008.0,1,72.0,minority,0,14.0,other,0,0,0.0,repdem_basic_2026_07
+IE,9009,Lynch I,Lynch,1966-11-10,1969-06-18,90008.0,1,72.0,minority,0,0.0,early_election,1,0,0.0,repdem_basic_2026_07
+IE,9010,Lynch II,Lynch,1969-07-02,1973-02-28,90008.0,1,75.0,single_majority,0,14.0,early_election,1,0,0.0,repdem_basic_2026_07
+IE,9011,Cosgrave I,Cosgrave,1973-03-14,1977-06-16,90009.0; 90004.0,2,73.0,coalition_majority,0,14.0,early_election,1,0,0.0,repdem_basic_2026_07
+IE,9012,Lynch III,Lynch,1977-07-05,1979-12-11,90008.0,1,84.0,single_majority,0,19.0,other,0,0,0.0,repdem_basic_2026_07
+IE,9013,Haughey I,Haughey,1979-12-11,1981-06-11,90008.0,1,84.0,single_majority,0,0.0,early_election,1,0,0.0,repdem_basic_2026_07
+IE,9014,FitzGerald I,FitzGerald,1981-06-30,1982-02-18,90009.0; 90004.0,2,80.0,minority,0,19.0,early_election,1,1,16.1,repdem_basic_2026_07
+IE,9015,Haughey II,Haughey,1982-03-09,1982-11-24,90008.0,1,81.0,minority,0,19.0,early_election,1,1,0.0,repdem_basic_2026_07
+IE,9016,FitzGerald II,FitzGerald,1982-12-14,1987-02-17,90009.0; 90004.0,2,86.0,coalition_majority,0,20.0,early_election,1,0,56.149002,repdem_basic_2026_07
+IE,9017,Haughey III,Haughey,1987-03-10,1989-06-15,90008.0,1,81.0,minority,0,21.0,early_election,1,0,0.0,repdem_basic_2026_07
+IE,9018,Haughey IV,Haughey,1989-07-12,1992-02-11,90008.0; 90010.0,2,83.0,minority,0,27.0,other,0,0,5.507,repdem_basic_2026_07
+IE,9019,Reynolds I,Reynolds,1992-02-11,1992-11-25,90008.0; 90010.0,2,83.0,minority,0,0.0,early_election,1,1,5.507,repdem_basic_2026_07
+IE,9020,Reynolds II,Reynolds,1993-01-12,1994-11-17,90008.0; 90004.0,2,101.0,coalition_majority,0,48.0,other,0,0,11.188,repdem_basic_2026_07
+IE,9021,Bruton,Bruton,1994-12-15,1997-06-06,90009.0; 90004.0; 90002.0,3,84.0,coalition_majority,0,28.0,early_election,1,0,36.425999,repdem_basic_2026_07
+IE,9022,Ahern I,Ahern,1997-06-26,2002-05-17,90008.0; 90010.0,2,81.0,minority,0,20.0,regular_election,0,0,14.814999,repdem_basic_2026_07
+IE,9023,Ahern II,Ahern,2002-06-06,2007-05-24,90008.0; 90010.0,2,89.0,coalition_majority,0,20.0,regular_election,0,0,3.7360005,repdem_basic_2026_07
+IE,9024,Ahern III,Ahern,2007-06-14,2008-05-06,90008.0; 90012.0; 90010.0,3,86.0,coalition_majority,0,21.0,other,0,0,13.267,repdem_basic_2026_07
+IE,9025,Cowen I,Cowen,2008-05-07,2011-01-23,90008.0; 90012.0; 90010.0,3,86.0,coalition_majority,0,1.0,other,0,0,13.267,repdem_basic_2026_07
+IE,9026,Cowen II,Cowen,2011-01-23,2011-02-25,90008.0,1,78.0,minority,0,0.0,early_election,1,0,0.0,repdem_basic_2026_07
+IE,9027,Kenny I,Kenny,2011-03-09,2016-02-26,90009.0; 90004.0,2,113.0,coalition_majority,0,12.0,early_election,1,0,11.325,repdem_basic_2026_07
+IE,9028,Kenny II,Kenny,2016-05-06,2017-06-14,90009.0,1,50.0,minority,0,70.0,other,0,0,0.0,repdem_basic_2026_07
+IE,9029,Varadkar I,Varadkar,2017-06-14,2020-02-08,90009.0,1,50.0,minority,0,0.0,regular_election,0,0,0.0,repdem_basic_2026_07
+IE,9030,Martin,Martin,2020-06-26,2022-12-17,90008.0; 90009.0; 90012.0,3,85.0,coalition_majority,0,139.0,voluntary,0,0,4.6160002,repdem_basic_2026_07
+IE,9031,Varadkar II,Varadkar,2022-12-17,2024-04-08,90008.0; 90009.0; 90012.0,3,85.0,coalition_majority,0,0.0,voluntary,0,0,4.6160002,repdem_basic_2026_07
+IE,9032,Harris,Harris,2024-04-09,2024-11-29,90008.0; 90009.0; 90012.0,3,83.0,coalition_majority,0,1.0,regular_election,0,0,4.6160002,repdem_basic_2026_07
+IE,9033,Martin II,Martin,2025-01-23,,90008.0; 90009.0,2,86.0,minority,0,55.0,in_office,0,0,,repdem_basic_2026_07
+IS,8001,Thors II,Thors,1944-10-21,1946-06-30,80015.0; 80001.0; 80010.0,3,37.0,coalition_majority,0,36.0,regular_election,0,0,,repdem_basic_2026_07
+IS,8002,Thors III,Thors,1946-06-30,1946-10-10,80015.0; 80001.0; 80010.0,3,39.0,coalition_majority,0,0.0,other,0,0,34.700001,repdem_basic_2026_07
+IS,8003,Stefansson,Stefansson,1947-02-04,1949-10-24,80010.0; 80012.0; 80015.0,3,42.0,coalition_majority,0,117.0,early_election,1,0,94.199997,repdem_basic_2026_07
+IS,8004,Thors IV,Thors,1949-12-06,1950-03-14,80015.0,1,19.0,minority,0,43.0,cabinet_defeat,0,1,0.0,repdem_basic_2026_07
+IS,8005,Steinthorsson,Steinthorsson,1950-03-14,1953-06-28,80012.0; 80015.0,2,36.0,coalition_majority,0,0.0,regular_election,0,0,3.4,repdem_basic_2026_07
+IS,8006,Thors V,Thors,1953-09-11,1956-06-24,80015.0; 80012.0,2,37.0,coalition_majority,0,75.0,early_election,1,0,38.699997,repdem_basic_2026_07
+IS,8007,Jonasson III,Jonasson,1956-07-24,1958-12-23,80012.0; 80003.0; 80010.0,3,33.0,coalition_majority,0,30.0,other,0,0,29.9,repdem_basic_2026_07
+IS,8008,Jonsson I,Jonsson,1958-12-23,1959-06-28,80010.0,1,8.0,caretaker,1,0.0,early_election,1,0,0.0,repdem_basic_2026_07
+IS,8009,Jonsson II,Jonsson,1959-06-28,1959-10-26,80010.0,1,6.0,minority,0,0.0,early_election,1,0,0.0,repdem_basic_2026_07
+IS,8010,Thors VI,Thors,1959-11-20,1963-06-09,80015.0; 80010.0,2,33.0,coalition_majority,0,25.0,regular_election,0,0,54.800003,repdem_basic_2026_07
+IS,8011,Thors VII,Thors,1963-06-09,1963-11-14,80015.0; 80010.0,2,32.0,coalition_majority,0,0.0,other,0,0,35.400002,repdem_basic_2026_07
+IS,8012,Benediktsson I,Benediktsson,1963-11-14,1967-06-11,80015.0; 80010.0,2,32.0,coalition_majority,0,0.0,regular_election,0,0,35.400002,repdem_basic_2026_07
+IS,8013,Benediktsson II,Benediktsson,1967-06-11,1970-07-10,80015.0; 80010.0,2,32.0,coalition_majority,0,0.0,other,0,0,45.099998,repdem_basic_2026_07
+IS,8014,Hafstein,Hafstein,1970-07-10,1971-06-13,80015.0; 80010.0,2,32.0,coalition_majority,0,0.0,regular_election,0,0,45.099998,repdem_basic_2026_07
+IS,8015,Johannesson I,Johannesson,1971-07-14,1974-06-30,80012.0; 80003.0; 80006.0,3,32.0,coalition_majority,0,31.0,early_election,1,0,5.0,repdem_basic_2026_07
+IS,8016,Hallgrimsson,Hallgrimsson,1974-08-28,1978-06-25,80015.0; 80012.0,2,42.0,coalition_majority,0,59.0,regular_election,0,0,35.499996,repdem_basic_2026_07
+IS,8017,Johannesson II,Johannesson,1978-09-01,1979-10-15,80012.0; 80003.0; 80010.0,3,40.0,coalition_majority,0,68.0,other,0,0,9.2999992,repdem_basic_2026_07
+IS,8018,Gröndal,Gröndal,1979-10-15,1979-12-03,80010.0,1,14.0,minority,0,0.0,early_election,1,0,0.0,repdem_basic_2026_07
+IS,8019,Thoroddsen,Thoroddsen,1980-02-08,1983-04-23,80015.0; 80003.0; 80012.0,3,49.0,coalition_majority,0,67.0,early_election,1,0,14.65,repdem_basic_2026_07
+IS,8020,Hermansson I,Hermansson,1983-05-26,1987-04-25,80012.0; 80015.0,2,37.0,coalition_majority,0,33.0,regular_election,0,0,21.299999,repdem_basic_2026_07
+IS,8021,Palsson,Palsson,1987-07-08,1988-09-28,80015.0; 80010.0; 80012.0,3,41.0,coalition_majority,0,74.0,other,0,0,46.700001,repdem_basic_2026_07
+IS,8022,Hermansson II,Hermansson,1988-09-28,1989-09-10,80012.0; 80003.0; 80010.0,3,31.0,minority,0,0.0,other,0,0,11.6,repdem_basic_2026_07
+IS,8023,Hermansson III,Hermansson,1989-09-10,1991-04-20,80012.0; 80003.0; 80010.0; 80014.0,4,38.0,coalition_majority,0,0.0,regular_election,0,0,17.9,repdem_basic_2026_07
+IS,8024,Oddsson I,Oddsson,1991-04-30,1995-04-08,80015.0; 80010.0,2,36.0,coalition_majority,0,10.0,regular_election,0,0,59.431,repdem_basic_2026_07
+IS,8025,Oddsson II,Oddsson,1995-04-23,1999-05-08,80015.0; 80012.0,2,40.0,coalition_majority,0,15.0,regular_election,0,0,31.372,repdem_basic_2026_07
+IS,8026,Oddsson III,Oddsson,1999-05-28,2003-05-10,80015.0; 80012.0,2,38.0,coalition_majority,0,20.0,regular_election,0,0,27.948999,repdem_basic_2026_07
+IS,8027,Oddsson IV,Oddsson,2003-05-23,2004-09-15,80015.0; 80012.0,2,34.0,coalition_majority,0,13.0,voluntary,0,0,15.355,repdem_basic_2026_07
+IS,8028,Asgrimsson,Asgrimsson,2004-09-15,2006-06-15,80012.0; 80015.0,2,34.0,coalition_majority,0,0.0,voluntary,0,0,15.355,repdem_basic_2026_07
+IS,8029,Haarde I,Haarde,2006-06-15,2007-05-12,80015.0; 80012.0,2,34.0,coalition_majority,0,0.0,regular_election,0,0,15.355,repdem_basic_2026_07
+IS,8030,Haarde II,Haarde,2007-05-24,2009-01-26,80015.0; 80008.0,2,43.0,coalition_majority,0,12.0,early_election,1,0,28.083,repdem_basic_2026_07
+IS,8031,Sigurdardottir I,Sigurdardottir,2009-02-01,2009-04-25,80008.0; 80002.0,2,27.0,minority,0,6.0,early_election,1,0,1.0979996,repdem_basic_2026_07
+IS,8032,Sigurdardottir II,Sigurdardottir,2009-05-10,2013-04-27,80008.0; 80002.0,2,34.0,coalition_majority,0,15.0,regular_election,0,0,11.389,repdem_basic_2026_07
+IS,8033,Gunnlaugsson I,Gunnlaugsson,2013-05-23,2016-04-06,80012.0; 80015.0,2,38.0,coalition_majority,0,26.0,other,0,0,30.539,repdem_basic_2026_07
+IS,8034,Johannsson I,Johannsson,2016-04-07,2016-10-29,80012.0; 80015.0,2,38.0,coalition_majority,0,1.0,early_election,1,0,30.539,repdem_basic_2026_07
+IS,8035,Benediktsson I,Benediktsson,2017-01-11,2017-10-28,80015.0; 80019.0; 80017.0,3,32.0,coalition_majority,0,74.0,early_election,1,0,24.383999,repdem_basic_2026_07
+IS,8036,Jakobsdottir,Jakobsdottir,2017-11-30,2021-09-25,80002.0; 80015.0; 80012.0,3,35.0,coalition_majority,0,33.0,regular_election,0,0,54.372002,repdem_basic_2026_07
+IS,8037,Jakobsdottir II,Jakobsdottir,2021-11-28,2024-04-09,80002.0; 80015.0; 80012.0,3,37.0,coalition_majority,0,64.0,voluntary,0,0,28.282,repdem_basic_2026_07
+IS,8038,Benediktsson II,Benediktsson,2024-04-09,2024-11-30,80015.0; 80012.0; 80002.0,3,37.0,coalition_majority,0,0.0,early_election,1,0,28.282,repdem_basic_2026_07
+IS,8039,Frostadóttir,Frostadóttir,2024-12-21,,80008.0; 80019.0; 80021.0,3,36.0,coalition_majority,0,21.0,in_office,0,0,,repdem_basic_2026_07
+IT,10001,De Gasperi II,De Gasperi,1946-07-14,1947-01-20,100012.0; 100003.0; 100009.0; 100017.0,4,449.0,coalition_majority,0,12.0,other,0,0,60.985001,repdem_basic_2026_07
+IT,10002,De Gasperi III,De Gasperi,1947-02-02,1947-05-13,100012.0; 100003.0; 100009.0,3,426.0,coalition_majority,0,13.0,other,0,0,60.985001,repdem_basic_2026_07
+IT,10003,De Gasperi IV,De Gasperi,1947-06-01,1948-04-18,100012.0; 100019.0,2,264.0,minority,0,19.0,regular_election,0,0,38.542,repdem_basic_2026_07
+IT,10004,De Gasperi V,De Gasperi,1948-05-24,1950-01-12,100012.0; 100011.0; 100019.0; 100017.0,4,366.0,coalition_majority,0,36.0,other,0,0,81.433998,repdem_basic_2026_07
+IT,10005,De Gasperi VI,De Gasperi,1950-01-28,1951-07-16,100012.0; 100011.0; 100017.0,3,347.0,coalition_majority,0,16.0,other,0,0,43.577,repdem_basic_2026_07
+IT,10006,De Gasperi VII,De Gasperi,1951-07-26,1953-06-07,100012.0; 100017.0,2,314.0,coalition_majority,0,10.0,regular_election,0,0,29.556999,repdem_basic_2026_07
+IT,10007,De Gasperi VIII,De Gasperi,1953-07-16,1953-07-28,100012.0,1,263.0,minority,0,39.0,cabinet_defeat,0,1,0.0,repdem_basic_2026_07
+IT,10008,Pella,Pella,1953-08-17,1954-01-05,100012.0,1,263.0,caretaker,1,20.0,other,0,0,0.0,repdem_basic_2026_07
+IT,10009,Fanfani I,Fanfani,1954-01-19,1954-01-30,100012.0,1,263.0,minority,0,14.0,cabinet_defeat,0,1,0.0,repdem_basic_2026_07
+IT,10010,Scelba,Scelba,1954-02-10,1955-06-22,100012.0; 100011.0; 100019.0,3,295.0,minority,0,11.0,cabinet_defeat,0,1,24.541,repdem_basic_2026_07
+IT,10011,Segni I,Segni,1955-07-06,1957-05-06,100012.0; 100011.0; 100019.0,3,295.0,minority,0,14.0,cabinet_defeat,0,1,24.541,repdem_basic_2026_07
+IT,10012,Zoli,Zoli,1957-05-20,1958-05-25,100012.0,1,263.0,minority,0,14.0,other,0,0,0.0,repdem_basic_2026_07
+IT,10013,Fanfani II,Fanfani,1958-07-02,1959-01-26,100012.0; 100011.0,2,295.0,minority,0,38.0,other,0,0,14.424999,repdem_basic_2026_07
+IT,10014,Segni II,Segni,1959-02-16,1960-02-24,100012.0,1,273.0,minority,0,21.0,cabinet_defeat,0,1,0.0,repdem_basic_2026_07
+IT,10015,Tambroni,Tambroni,1960-03-26,1960-07-19,100012.0,1,273.0,minority,0,31.0,other,0,0,0.0,repdem_basic_2026_07
+IT,10016,Fanfani III,Fanfani,1960-07-27,1962-02-02,100012.0,1,273.0,minority,0,8.0,other,0,0,0.0,repdem_basic_2026_07
+IT,10017,Fanfani IV,Fanfani,1962-02-22,1963-04-28,100012.0; 100011.0; 100017.0,3,301.0,coalition_majority,0,20.0,regular_election,0,0,14.424999,repdem_basic_2026_07
+IT,10018,Leone I,Leone,1963-06-22,1963-11-05,100012.0,1,260.0,caretaker,1,55.0,cabinet_defeat,0,1,0.0,repdem_basic_2026_07
+IT,10019,Moro I,Moro,1963-12-05,1968-05-19,100012.0; 100009.0; 100017.0; 100011.0,4,386.0,coalition_majority,0,30.0,cabinet_defeat,0,1,25.384001,repdem_basic_2026_07
+IT,10020,Leone II,Leone,1968-06-25,1968-11-19,100012.0,1,266.0,caretaker,1,37.0,other,0,0,0.0,repdem_basic_2026_07
+IT,10021,Rumor I,Rumor,1968-12-13,1969-07-05,100012.0; 100009.0; 100011.0; 100017.0,4,366.0,coalition_majority,0,24.0,other,0,0,20.237,repdem_basic_2026_07
+IT,10022,Rumor II,Rumor,1969-08-06,1970-02-07,100012.0,1,266.0,caretaker,1,32.0,cabinet_defeat,0,1,0.0,repdem_basic_2026_07
+IT,10023,Rumor III,Rumor,1970-03-28,1970-07-06,100012.0; 100009.0; 100011.0; 100017.0,4,366.0,coalition_majority,0,49.0,other,0,0,20.237,repdem_basic_2026_07
+IT,10024,Colombo,Colombo,1970-08-06,1972-01-15,100012.0; 100009.0; 100011.0; 100017.0,4,366.0,coalition_majority,0,31.0,other,0,0,20.237,repdem_basic_2026_07
+IT,10025,Andreotti I,Andreotti,1972-02-18,1972-02-26,100012.0,1,266.0,caretaker,1,34.0,early_election,1,0,0.0,repdem_basic_2026_07
+IT,10026,Andreotti II,Andreotti,1972-06-26,1973-06-12,100012.0; 100011.0; 100019.0,3,315.0,minority,0,121.0,other,0,0,15.021,repdem_basic_2026_07
+IT,10027,Rumor IV,Rumor,1973-07-08,1974-03-02,100012.0; 100009.0; 100011.0; 100017.0,4,371.0,coalition_majority,0,26.0,other,0,0,43.745998,repdem_basic_2026_07
+IT,10028,Rumor V,Rumor,1974-03-15,1974-10-03,100012.0; 100009.0; 100011.0,3,356.0,coalition_majority,0,13.0,other,0,0,43.745998,repdem_basic_2026_07
+IT,10029,Moro II,Moro,1974-11-23,1976-01-07,100012.0; 100017.0,2,281.0,minority,0,51.0,other,0,0,7.5310001,repdem_basic_2026_07
+IT,10030,Moro III,Moro,1976-02-12,1976-04-30,100012.0,1,266.0,minority,0,36.0,early_election,1,0,0.0,repdem_basic_2026_07
+IT,10031,Andreotti III,Andreotti,1976-07-30,1979-01-31,100012.0,1,262.0,minority,0,91.0,cabinet_defeat,0,1,0.0,repdem_basic_2026_07
+IT,10032,Andreotti IV,Andreotti,1979-03-21,1979-03-31,100012.0; 100011.0; 100017.0,3,291.0,caretaker,1,49.0,early_election,1,0,10.649,repdem_basic_2026_07
+IT,10033,Cossiga I,Cossiga,1979-08-05,1980-03-19,100012.0; 100011.0; 100019.0,3,291.0,minority,0,127.0,other,0,0,8.7849998,repdem_basic_2026_07
+IT,10034,Cossiga II,Cossiga,1980-04-04,1980-09-28,100012.0; 100009.0; 100017.0,3,340.0,coalition_majority,0,16.0,cabinet_defeat,0,1,8.4090004,repdem_basic_2026_07
+IT,10035,Forlani,Forlani,1980-10-18,1981-05-26,100012.0; 100009.0; 100017.0; 100011.0,4,360.0,coalition_majority,0,20.0,other,0,0,13.678,repdem_basic_2026_07
+IT,10036,Spadolini,Spadolini,1981-06-28,1982-11-13,100017.0; 100012.0; 100009.0; 100011.0; 100019.0,5,369.0,coalition_majority,0,33.0,other,0,0,13.678,repdem_basic_2026_07
+IT,10037,Fanfani V,Fanfani,1982-12-01,1983-04-29,100012.0; 100009.0; 100011.0; 100019.0,4,353.0,coalition_majority,0,18.0,early_election,1,0,13.678,repdem_basic_2026_07
+IT,10038,Craxi,Craxi,1983-08-04,1987-03-03,100009.0; 100012.0; 100017.0; 100011.0; 100019.0,5,366.0,coalition_majority,0,97.0,cabinet_defeat,0,1,14.864,repdem_basic_2026_07
+IT,10039,Fanfani VI,Fanfani,1987-04-18,1987-04-29,100012.0,1,225.0,caretaker,1,46.0,early_election,1,0,0.0,repdem_basic_2026_07
+IT,10040,Goria,Goria,1987-07-29,1988-03-11,100012.0; 100009.0; 100017.0; 100011.0; 100019.0,5,377.0,coalition_majority,0,91.0,cabinet_defeat,0,1,41.523003,repdem_basic_2026_07
+IT,10041,De Mita,De Mita,1988-04-13,1989-05-19,100012.0; 100009.0; 100017.0; 100011.0; 100019.0,5,377.0,coalition_majority,0,33.0,other,0,0,41.523003,repdem_basic_2026_07
+IT,10042,Andreotti V,Andreotti,1989-07-23,1991-03-29,100012.0; 100009.0; 100017.0; 100011.0; 100019.0,5,371.0,coalition_majority,0,65.0,other,0,0,41.523003,repdem_basic_2026_07
+IT,10043,Andreotti VI,Andreotti,1991-04-13,1992-04-06,100012.0; 100009.0; 100011.0; 100019.0,4,357.0,coalition_majority,0,15.0,regular_election,0,0,26.125999,repdem_basic_2026_07
+IT,10044,Amato I,Amato,1992-06-28,1993-04-22,100009.0; 100012.0; 100019.0; 100011.0,4,331.0,coalition_majority,0,83.0,other,0,0,8.2349997,repdem_basic_2026_07
+IT,10045,Ciampi,Ciampi,1993-04-29,1994-01-13,100012.0; 100009.0; 100019.0; 100011.0,4,327.0,coalition_majority,0,7.0,early_election,1,0,8.2349997,repdem_basic_2026_07
+IT,10046,Berlusconi I,Berlusconi,1994-05-11,1994-12-22,100020.0; 100022.0; 100018.0; 100016.0,4,359.0,coalition_majority,0,118.0,other,0,0,31.300999,repdem_basic_2026_07
+IT,10047,Dini,Dini,1995-01-17,1996-01-11,109999.0,0,15.0,single_majority,0,26.0,early_election,1,0,,repdem_basic_2026_07
+IT,10048,Prodi I,Prodi,1996-05-18,1998-10-09,100003.0; 100013.0; 100014.0; 100005.0,4,279.0,minority,0,128.0,cabinet_defeat,0,1,46.814999,repdem_basic_2026_07
+IT,10049,D'Alema I,D'Alema,1998-10-21,1999-12-18,100003.0; 100013.0; 100015.0; 100014.0; 100002.0; 100005.0; 100010.0,7,329.0,coalition_majority,0,12.0,other,0,0,,repdem_basic_2026_07
+IT,10050,D'Alema II,D'Alema,1999-12-22,2000-04-19,100003.0; 100013.0; 100041.0; 100015.0; 100002.0; 100014.0; 100005.0,7,306.0,minority,0,4.0,other,0,0,,repdem_basic_2026_07
+IT,10051,Amato II,Amato,2000-04-26,2001-05-13,100003.0; 100013.0; 100041.0; 100002.0; 100005.0; 100015.0; 100014.0; 100010.0,8,312.0,minority,0,7.0,regular_election,0,0,,repdem_basic_2026_07
+IT,10052,Berlusconi II,Berlusconi,2001-06-11,2005-04-20,100020.0; 100022.0; 100018.0; 100016.0,4,347.0,coalition_majority,0,29.0,other,0,0,0.0,repdem_basic_2026_07
+IT,10053,Berlusconi III,Berlusconi,2005-04-23,2006-04-10,100020.0; 100022.0; 100016.0; 100018.0; 100025.0; 100045.0,6,341.0,coalition_majority,0,3.0,regular_election,0,0,,repdem_basic_2026_07
+IT,10054,Prodi II,Prodi,2006-05-17,2007-05-15,100029.0; 100001.0; 100028.0; 100027.0; 100005.0; 100002.0; 100015.0,7,340.0,coalition_majority,0,37.0,other,0,0,0.0,repdem_basic_2026_07
+IT,10055,Prodi III,Prodi,2007-05-16,2008-01-24,100029.0; 100001.0; 100028.0; 100049.0; 100027.0; 100005.0; 100002.0; 100015.0,8,341.0,coalition_majority,0,1.0,early_election,1,1,0.0,repdem_basic_2026_07
+IT,10056,Berlusconi IV,Berlusconi,2008-05-08,2010-07-29,100020.0; 100018.0,2,335.0,coalition_majority,0,105.0,other,0,0,17.639,repdem_basic_2026_07
+IT,10057,Berlusconi V,Berlusconi,2010-07-30,2010-11-16,100020.0; 100018.0; 100037.0,3,330.0,coalition_majority,0,1.0,other,0,0,,repdem_basic_2026_07
+IT,10058,Berlusconi VI,Berlusconi,2010-11-17,2011-03-22,100020.0; 100018.0,2,294.0,minority,0,1.0,other,0,0,17.639,repdem_basic_2026_07
+IT,10059,Berlusconi VII,Berlusconi,2011-03-23,2011-11-12,100020.0; 100018.0; 100038.0,3,315.0,minority,0,1.0,voluntary,0,0,,repdem_basic_2026_07
+IT,10060,Monti,Monti,2011-11-16,2012-12-21,109999.0,0,13.0,single_majority,0,4.0,early_election,1,0,,repdem_basic_2026_07
+IT,10061,Letta I,Letta,2013-04-28,2013-11-14,100029.0; 100020.0; 100032.0; 100016.0; 100007.0,5,437.0,coalition_majority,0,128.0,other,0,0,,repdem_basic_2026_07
+IT,10062,Letta II,Letta,2013-11-15,2014-02-14,100029.0; 100036.0; 100032.0; 100039.0; 100016.0; 100007.0,6,369.0,coalition_majority,0,1.0,other,0,0,,repdem_basic_2026_07
+IT,10063,Renzi I,Renzi,2014-02-22,2015-02-17,100029.0; 100036.0; 100032.0; 100016.0,4,356.0,coalition_majority,0,8.0,other,0,0,40.515,repdem_basic_2026_07
+IT,10064,Renzi II,Renzi,2015-02-18,2016-12-07,100029.0; 100036.0; 100016.0,3,342.0,coalition_majority,0,1.0,voluntary,0,0,40.515,repdem_basic_2026_07
+IT,10065,Gentiloni Silveri,Gentiloni Silveri,2016-12-12,2018-03-04,100029.0; 100036.0; 100016.0,3,331.0,coalition_majority,0,5.0,regular_election,0,0,40.515,repdem_basic_2026_07
+IT,10066,Conte I,Conte,2018-06-01,2019-08-20,100031.0; 100018.0,2,346.0,coalition_majority,0,89.0,voluntary,0,0,12.085,repdem_basic_2026_07
+IT,10067,Conte II,Conte,2019-09-05,2021-02-13,100031.0; 100029.0; 100060.0; 100061.0,4,351.0,coalition_majority,0,16.0,voluntary,0,0,30.329,repdem_basic_2026_07
+IT,10068,Draghi,Draghi,2021-02-13,2022-09-25,100031.0; 100018.0; 100029.0; 100020.0; 100061.0; 100060.0,6,580.0,coalition_majority,0,0.0,regular_election,0,0,34.155998,repdem_basic_2026_07
+IT,10069,Meloni,Meloni,2022-10-22,,100034.0; 100018.0; 100020.0,3,229.0,coalition_majority,0,27.0,in_office,0,0,,repdem_basic_2026_07
+LT,24001,Lubys,Lubys,1992-12-17,1993-02-14,240002.0,1,74.0,single_majority,0,32.0,other,0,0,0.0,repdem_basic_2026_07
+LT,24002,Slezevicius,Slezevicius,1993-03-16,1996-02-08,240002.0,1,73.0,single_majority,0,30.0,cabinet_defeat,0,1,0.0,repdem_basic_2026_07
+LT,24003,Stankevicius,Stankevicius,1996-02-15,1996-11-10,240002.0,1,70.0,single_majority,0,7.0,regular_election,0,0,0.0,repdem_basic_2026_07
+LT,24004,Vagnorius,Vagnorius,1996-12-10,1999-05-03,240014.0; 240007.0; 240013.0,3,100.0,coalition_majority,0,30.0,other,0,0,15.25,repdem_basic_2026_07
+LT,24005,Paksas I,Paksas,1999-06-10,1999-10-27,240014.0; 240007.0,2,74.0,coalition_majority,0,38.0,other,0,0,6.4899998,repdem_basic_2026_07
+LT,24006,Kubilius I,Kubilius,1999-11-11,2000-10-08,240014.0; 240007.0,2,74.0,coalition_majority,0,15.0,regular_election,0,0,6.4899998,repdem_basic_2026_07
+LT,24007,Paksas II,Paksas,2000-11-09,2001-06-19,240015.0; 240005.0,2,66.0,minority,0,32.0,other,0,0,11.0,repdem_basic_2026_07
+LT,24008,Brazauskas I,Brazauskas,2001-07-12,2004-10-24,240008.0; 240005.0,2,74.0,coalition_majority,0,23.0,regular_election,0,0,3.8320003,repdem_basic_2026_07
+LT,24009,Brazauskas II,Brazauskas,2004-12-14,2006-04-11,240008.0; 240010.0; 240005.0; 240001.0,4,80.0,coalition_majority,0,51.0,other,0,0,27.970001,repdem_basic_2026_07
+LT,24010,Brazauskas III,Brazauskas,2006-05-25,2006-06-01,240008.0; 240010.0; 240001.0,3,71.0,coalition_majority,0,44.0,other,0,0,27.970001,repdem_basic_2026_07
+LT,24011,Kirkilas,Kirkilas,2006-07-18,2008-10-26,240008.0; 240001.0; 240006.0; 240015.0,4,59.0,minority,0,47.0,regular_election,0,0,27.970001,repdem_basic_2026_07
+LT,24012,Kubilius II,Kubilius,2008-12-09,2012-10-28,240014.0; 240016.0; 240015.0; 240012.0,4,80.0,coalition_majority,0,44.0,regular_election,0,0,20.489,repdem_basic_2026_07
+LT,24013,Butkevičius I,Butkevičius,2012-12-13,2014-08-25,240008.0; 240010.0; 240009.0; 240003.0,4,85.0,coalition_majority,0,46.0,other,0,0,29.663,repdem_basic_2026_07
+LT,24014,Butkevičius II,Butkevičius,2014-09-25,2016-10-23,240008.0; 240010.0; 240009.0,3,79.0,coalition_majority,0,31.0,regular_election,0,0,26.617001,repdem_basic_2026_07
+LT,24015,Skvernelis I,Skvernelis,2016-12-13,2017-09-23,240001.0; 240008.0,2,73.0,coalition_majority,0,51.0,other,0,0,11.982,repdem_basic_2026_07
+LT,24016,Skvernelis II,Skvernelis,2018-04-24,2019-05-29,240001.0; 240018.0,2,68.0,minority,0,213.0,other,0,0,,repdem_basic_2026_07
+LT,24017,Skvernelis III,Skvernelis,2019-08-07,2020-10-25,240001.0; 240018.0; 240003.0; 240009.0,4,76.0,coalition_majority,0,70.0,regular_election,0,0,,repdem_basic_2026_07
+LT,24018,Simonyte,Simonyte,2020-12-11,2024-10-27,240014.0; 240016.0; 240019.0,3,74.0,coalition_majority,0,47.0,regular_election,0,0,2.9969997,repdem_basic_2026_07
+LT,24019,Paluckas,Paluckas,2024-12-12,2025-07-31,240008.0; 240020.0; 240021.0,3,85.0,coalition_majority,0,46.0,voluntary,0,0,,repdem_basic_2026_07
+LT,24020,Šadžius,Šadžius,2025-08-04,2025-09-25,240008.0; 240020.0; 240021.0,3,85.0,caretaker,1,4.0,voluntary,0,0,,repdem_basic_2026_07
+LT,24021,Ruginienė ,Ruginienė,2025-09-25,2026-06-23,240008.0; 240020.0; 240001.0,3,80.0,coalition_majority,0,0.0,other,0,0,,repdem_basic_2026_07
+LT,24022,Sinkevičius,Sinkevičius,2026-07-14,,240008.0; 240021.0; 240001.0,3,75.0,coalition_majority,0,21.0,in_office,0,0,,repdem_basic_2026_07
+LU,11001,Dupong I,Dupong,1945-11-14,1947-03-01,110001.0; 110002.0; 110003.0; 110004.0,4,50.0,coalition_majority,0,24.0,other,0,0,72.985001,repdem_basic_2026_07
+LU,11002,Dupong II,Dupong,1947-03-01,1948-06-06,110001.0; 110003.0,2,34.0,coalition_majority,0,0.0,regular_election,0,0,31.601999,repdem_basic_2026_07
+LU,11003,Dupong III,Dupong,1948-07-14,1951-06-03,110001.0; 110003.0,2,31.0,coalition_majority,0,38.0,regular_election,0,0,14.198,repdem_basic_2026_07
+LU,11004,Dupong IV,Dupong,1951-07-03,1953-12-23,110001.0; 110002.0,2,40.0,coalition_majority,0,30.0,other,0,0,3.158,repdem_basic_2026_07
+LU,11005,Bech I,Bech,1953-12-28,1954-05-30,110001.0; 110002.0,2,40.0,coalition_majority,0,5.0,regular_election,0,0,3.158,repdem_basic_2026_07
+LU,11006,Bech II,Bech,1954-06-29,1958-03-29,110001.0; 110002.0,2,43.0,coalition_majority,0,30.0,other,0,0,55.283001,repdem_basic_2026_07
+LU,11007,Frieden,Frieden,1958-03-29,1959-02-01,110001.0; 110002.0,2,43.0,coalition_majority,0,0.0,early_election,1,0,55.283001,repdem_basic_2026_07
+LU,11008,Werner I,Werner,1959-03-02,1964-06-07,110001.0; 110003.0,2,32.0,coalition_majority,0,29.0,regular_election,0,0,16.261,repdem_basic_2026_07
+LU,11009,Werner II,Werner,1964-07-15,1968-10-29,110001.0; 110002.0,2,43.0,coalition_majority,0,38.0,early_election,1,0,17.466,repdem_basic_2026_07
+LU,11010,Werner III,Werner,1969-02-03,1974-05-26,110001.0; 110003.0,2,32.0,coalition_majority,0,97.0,regular_election,0,0,11.762999,repdem_basic_2026_07
+LU,11011,Thorn,Thorn,1974-06-15,1979-06-10,110003.0; 110002.0,2,31.0,coalition_majority,0,20.0,regular_election,0,0,21.402,repdem_basic_2026_07
+LU,11012,Werner IV,Werner,1979-07-16,1984-06-17,110001.0; 110003.0,2,39.0,coalition_majority,0,36.0,regular_election,0,0,5.2880001,repdem_basic_2026_07
+LU,11013,Santer I,Santer,1984-07-20,1989-06-18,110001.0; 110002.0,2,46.0,coalition_majority,0,33.0,regular_election,0,0,16.440998,repdem_basic_2026_07
+LU,11014,Santer II,Santer,1989-07-14,1994-06-12,110001.0; 110002.0,2,40.0,coalition_majority,0,26.0,regular_election,0,0,21.6,repdem_basic_2026_07
+LU,11015,Santer III,Santer,1994-07-13,1995-01-20,110001.0; 110002.0,2,38.0,coalition_majority,0,31.0,voluntary,0,0,2.7070007,repdem_basic_2026_07
+LU,11016,Juncker I,Juncker,1995-01-26,1999-06-13,110001.0; 110002.0,2,38.0,coalition_majority,0,6.0,regular_election,0,0,2.7070007,repdem_basic_2026_07
+LU,11017,Juncker II,Juncker,1999-08-07,2004-06-13,110001.0; 110003.0,2,34.0,coalition_majority,0,55.0,regular_election,0,0,12.018,repdem_basic_2026_07
+LU,11018,Juncker III,Juncker,2004-07-31,2009-06-07,110001.0; 110002.0,2,38.0,coalition_majority,0,48.0,regular_election,0,0,7.3029995,repdem_basic_2026_07
+LU,11019,Juncker IV,Juncker,2009-07-23,2013-10-20,110001.0; 110002.0,2,39.0,coalition_majority,0,46.0,early_election,1,0,23.484001,repdem_basic_2026_07
+LU,11020,Bettel I,Bettel,2013-12-04,2018-10-14,110003.0; 110002.0; 110005.0,3,32.0,coalition_majority,0,45.0,regular_election,0,0,23.554001,repdem_basic_2026_07
+LU,11021,Bettel II,Bettel,2018-12-05,2023-10-08,110003.0; 110002.0; 110005.0,3,31.0,coalition_majority,0,52.0,regular_election,0,0,,repdem_basic_2026_07
+LU,11022,Frieden,Frieden,2023-11-17,,110001.0; 110003.0,2,35.0,coalition_majority,0,40.0,in_office,0,0,,repdem_basic_2026_07
+LV,23001,Birkavs,Birkavs,1993-08-03,1994-07-13,230027.0; 230023.0,2,48.0,minority,0,58.0,other,0,0,10.452999,repdem_basic_2026_07
+LV,23002,Gailis,Gailis,1994-09-19,1995-10-01,230027.0; 230011.0,2,44.0,minority,0,68.0,regular_election,0,0,4.7600002,repdem_basic_2026_07
+LV,23003,Šķēle I,Šķēle,1995-12-21,1997-01-20,230022.0; 230012.0; 230027.0; 230026.0; 230016.0; 230004.0,6,73.0,coalition_majority,0,81.0,other,0,0,54.887001,repdem_basic_2026_07
+LV,23004,Šķēle II,Šķēle,1997-02-13,1997-07-28,230022.0; 230012.0; 230027.0; 230026.0; 230016.0; 230010.0,6,71.0,coalition_majority,0,24.0,other,0,0,54.887001,repdem_basic_2026_07
+LV,23005,Krasts I,Krasts,1997-08-07,1998-04-07,230018.0; 230012.0; 230027.0; 230016.0,4,67.0,coalition_majority,0,10.0,voluntary,0,0,54.887001,repdem_basic_2026_07
+LV,23006,Krasts II,Krasts,1998-04-08,1998-10-03,230018.0; 230027.0; 230016.0,3,45.0,minority,0,1.0,regular_election,0,0,26.847,repdem_basic_2026_07
+LV,23007,Krištopans I,Krištopans,1998-11-26,1999-02-04,230027.0; 230018.0; 230030.0,3,46.0,minority,0,54.0,other,0,0,18.796,repdem_basic_2026_07
+LV,23008,Krištopans II,Krištopans,1999-02-05,1999-07-05,230027.0; 230018.0; 230030.0; 230006.0,4,60.0,coalition_majority,0,1.0,other,0,0,21.698999,repdem_basic_2026_07
+LV,23009,Šķēle III,Šķēle,1999-07-16,2000-04-12,230032.0; 230027.0; 230018.0,3,62.0,coalition_majority,0,11.0,other,0,0,3.9470003,repdem_basic_2026_07
+LV,23010,Bērziņš,Bērziņš,2000-05-05,2002-10-05,230027.0; 230032.0; 230018.0; 230030.0,4,70.0,coalition_majority,0,23.0,regular_election,0,0,18.796,repdem_basic_2026_07
+LV,23011,Repše,Repše,2002-11-07,2004-01-28,230024.0; 230029.0; 230014.0; 230018.0,4,55.0,coalition_majority,0,33.0,other,0,0,16.955,repdem_basic_2026_07
+LV,23012,Emsis,Emsis,2004-03-09,2004-10-28,230014.0; 230029.0; 230032.0,3,46.0,minority,0,41.0,cabinet_defeat,0,1,11.977,repdem_basic_2026_07
+LV,23013,Kalvītis I,Kalvītis,2004-12-02,2006-04-07,230032.0; 230024.0; 230029.0; 230014.0,4,71.0,coalition_majority,0,35.0,other,0,0,13.955,repdem_basic_2026_07
+LV,23014,Kalvītis II,Kalvītis,2006-04-08,2006-10-07,230032.0; 230014.0; 230029.0,3,46.0,minority,0,1.0,regular_election,0,0,11.977,repdem_basic_2026_07
+LV,23015,Kalvītis III,Kalvītis,2006-11-07,2007-12-05,230032.0; 230014.0; 230031.0; 230018.0,4,59.0,coalition_majority,0,31.0,voluntary,0,0,26.111,repdem_basic_2026_07
+LV,23016,Godmanis,Godmanis,2007-12-20,2009-02-20,230031.0; 230032.0; 230014.0; 230018.0,4,56.0,coalition_majority,0,15.0,voluntary,0,0,26.111,repdem_basic_2026_07
+LV,23017,Dombrovskis I,Dombrovskis,2009-03-12,2010-03-22,230024.0; 230032.0; 230014.0; 230025.0; 230018.0,5,64.0,coalition_majority,0,20.0,other,0,0,26.907,repdem_basic_2026_07
+LV,23018,Dombrovskis II,Dombrovskis,2010-03-23,2010-10-02,230024.0; 230014.0; 230025.0; 230018.0,4,44.0,minority,0,1.0,regular_election,0,0,15.306,repdem_basic_2026_07
+LV,23019,Dombrovskis III,Dombrovskis,2010-11-03,2011-09-17,230019.0; 230014.0,2,55.0,coalition_majority,0,32.0,early_election,1,0,7.3270001,repdem_basic_2026_07
+LV,23020,Dombrovskis IV,Dombrovskis,2011-10-25,2013-11-27,230019.0; 230020.0; 230007.0,3,67.0,coalition_majority,0,38.0,voluntary,0,0,25.406,repdem_basic_2026_07
+LV,23021,Straujuma,Straujuma,2014-01-22,2014-10-04,230019.0; 230020.0; 230007.0; 230014.0,4,77.0,coalition_majority,0,56.0,regular_election,0,0,25.406,repdem_basic_2026_07
+LV,23022,Straujuma II,Straujuma,2014-11-05,2015-12-06,230019.0; 230014.0; 230007.0,3,68.0,coalition_majority,0,32.0,other,0,0,11.655,repdem_basic_2026_07
+LV,23023,Kučinskis,Kučinskis,2016-02-11,2018-10-06,230019.0; 230014.0; 230007.0,3,68.0,coalition_majority,0,67.0,regular_election,0,0,11.655,repdem_basic_2026_07
+LV,23024,Kariņš I,Kariņš,2019-01-23,2021-06-02,230019.0; 230017.0; 230037.0; 230036.0; 230038.0,5,66.0,coalition_majority,0,109.0,other,0,0,61.494999,repdem_basic_2026_07
+LV,23025,Kariņš II,Kariņš,2021-06-03,2022-10-02,230019.0; 230017.0; 230037.0; 230036.0,4,49.0,minority,0,1.0,regular_election,0,0,36.667,repdem_basic_2026_07
+LV,23026,Kariņš III,Kariņš,2022-12-14,2023-08-17,230019.0; 230017.0; 230039.0,3,54.0,coalition_majority,0,73.0,other,0,0,,repdem_basic_2026_07
+LV,23027,Siliņa,Siliņa,2023-09-15,2026-05-14,230019.0; 230014.0; 230042.0,3,52.0,coalition_majority,0,29.0,other,0,0,,repdem_basic_2026_07
+LV,23028,Kulberg,Kulberg,2026-05-28,,230039.0; 230019.0; 230014.0; 230017.0,4,66.0,coalition_majority,0,14.0,in_office,0,0,,repdem_basic_2026_07
+MT,pg1470,Boffa,Boffa,1947-10-27,1950-09-04,DAP; GP; JP; PL; PN,5,,unknown,0,,unknown,,,,parlgov_2024+manual
+MT,pg1471,Mizzi,Mizzi,1950-09-04,1951-05-06,DAP; MWP; PK; PL; PN; none,6,,unknown,0,,unknown,,,,parlgov_2024+manual
+MT,pg1472,Borg Olivier I,Borg Olivier,1951-05-06,1953-12-14,MWP; PK; PL; PN,4,,unknown,0,,unknown,,,,parlgov_2024+manual
+MT,pg1473,Borg Olivier II,Borg Olivier,1953-12-14,1955-02-28,MWP; PL; PN,3,,unknown,0,,unknown,,,,parlgov_2024+manual
+MT,pg1474,Mintoff I,Mintoff,1955-02-28,1962-03-05,PL; PN,2,,unknown,0,,unknown,,,,parlgov_2024+manual
+MT,pg589,Borg Olivier III,Borg Olivier,1962-03-05,1966-04-07,PDN; PHN; PKP; PL; PN,5,,unknown,0,,unknown,,,,parlgov_2024+manual
+MT,pg681,Borg Olivier IV,Borg Olivier,1966-04-07,1971-06-21,PL; PN,2,,unknown,0,,unknown,,,,parlgov_2024+manual
+MT,pg295,Mintoff II,Mintoff,1971-06-21,1974-09-30,PL; PN,2,,unknown,0,,unknown,,,,parlgov_2024+manual
+MT,pg816,Mintoff III,Mintoff,1974-09-30,1976-09-25,PL; PN,2,,unknown,0,,unknown,,,,parlgov_2024+manual
+MT,pg606,Mintoff IV,Mintoff,1976-09-25,1981-12-18,PL; PN,2,,unknown,0,,unknown,,,,parlgov_2024+manual
+MT,pg83,Mintoff V,Mintoff,1981-12-18,1984-12-22,PL; PN,2,,unknown,0,,unknown,,,,parlgov_2024+manual
+MT,pg122,Mifsud Bonnici,Mifsud Bonnici,1984-12-22,1987-05-12,PL; PN,2,,unknown,0,,unknown,,,,parlgov_2024+manual
+MT,pg3,Fenech Adami I,Fenech Adami,1987-05-12,1992-02-27,PL; PN,2,,unknown,0,,unknown,,,,parlgov_2024+manual
+MT,pg881,Fenech Adami II,Fenech Adami,1992-02-27,1996-10-28,PL; PN,2,,unknown,0,,unknown,,,,parlgov_2024+manual
+MT,pg299,Sant,Sant,1996-10-28,1998-09-06,PL; PN,2,,unknown,0,,unknown,,,,parlgov_2024+manual
+MT,pg582,Fenech Adami III,Fenech Adami,1998-09-06,2003-04-15,PL; PN,2,,unknown,0,,unknown,,,,parlgov_2024+manual
+MT,pg160,Fenech Adami IV,Fenech Adami,2003-04-15,2004-03-23,PL; PN,2,,unknown,0,,unknown,,,,parlgov_2024+manual
+MT,pg298,Gonzi I,Gonzi,2004-03-23,2008-03-12,PL; PN,2,,unknown,0,,unknown,,,,parlgov_2024+manual
+MT,pg468,Gonzi II,Gonzi,2008-03-12,2013-03-11,PL; PN,2,,unknown,0,,unknown,,,,parlgov_2024+manual
+MT,pg1046,Muscat I,Muscat,2013-03-11,2017-06-06,PL; PN,2,,unknown,0,,unknown,,,,parlgov_2024+manual
+MT,pg1504,Muscat II,Muscat,2017-06-06,2020-01-13,PL; PN,2,,unknown,0,,unknown,,,,parlgov_2024+manual
+MT,pg1623,Abela I,Abela,2020-01-13,2022-03-30,PL; PN,2,,unknown,0,,unknown,,,,parlgov_2024+manual
+MT,pg1699,Abela II,Abela,2022-03-30,,PL; PN,2,,unknown,0,,unknown,,,,parlgov_2024+manual
+NL,12001,Beel I,Beel,1946-07-03,1948-07-07,120012.0; 120007.0,2,61.0,coalition_majority,0,47.0,other,0,0,23.699999,repdem_basic_2026_07
+NL,12002,Drees I,Drees,1948-08-07,1951-01-24,120007.0; 120012.0; 120014.0; 120022.0,4,76.0,coalition_majority,0,31.0,other,0,0,35.400002,repdem_basic_2026_07
+NL,12003,Drees II,Drees,1951-03-15,1952-06-25,120007.0; 120012.0; 120014.0; 120022.0,4,76.0,coalition_majority,0,50.0,regular_election,0,0,35.400002,repdem_basic_2026_07
+NL,12004,Drees III,Drees,1952-09-02,1956-06-13,120007.0; 120012.0; 120014.0; 120011.0,4,81.0,coalition_majority,0,69.0,regular_election,0,0,46.349998,repdem_basic_2026_07
+NL,12005,Drees IV,Drees,1956-10-13,1958-12-12,120007.0; 120012.0; 120014.0; 120011.0,4,127.0,coalition_majority,0,122.0,other,0,0,47.900002,repdem_basic_2026_07
+NL,12006,Beel II,Beel,1958-12-22,1959-03-12,120012.0; 120014.0; 120011.0,3,77.0,coalition_majority,0,10.0,early_election,1,0,18.4,repdem_basic_2026_07
+NL,12007,De Quay,De Quay,1959-05-19,1963-05-15,120012.0; 120014.0; 120011.0; 120022.0,4,94.0,coalition_majority,0,68.0,cabinet_defeat,0,1,26.5,repdem_basic_2026_07
+NL,12008,Marijnen,Marijnen,1963-07-24,1965-02-27,120012.0; 120014.0; 120011.0; 120022.0,4,92.0,coalition_majority,0,70.0,other,0,0,23.0,repdem_basic_2026_07
+NL,12009,Cals,Cals,1965-04-14,1966-10-15,120012.0; 120007.0; 120011.0,3,106.0,coalition_majority,0,46.0,cabinet_defeat,0,1,33.0,repdem_basic_2026_07
+NL,12010,Zijlstra,Zijlstra,1966-11-22,1967-02-15,120011.0; 120012.0,2,63.0,caretaker,1,38.0,regular_election,0,0,15.700001,repdem_basic_2026_07
+NL,12011,De Jong,De Jong,1967-04-05,1971-04-28,120012.0; 120011.0; 120014.0; 120022.0,4,86.0,coalition_majority,0,49.0,regular_election,0,0,15.9,repdem_basic_2026_07
+NL,12012,Biesheuvel I,Biesheuvel,1971-07-06,1972-07-20,120011.0; 120012.0; 120014.0; 120022.0; 120015.0,5,82.0,coalition_majority,0,69.0,other,0,0,24.400002,repdem_basic_2026_07
+NL,12013,Biesheuvel II,Biesheuvel,1972-08-09,1972-11-28,120011.0; 120012.0; 120014.0; 120022.0,4,74.0,caretaker,1,20.0,early_election,1,0,24.400002,repdem_basic_2026_07
+NL,12014,Den Uyl,Den Uyl,1973-05-11,1977-03-22,120007.0; 120006.0; 120010.0; 120012.0; 120011.0,5,97.0,coalition_majority,0,164.0,other,0,0,30.5,repdem_basic_2026_07
+NL,12015,Van Agt I,Van Agt,1977-12-19,1981-05-26,120013.0; 120022.0,2,77.0,coalition_majority,0,272.0,regular_election,0,0,25.0,repdem_basic_2026_07
+NL,12016,Van Agt II,Van Agt,1981-09-11,1982-05-12,120013.0; 120007.0; 120010.0,3,109.0,coalition_majority,0,108.0,other,0,0,9.3000011,repdem_basic_2026_07
+NL,12017,Van Agt III,Van Agt,1982-05-29,1982-09-08,120013.0; 120010.0,2,65.0,caretaker,1,17.0,early_election,1,0,2.8000011,repdem_basic_2026_07
+NL,12018,Lubbers I,Lubbers,1982-11-04,1986-05-21,120013.0; 120022.0,2,81.0,coalition_majority,0,57.0,regular_election,0,0,32.700001,repdem_basic_2026_07
+NL,12019,Lubbers II,Lubbers,1986-07-14,1989-05-02,120013.0; 120022.0,2,81.0,coalition_majority,0,54.0,early_election,1,0,10.6,repdem_basic_2026_07
+NL,12020,Lubbers III,Lubbers,1989-11-07,1994-05-03,120013.0; 120007.0,2,103.0,coalition_majority,0,189.0,regular_election,0,0,11.8,repdem_basic_2026_07
+NL,12021,Kok I,Kok,1994-08-22,1998-05-05,120007.0; 120010.0; 120022.0,3,92.0,coalition_majority,0,111.0,regular_election,0,0,23.358,repdem_basic_2026_07
+NL,12022,Kok II,Kok,1998-08-03,2002-04-16,120007.0; 120010.0; 120022.0,3,97.0,coalition_majority,0,90.0,voluntary,0,0,29.311001,repdem_basic_2026_07
+NL,12023,Balkenende I,Balkenende,2002-07-22,2002-10-16,120013.0; 120025.0; 120022.0,3,93.0,coalition_majority,0,97.0,other,0,0,16.456001,repdem_basic_2026_07
+NL,12024,Balkenende II,Balkenende,2003-05-27,2006-06-30,120013.0; 120022.0; 120010.0,3,78.0,coalition_majority,0,223.0,other,0,0,25.612,repdem_basic_2026_07
+NL,12025,Balkenende III,Balkenende,2006-07-07,2006-11-22,120013.0; 120022.0,2,72.0,caretaker,1,7.0,early_election,1,0,25.612,repdem_basic_2026_07
+NL,12026,Balkenende IV,Balkenende,2007-02-22,2010-02-23,120013.0; 120007.0; 120024.0,3,80.0,coalition_majority,0,92.0,other,0,0,7.987,repdem_basic_2026_07
+NL,12027,Balkenende V,Balkenende,2010-02-23,2010-06-09,120013.0; 120024.0,2,47.0,caretaker,1,0.0,early_election,1,0,4.8249998,repdem_basic_2026_07
+NL,12028,Rutte I,Rutte,2010-10-14,2012-04-23,120022.0; 120013.0,2,52.0,minority,0,127.0,early_election,1,0,9.8009996,repdem_basic_2026_07
+NL,12029,Rutte II,Rutte,2012-11-05,2017-03-15,120022.0; 120007.0,2,79.0,coalition_majority,0,196.0,regular_election,0,0,29.187,repdem_basic_2026_07
+NL,12030,Rutte III,Rutte,2017-10-26,2021-03-17,120022.0; 120013.0; 120010.0; 120024.0,4,76.0,coalition_majority,0,225.0,regular_election,0,0,17.466999,repdem_basic_2026_07
+NL,12031,Rutte IV,Rutte,2022-01-10,2023-07-08,120022.0; 120013.0; 120010.0; 120024.0,4,78.0,coalition_majority,0,299.0,other,0,0,23.857,repdem_basic_2026_07
+NL,12032,Schoof I,Schoof,2024-07-02,2025-06-03,129999.0; 120026.0; 120022.0; 120035.0; 120033.0,4,88.0,coalition_majority,0,360.0,other,0,0,,repdem_basic_2026_07
+NL,12033,Schoof II,Schoof,2025-06-03,2025-08-22,129999.0; 120022.0; 120035.0; 120033.0,3,51.0,caretaker,1,0.0,other,0,0,,repdem_basic_2026_07
+NL,12034,Schoof III,Schoof,2025-08-22,2025-10-29,129999.0; 120022.0; 120033.0,2,32.0,caretaker,1,0.0,other,0,0,,repdem_basic_2026_07
+NL,12035,Jetten,Jetten,2026-02-23,,120010.0; 120022.0; 120013.0,3,66.0,minority,0,117.0,in_office,0,0,,repdem_basic_2026_07
+NO,13001,Gerhardsen II,Gerhardsen,1945-11-05,1949-10-10,130003.0,1,76.0,single_majority,0,3.0,regular_election,0,0,0.0,repdem_basic_2026_07
+NO,13002,Gerhardsen III,Gerhardsen,1949-10-10,1951-11-13,130003.0,1,85.0,single_majority,0,0.0,other,0,0,0.0,repdem_basic_2026_07
+NO,13003,Torp I,Torp,1951-11-19,1953-10-12,130003.0,1,85.0,single_majority,0,6.0,regular_election,0,0,0.0,repdem_basic_2026_07
+NO,13004,Torp II,Torp,1953-10-12,1955-01-14,130003.0,1,77.0,single_majority,0,0.0,other,0,0,0.0,repdem_basic_2026_07
+NO,13005,Gerhardsen IV,Gerhardsen,1955-01-22,1957-10-07,130003.0,1,77.0,single_majority,0,8.0,regular_election,0,0,0.0,repdem_basic_2026_07
+NO,13006,Gerhardsen V,Gerhardsen,1957-10-07,1961-09-11,130003.0,1,78.0,single_majority,0,0.0,regular_election,0,0,0.0,repdem_basic_2026_07
+NO,13007,Gerhardsen VI,Gerhardsen,1961-09-11,1963-08-27,130003.0,1,74.0,minority,0,0.0,cabinet_defeat,0,1,0.0,repdem_basic_2026_07
+NO,13008,Lyng,Lyng,1963-08-28,1963-09-21,130008.0; 130006.0; 130004.0; 130005.0,4,74.0,minority,0,1.0,cabinet_defeat,0,1,25.700001,repdem_basic_2026_07
+NO,13009,Gerhardsen VII,Gerhardsen,1963-09-25,1965-09-13,130003.0,1,74.0,minority,0,4.0,regular_election,0,0,0.0,repdem_basic_2026_07
+NO,13010,Borten I,Borten,1965-10-12,1969-09-08,130006.0; 130008.0; 130004.0; 130005.0,4,80.0,coalition_majority,0,29.0,regular_election,0,0,31.0,repdem_basic_2026_07
+NO,13011,Borten II,Borten,1969-09-08,1971-03-02,130006.0; 130008.0; 130004.0; 130005.0,4,76.0,coalition_majority,0,0.0,other,0,0,29.5,repdem_basic_2026_07
+NO,13012,Bratteli I,Bratteli,1971-03-13,1972-10-07,130003.0,1,74.0,minority,0,11.0,other,0,0,0.0,repdem_basic_2026_07
+NO,13013,Korvald,Korvald,1972-10-18,1973-09-10,130005.0; 130006.0; 130004.0,3,47.0,minority,0,11.0,regular_election,0,0,13.5,repdem_basic_2026_07
+NO,13014,Bratteli II,Bratteli,1973-10-16,1976-01-09,130003.0,1,62.0,minority,0,36.0,other,0,0,0.0,repdem_basic_2026_07
+NO,13015,Nordli I,Nordli,1976-01-15,1977-09-12,130003.0,1,62.0,minority,0,6.0,regular_election,0,0,0.0,repdem_basic_2026_07
+NO,13016,Nordli II,Nordli,1977-09-12,1981-01-30,130003.0,1,76.0,minority,0,0.0,other,0,0,0.0,repdem_basic_2026_07
+NO,13017,Brundtland I,Brundtland,1981-02-04,1981-09-14,130003.0,1,76.0,minority,0,5.0,regular_election,0,0,0.0,repdem_basic_2026_07
+NO,13018,Willoch I,Willoch,1981-10-14,1983-06-01,130008.0,1,53.0,minority,0,30.0,other,0,0,0.0,repdem_basic_2026_07
+NO,13019,Willoch II,Willoch,1983-06-08,1985-09-09,130008.0; 130005.0; 130006.0,3,79.0,coalition_majority,0,7.0,regular_election,0,0,23.0,repdem_basic_2026_07
+NO,13020,Willoch III,Willoch,1985-09-09,1986-05-02,130008.0; 130005.0; 130006.0,3,78.0,minority,0,0.0,cabinet_defeat,0,1,4.4999995,repdem_basic_2026_07
+NO,13021,Brundtland II,Brundtland,1986-05-09,1989-09-11,130003.0,1,71.0,minority,0,7.0,regular_election,0,0,0.0,repdem_basic_2026_07
+NO,13022,Syse,Syse,1989-10-16,1990-11-03,130008.0; 130005.0; 130006.0,3,62.0,minority,0,35.0,other,0,0,14.299999,repdem_basic_2026_07
+NO,13023,Brundtland III,Brundtland,1990-11-03,1993-09-13,130003.0,1,63.0,minority,0,0.0,regular_election,0,0,0.0,repdem_basic_2026_07
+NO,13024,Brundtland IV,Brundtland,1993-09-13,1996-10-23,130003.0,1,67.0,minority,0,0.0,other,0,0,0.0,repdem_basic_2026_07
+NO,13025,Jagland,Jagland,1996-10-25,1997-09-15,130003.0,1,67.0,minority,0,2.0,regular_election,0,0,0.0,repdem_basic_2026_07
+NO,13026,Bondevik I,Bondevik,1997-10-17,2000-03-09,130005.0; 130006.0; 130004.0,3,42.0,minority,0,32.0,cabinet_defeat,0,1,6.0040007,repdem_basic_2026_07
+NO,13027,Stoltenberg I,Stoltenberg,2000-03-17,2001-09-10,130003.0,1,65.0,minority,0,8.0,regular_election,0,0,0.0,repdem_basic_2026_07
+NO,13028,Bondevik II,Bondevik,2001-10-19,2005-09-12,130005.0; 130008.0; 130004.0,3,62.0,minority,0,39.0,regular_election,0,0,28.357,repdem_basic_2026_07
+NO,13029,Stoltenberg II,Stoltenberg,2005-10-17,2009-09-14,130003.0; 130002.0; 130006.0,3,87.0,coalition_majority,0,35.0,regular_election,0,0,20.496,repdem_basic_2026_07
+NO,13030,Stoltenberg III,Stoltenberg,2009-09-14,2013-09-09,130003.0; 130002.0; 130006.0,3,86.0,coalition_majority,0,0.0,regular_election,0,0,19.695,repdem_basic_2026_07
+NO,13031,Solberg I,Solberg,2013-10-16,2017-09-11,130008.0; 130009.0,2,77.0,minority,0,37.0,regular_election,0,0,7.0659995,repdem_basic_2026_07
+NO,13032,Solberg II,Solberg,2018-01-17,2019-01-22,130008.0; 130009.0; 130004.0,3,80.0,minority,0,128.0,other,0,0,27.539,repdem_basic_2026_07
+NO,13033,Solberg III,Solberg,2019-01-22,2020-01-20,130008.0; 130009.0; 130004.0; 130005.0,4,88.0,coalition_majority,0,0.0,other,0,0,27.539,repdem_basic_2026_07
+NO,13034,Solberg IV,Solberg,2020-01-20,2021-09-13,130008.0; 130004.0; 130005.0,3,61.0,minority,0,0.0,regular_election,0,0,5.5689998,repdem_basic_2026_07
+NO,13035,Gahr Store I,Gahr Store,2021-10-14,2025-01-30,130003.0; 130006.0,2,76.0,minority,0,31.0,other,0,0,,repdem_basic_2026_07
+NO,13036,Gahr Store II,Gahr Store,2025-02-04,2025-09-08,130003.0,1,48.0,minority,0,5.0,regular_election,0,0,,repdem_basic_2026_07
+NO,13037,Gahr Store III,Gahr Store,2025-09-08,,130003.0,1,53.0,minority,0,0.0,in_office,0,0,,repdem_basic_2026_07
+PL,26001,Olszewski,Olszewski,1991-12-23,1992-06-05,260015.0; 260014.0; 260012.0; 260020.0,4,125.0,minority,0,57.0,cabinet_defeat,0,1,38.889,repdem_basic_2026_07
+PL,26002,Suchocka,Suchocka,1992-07-11,1993-05-28,260017.0; 260012.0; 260014.0; 260022.0; 260020.0; 260023.0,6,196.0,minority,0,36.0,early_election,1,1,26.161999,repdem_basic_2026_07
+PL,26003,Pawlak,Pawlak,1993-11-10,1995-03-01,260006.0; 260009.0,2,303.0,coalition_majority,0,166.0,other,0,0,2.526,repdem_basic_2026_07
+PL,26004,Oleksy,Oleksy,1995-03-07,1996-01-26,260009.0; 260006.0,2,295.0,coalition_majority,0,6.0,voluntary,0,0,2.526,repdem_basic_2026_07
+PL,26005,Cimoszewicz,Cimoszewicz,1996-02-15,1997-09-21,260009.0; 260006.0,2,295.0,coalition_majority,0,20.0,regular_election,0,0,2.526,repdem_basic_2026_07
+PL,26006,Buzek I,Buzek,1997-11-11,2000-06-07,260010.0; 260019.0,2,261.0,coalition_majority,0,51.0,other,0,0,19.011,repdem_basic_2026_07
+PL,26007,Buzek II,Buzek,2000-06-08,2001-09-23,260010.0,1,186.0,minority,0,1.0,regular_election,0,0,0.0,repdem_basic_2026_07
+PL,26008,Miller I,Miller,2001-10-26,2003-03-02,260009.0; 260006.0; 260003.0,3,258.0,coalition_majority,0,33.0,other,0,0,40.625999,repdem_basic_2026_07
+PL,26009,Miller II,Miller,2003-03-03,2004-05-01,260009.0; 260003.0,2,213.0,minority,0,1.0,other,0,0,0.0,repdem_basic_2026_07
+PL,26010,Belka,Belka,2004-06-24,2005-09-25,260009.0; 260003.0,2,172.0,minority,0,54.0,regular_election,0,0,0.0,repdem_basic_2026_07
+PL,26011,Marcinkiewicz I,Marcinkiewicz,2005-11-10,2006-05-04,260005.0,1,155.0,minority,0,46.0,other,0,0,0.0,repdem_basic_2026_07
+PL,26012,Marcinkiewicz II,Marcinkiewicz,2006-05-05,2006-07-10,260005.0; 260001.0; 260002.0,3,238.0,coalition_majority,0,1.0,other,0,0,13.97,repdem_basic_2026_07
+PL,26013,Kaczynski I,Kaczynski,2006-07-19,2007-08-12,260005.0; 260001.0; 260002.0,3,239.0,coalition_majority,0,9.0,other,0,0,13.97,repdem_basic_2026_07
+PL,26014,Kaczynski II,Kaczynski,2007-08-13,2007-10-21,260005.0,1,150.0,minority,0,1.0,early_election,1,0,0.0,repdem_basic_2026_07
+PL,26015,Tusk I,Tusk,2007-11-24,2011-10-09,260024.0; 260006.0,2,240.0,coalition_majority,0,34.0,regular_election,0,0,3.6980002,repdem_basic_2026_07
+PL,26016,Tusk II,Tusk,2011-11-19,2014-09-09,260024.0; 260006.0,2,235.0,coalition_majority,0,41.0,other,0,0,22.711,repdem_basic_2026_07
+PL,26017,Kopacz,Kopacz,2014-09-22,2015-10-25,260024.0; 260006.0,2,234.0,coalition_majority,0,13.0,regular_election,0,0,22.711,repdem_basic_2026_07
+PL,26018,Szydło,Szydło,2015-11-16,2017-12-08,260005.0; 260030.0; 260031.0,2,235.0,coalition_majority,0,22.0,other,0,0,0.0,repdem_basic_2026_07
+PL,26019,Morawiecki I,Morawiecki,2017-12-12,2019-10-13,260005.0; 260030.0; 260031.0,2,237.0,coalition_majority,0,4.0,regular_election,0,0,0.0,repdem_basic_2026_07
+PL,26020,Morawiecki II,Morawiecki,2019-11-15,2021-08-11,260005.0; 260030.0; 260031.0,3,234.0,coalition_majority,0,33.0,other,0,0,0.0,repdem_basic_2026_07
+PL,26021,Morawiecki III,Morawiecki,2021-10-26,2022-06-02,260005.0; 260030.0; 260032.0,3,223.0,minority,0,76.0,other,0,0,0.0,repdem_basic_2026_07
+PL,26022,Morawiecki IV,Morawiecki,2022-06-02,2023-10-15,260005.0; 260030.0; 260032.0; 260036.0,4,226.0,minority,0,0.0,regular_election,0,0,,repdem_basic_2026_07
+PL,26023,Tusk III,Tusk,2023-12-13,,260024.0; 260006.0; 260034.0; 260033.0; 260027.0; 260035.0,6,211.0,minority,0,59.0,in_office,0,0,,repdem_basic_2026_07
+PT,14001,Soares I,Soares,1976-07-23,1977-12-09,140007.0,1,107.0,minority,0,14.0,cabinet_defeat,0,1,0.0,repdem_basic_2026_07
+PT,14002,Soares II,Soares,1978-01-23,1978-07-28,140007.0; 140012.0,2,149.0,coalition_majority,0,45.0,other,0,0,34.926003,repdem_basic_2026_07
+PT,14003,Nobre de Costa,Nobre de Costa,1978-08-29,1978-09-15,149999.0,0,0.0,caretaker,1,32.0,cabinet_defeat,0,1,,repdem_basic_2026_07
+PT,14004,Mota Pinto,Mota Pinto,1978-11-22,1979-06-11,149999.0,0,0.0,caretaker,1,68.0,other,0,0,,repdem_basic_2026_07
+PT,14005,Pintassilgo,Pintassilgo,1979-07-31,1979-12-02,149999.0,0,0.0,caretaker,1,50.0,early_election,1,1,,repdem_basic_2026_07
+PT,14006,Sá Carneiro I,Sá Carneiro,1980-01-03,1980-10-05,140009.0; 140012.0; 140011.0,3,128.0,coalition_majority,0,32.0,regular_election,0,0,0.0,repdem_basic_2026_07
+PT,14007,Sá Carneiro II,Sá Carneiro,1980-10-05,1981-01-09,140009.0; 140012.0; 140011.0,3,128.0,coalition_majority,0,0.0,other,0,0,0.0,repdem_basic_2026_07
+PT,14008,Balsemao I,Balsemao,1981-01-09,1981-08-14,140009.0; 140012.0; 140011.0,3,134.0,coalition_majority,0,0.0,other,0,0,0.0,repdem_basic_2026_07
+PT,14009,Balsemao II,Balsemao,1981-09-04,1982-12-23,140009.0; 140012.0; 140011.0,3,134.0,coalition_majority,0,21.0,early_election,1,0,0.0,repdem_basic_2026_07
+PT,14010,Soares III,Soares,1983-06-09,1985-07-12,140007.0; 140009.0,2,176.0,coalition_majority,0,168.0,early_election,1,0,8.9710007,repdem_basic_2026_07
+PT,14011,Cavaco Silva I,Cavaco Silva,1985-11-06,1987-07-19,140009.0,1,88.0,minority,0,117.0,early_election,1,1,0.0,repdem_basic_2026_07
+PT,14012,Cavaco Silva II,Cavaco Silva,1987-08-17,1991-10-06,140009.0,1,148.0,single_majority,0,29.0,regular_election,0,0,0.0,repdem_basic_2026_07
+PT,14013,Cavaco Silva III,Cavaco Silva,1991-10-31,1995-10-01,140009.0,1,135.0,single_majority,0,25.0,regular_election,0,0,0.0,repdem_basic_2026_07
+PT,14014,Guterres I,Guterres,1995-10-28,1999-10-01,140007.0,1,112.0,minority,0,27.0,regular_election,0,0,0.0,repdem_basic_2026_07
+PT,14015,Guterres II,Guterres,1999-10-25,2001-12-17,140007.0,1,115.0,minority,0,24.0,early_election,1,0,0.0,repdem_basic_2026_07
+PT,14016,Durão Barroso,Durão Barroso,2002-04-06,2004-07-17,140009.0; 140012.0,2,119.0,coalition_majority,0,110.0,other,0,0,15.043,repdem_basic_2026_07
+PT,14017,Santana Lopes,Santana Lopes,2004-07-17,2004-12-13,140009.0; 140012.0,2,119.0,coalition_majority,0,0.0,early_election,1,0,15.043,repdem_basic_2026_07
+PT,14018,Socrates I,Socrates,2005-03-12,2009-09-27,140007.0,1,121.0,single_majority,0,89.0,regular_election,0,0,0.0,repdem_basic_2026_07
+PT,14019,Socrates II,Socrates,2009-10-26,2011-03-31,140007.0,1,97.0,minority,0,29.0,cabinet_defeat,0,1,0.0,repdem_basic_2026_07
+PT,14020,Passos Coelho I,Passos Coelho,2011-06-21,2015-10-04,140009.0; 140012.0,2,132.0,coalition_majority,0,82.0,regular_election,0,0,10.006,repdem_basic_2026_07
+PT,14021,Passos Coelho II,Passos Coelho,2015-10-30,2015-11-26,140009.0; 140012.0,2,107.0,minority,0,26.0,cabinet_defeat,0,1,0.0,repdem_basic_2026_07
+PT,14022,Costa,Costa,2015-11-26,2019-10-06,140007.0,2,104.0,minority,0,0.0,regular_election,0,0,5.131,repdem_basic_2026_07
+PT,14023,Costa II,Costa,2019-10-26,2022-01-30,140007.0,1,108.0,minority,0,20.0,early_election,1,0,0.0,repdem_basic_2026_07
+PT,14024,Costa III,Costa,2022-03-30,2023-11-07,140007.0,1,120.0,single_majority,0,59.0,voluntary,0,0,0.0,repdem_basic_2026_07
+PT,14025,Montenegro I,Montenegro,2024-04-02,2025-03-11,140009.0; 140012.0,2,80.0,minority,0,147.0,cabinet_defeat,0,1,,repdem_basic_2026_07
+PT,14026,Montenegro II,Montenegro,2025-06-05,,140009.0; 140012.0,2,91.0,minority,0,86.0,in_office,0,0,,repdem_basic_2026_07
+RO,27001,Roman,Roman,1990-06-28,1991-09-26,270005.0,1,263.0,single_majority,0,,other,0,0,0.0,repdem_basic_2026_07
+RO,27002,Stolojan,Stolojan,1991-10-17,1992-09-27,270005.0; 270019.0; 270011.0; 270006.0,4,312.0,coalition_majority,0,21.0,regular_election,0,0,44.526001,repdem_basic_2026_07
+RO,27003,Vacaroiu I,Vacaroiu,1992-11-20,1994-08-18,270007.0,1,117.0,minority,0,54.0,other,0,0,0.0,repdem_basic_2026_07
+RO,27004,Vacaroiu II,Vacaroiu,1994-08-18,1996-09-03,270007.0; 270010.0,2,145.0,minority,0,0.0,other,0,0,27.132999,repdem_basic_2026_07
+RO,27005,Vacaroiu III,Vacaroiu,1996-09-03,1996-11-03,270007.0,1,105.0,minority,0,0.0,regular_election,0,0,0.0,repdem_basic_2026_07
+RO,27006,Ciorbea I,Ciorbea,1996-12-12,1997-12-05,270016.0; 270015.0; 270019.0; 270017.0; 270009.0; 270014.0,6,191.0,coalition_majority,0,39.0,voluntary,0,0,19.947001,repdem_basic_2026_07
+RO,27007,Ciorbea II,Ciorbea,1997-12-05,1998-02-02,270016.0; 270015.0; 270019.0; 270017.0; 270009.0,5,187.0,coalition_majority,0,0.0,other,0,0,19.947001,repdem_basic_2026_07
+RO,27008,Ciorbea III,Ciorbea,1998-02-11,1998-03-30,270016.0; 270019.0; 270017.0; 270009.0; 270021.0,5,148.0,minority,0,9.0,other,0,0,19.947001,repdem_basic_2026_07
+RO,27009,Vasile I,Vasile,1998-04-17,1998-10-27,270016.0; 270015.0; 270019.0; 270017.0; 270009.0; 270021.0,6,189.0,coalition_majority,0,18.0,other,0,0,19.947001,repdem_basic_2026_07
+RO,27010,Vasile II,Vasile,1998-10-27,1999-12-13,270016.0; 270015.0; 270019.0; 270017.0; 270009.0,5,188.0,coalition_majority,0,0.0,other,0,0,19.947001,repdem_basic_2026_07
+RO,27011,Isarescu I,Isarescu,1999-12-22,2000-09-14,270016.0; 270015.0; 270019.0; 270017.0; 270009.0,5,178.0,coalition_majority,0,9.0,other,0,0,19.947001,repdem_basic_2026_07
+RO,27012,Isarescu II,Isarescu,2000-09-14,2000-11-26,270016.0; 270015.0; 270019.0; 270017.0,4,161.0,minority,0,0.0,regular_election,0,0,19.947001,repdem_basic_2026_07
+RO,27013,Nastase I,Nastase,2000-12-28,2003-06-19,270007.0; 270009.0; 270013.0,3,155.0,minority,0,32.0,other,0,0,0.0,repdem_basic_2026_07
+RO,27014,Nastase II,Nastase,2003-06-19,2004-11-28,270007.0,1,160.0,minority,0,0.0,regular_election,0,0,0.0,repdem_basic_2026_07
+RO,27015,Popescu-Tariceanu I,Popescu-Tariceanu,2004-12-29,2006-12-04,270019.0; 270015.0; 270017.0; 270013.0,4,153.0,minority,0,31.0,other,0,0,34.348,repdem_basic_2026_07
+RO,27016,Popescu-Tariceanu II,Popescu-Tariceanu,2006-12-04,2007-04-05,270019.0; 270015.0; 270017.0,3,140.0,minority,0,0.0,other,0,0,6.8099999,repdem_basic_2026_07
+RO,27017,Popescu-Tariceanu III,Popescu-Tariceanu,2007-04-05,2008-11-30,270019.0; 270017.0,2,73.0,minority,0,0.0,regular_election,0,0,6.8099999,repdem_basic_2026_07
+RO,27018,Boc I,Boc,2008-12-22,2009-10-01,270015.0; 270007.0,2,225.0,coalition_majority,0,22.0,other,0,0,18.183001,repdem_basic_2026_07
+RO,27019,Boc II,Boc,2009-10-01,2009-10-13,270015.0,1,115.0,minority,0,0.0,cabinet_defeat,0,1,0.0,repdem_basic_2026_07
+RO,27020,Boc III,Boc,2009-12-23,2012-02-06,270015.0; 270017.0; 270008.0,3,145.0,minority,0,71.0,voluntary,0,0,18.183001,repdem_basic_2026_07
+RO,27021,Ungureanu,Ungureanu,2012-02-09,2012-04-27,270015.0; 270017.0; 270008.0,3,158.0,minority,0,3.0,cabinet_defeat,0,1,18.183001,repdem_basic_2026_07
+RO,27022,Ponta I,Ponta,2012-05-07,2012-12-09,270007.0; 270019.0; 270013.0,3,151.0,minority,0,10.0,regular_election,0,0,26.125999,repdem_basic_2026_07
+RO,27023,Ponta II,Ponta,2012-12-21,2014-02-26,270007.0; 270019.0; 270013.0; 270008.0,4,273.0,coalition_majority,0,12.0,other,0,0,0.0,repdem_basic_2026_07
+RO,27024,Ponta III,Ponta,2014-02-26,2014-03-05,270007.0; 270013.0; 270008.0,3,192.0,minority,0,0.0,other,0,0,0.0,repdem_basic_2026_07
+RO,27025,Ponta IV,Ponta,2014-03-05,2014-12-17,270007.0; 270013.0; 270008.0; 270017.0,4,210.0,coalition_majority,0,0.0,other,0,0,28.922001,repdem_basic_2026_07
+RO,27026,Ponta V,Ponta,2014-12-17,2015-11-04,270007.0; 270008.0; 270013.0; 270022.0,4,222.0,coalition_majority,0,0.0,voluntary,0,0,,repdem_basic_2026_07
+RO,27027,Ciolos,Ciolos,2015-11-17,2016-12-11,,0,0.0,single_majority,0,13.0,regular_election,0,0,,repdem_basic_2026_07
+RO,27028,Grindeanu,Grindeanu,2017-01-04,2017-06-21,270007.0; 270023.0,2,174.0,coalition_majority,0,24.0,cabinet_defeat,0,1,44.472,repdem_basic_2026_07
+RO,27029,Tudose,Tudose,2017-06-29,2018-01-16,270007.0; 270023.0,2,168.0,coalition_majority,0,8.0,other,0,0,44.472,repdem_basic_2026_07
+RO,27030,Dancila I,Dancila,2018-01-29,2019-08-27,270007.0; 270023.0,2,159.0,minority,0,13.0,other,0,0,44.472,repdem_basic_2026_07
+RO,27031,Dancila II,Dancila,2019-08-27,2019-10-11,270007.0; 270023.0,2,136.0,minority,0,0.0,cabinet_defeat,0,1,44.472,repdem_basic_2026_07
+RO,27032,Orban I,Orban,2019-11-04,2020-02-05,270019.0,1,69.0,minority,0,24.0,cabinet_defeat,0,1,0.0,repdem_basic_2026_07
+RO,27033,Orban II,Orban,2020-03-14,2020-12-06,270019.0,1,78.0,minority,0,38.0,regular_election,0,0,0.0,repdem_basic_2026_07
+RO,27034,Cîțu I,Cîțu,2020-12-23,2021-09-06,270019.0; 270026.0; 270017.0,3,169.0,coalition_majority,0,17.0,other,0,0,,repdem_basic_2026_07
+RO,27035,Cîțu II,Cîțu,2021-09-06,2021-10-05,270019.0; 270017.0,2,113.0,minority,0,0.0,cabinet_defeat,0,1,,repdem_basic_2026_07
+RO,27036,Ciucă,Ciucă,2021-11-25,2023-06-12,270007.0; 270019.0; 270017.0,3,208.0,coalition_majority,0,51.0,voluntary,0,0,,repdem_basic_2026_07
+RO,27037,Ciolacu I,Ciolacu,2023-06-15,2024-12-01,270007.0; 270019.0,2,188.0,coalition_majority,0,3.0,regular_election,0,0,,repdem_basic_2026_07
+RO,27038,Ciolacu II,Ciolacu,2024-12-23,2025-05-06,270007.0; 270019.0; 270017.0,3,157.0,minority,0,22.0,cabinet_defeat,0,1,,repdem_basic_2026_07
+RO,27039,Predoiu,Predoiu,2025-05-06,2025-06-23,270019.0; 270007.0; 270017.0,3,157.0,minority,0,0.0,voluntary,0,0,,repdem_basic_2026_07
+RO,27040,Bolojan I,Bolojan,2025-06-23,2026-04-23,270019.0; 270007.0; 270026.0; 270017.0; 270032.0,5,205.0,coalition_majority,0,0.0,other,0,0,,repdem_basic_2026_07
+RO,27041,Bolojan II,Bolojan,2026-04-23,2026-05-05,270019.0; 27026.0; 270017.0; 270032.0,4,113.0,minority,0,1.0,cabinet_defeat,0,1,,repdem_basic_2026_07
+SE,16001,Hansson,Hansson,1945-07-31,1946-10-06,160003.0,1,115.0,minority,0,0.0,other,0,0,0.0,repdem_basic_2026_07
+SE,16002,Erlander I,Erlander,1946-10-11,1948-09-19,160003.0,1,115.0,minority,0,5.0,regular_election,0,0,0.0,repdem_basic_2026_07
+SE,16003,Erlander II,Erlander,1948-09-19,1951-10-01,160003.0,1,112.0,minority,0,0.0,other,0,0,0.0,repdem_basic_2026_07
+SE,16004,Erlander III,Erlander,1951-10-01,1952-09-21,160003.0; 160005.0,2,142.0,coalition_majority,0,0.0,regular_election,0,0,28.500002,repdem_basic_2026_07
+SE,16005,Erlander IV,Erlander,1952-09-21,1956-09-16,160003.0; 160005.0,2,136.0,coalition_majority,0,0.0,regular_election,0,0,29.5,repdem_basic_2026_07
+SE,16006,Erlander V,Erlander,1956-09-16,1957-10-26,160003.0; 160005.0,2,125.0,coalition_majority,0,0.0,other,0,0,46.0,repdem_basic_2026_07
+SE,16007,Erlander VI,Erlander,1957-10-31,1958-06-01,160003.0,1,106.0,minority,0,5.0,early_election,1,0,0.0,repdem_basic_2026_07
+SE,16008,Erlander VII,Erlander,1958-06-01,1960-09-18,160003.0,1,111.0,minority,0,0.0,regular_election,0,0,0.0,repdem_basic_2026_07
+SE,16009,Erlander VIII,Erlander,1960-09-18,1964-09-20,160003.0,1,114.0,minority,0,0.0,regular_election,0,0,0.0,repdem_basic_2026_07
+SE,16010,Erlander IX,Erlander,1964-09-20,1968-09-15,160003.0,1,113.0,minority,0,0.0,regular_election,0,0,0.0,repdem_basic_2026_07
+SE,16011,Erlander X,Erlander,1968-09-15,1969-10-14,160003.0,1,125.0,single_majority,0,0.0,voluntary,0,0,0.0,repdem_basic_2026_07
+SE,16012,Palme I,Palme,1969-10-14,1970-09-20,160003.0,1,125.0,single_majority,0,0.0,regular_election,0,0,0.0,repdem_basic_2026_07
+SE,16013,Palme II,Palme,1970-09-20,1973-09-16,160003.0,1,163.0,minority,0,0.0,regular_election,0,0,0.0,repdem_basic_2026_07
+SE,16014,Palme III,Palme,1973-09-16,1976-09-19,160003.0,1,156.0,minority,0,0.0,regular_election,0,0,0.0,repdem_basic_2026_07
+SE,16015,Fälldin I,Fälldin,1976-10-08,1978-10-05,160005.0; 160004.0; 160007.0,3,180.0,coalition_majority,0,19.0,other,0,0,20.400002,repdem_basic_2026_07
+SE,16016,Ullsten,Ullsten,1978-10-18,1979-09-16,160004.0,1,39.0,minority,0,13.0,regular_election,0,0,0.0,repdem_basic_2026_07
+SE,16017,Fälldin II,Fälldin,1979-10-12,1981-05-08,160005.0; 160004.0; 160007.0,3,175.0,coalition_majority,0,26.0,other,0,0,38.299999,repdem_basic_2026_07
+SE,16018,Fälldin III,Fälldin,1981-05-22,1982-09-19,160005.0; 160004.0,2,102.0,minority,0,14.0,regular_election,0,0,7.0999994,repdem_basic_2026_07
+SE,16019,Palme IV,Palme,1982-10-08,1985-09-15,160003.0,1,166.0,minority,0,19.0,regular_election,0,0,0.0,repdem_basic_2026_07
+SE,16020,Palme V,Palme,1985-09-15,1986-03-01,160003.0,1,159.0,minority,0,0.0,other,0,0,0.0,repdem_basic_2026_07
+SE,16021,Carlsson I,Carlsson,1986-03-14,1988-09-18,160003.0,1,159.0,minority,0,13.0,regular_election,0,0,0.0,repdem_basic_2026_07
+SE,16022,Carlsson II,Carlsson,1988-09-18,1991-09-15,160003.0,1,156.0,minority,0,0.0,regular_election,0,0,0.0,repdem_basic_2026_07
+SE,16023,Bildt,Bildt,1991-10-04,1994-09-18,160007.0; 160005.0; 160006.0; 160004.0,4,170.0,minority,0,19.0,regular_election,0,0,48.294998,repdem_basic_2026_07
+SE,16024,Carlsson III,Carlsson,1994-10-07,1996-03-18,160003.0,1,161.0,minority,0,19.0,voluntary,0,0,0.0,repdem_basic_2026_07
+SE,16025,Persson I,Persson,1996-03-22,1998-09-20,160003.0,1,161.0,minority,0,4.0,regular_election,0,0,0.0,repdem_basic_2026_07
+SE,16026,Persson II,Persson,1998-09-20,2002-09-15,160003.0,1,131.0,minority,0,0.0,regular_election,0,0,0.0,repdem_basic_2026_07
+SE,16027,Persson III,Persson,2002-09-15,2006-09-17,160003.0,1,144.0,minority,0,0.0,regular_election,0,0,0.0,repdem_basic_2026_07
+SE,16028,Reinfeldt I,Reinfeldt,2006-10-06,2010-09-19,160007.0; 160005.0; 160006.0; 160004.0,4,178.0,coalition_majority,0,19.0,regular_election,0,0,19.004,repdem_basic_2026_07
+SE,16029,Reinfeldt II,Reinfeldt,2010-09-19,2014-09-14,160007.0; 160004.0; 160005.0; 160006.0,4,173.0,minority,0,0.0,regular_election,0,0,12.945,repdem_basic_2026_07
+SE,16030,Löfven I,Löfven,2014-10-03,2018-09-09,160003.0; 160002.0,2,138.0,minority,0,19.0,other,0,0,26.337999,repdem_basic_2026_07
+SE,16031,Löfven II,Löfven,2019-01-21,2021-06-21,160003.0; 160002.0,2,116.0,minority,0,134.0,cabinet_defeat,0,1,4.0340004,repdem_basic_2026_07
+SE,16032,Löfven III,Löfven,2021-07-09,2021-11-30,160003.0; 160002.0,2,116.0,minority,0,18.0,voluntary,0,0,4.0340004,repdem_basic_2026_07
+SE,16033,Andersson,Andersson,2021-11-30,2022-09-11,160003.0,1,100.0,minority,0,0.0,regular_election,0,0,0.0,repdem_basic_2026_07
+SE,16034,Kristersson,Kristersson,2022-10-18,2026-09-13,160007.0; 160006.0; 160004.0,3,103.0,minority,0,37.0,regular_election,0,0,23.75,repdem_basic_2026_07
+SI,29001,Peterle,Peterle,1990-05-16,1992-04-22,290012.0; 290011.0; 290009.0; 290017.0; 290014.0; 290015.0,6,47.0,coalition_majority,0,38.0,cabinet_defeat,0,1,,repdem_basic_2026_07
+SI,29002,Drnovšek I,Drnovšek,1992-05-14,1992-12-06,290013.0; 290002.0; 290015.0; 290014.0; 290011.0; 290001.0,6,53.0,coalition_majority,0,22.0,regular_election,0,0,,repdem_basic_2026_07
+SI,29003,Drnovšek II,Drnovšek,1993-01-25,1994-03-29,290013.0; 290012.0; 290004.0; 290015.0,4,55.0,coalition_majority,0,50.0,other,0,0,76.678001,repdem_basic_2026_07
+SI,29004,Drnovšek III,Drnovšek,1994-03-29,1996-01-31,290013.0; 290012.0; 290004.0,3,51.0,coalition_majority,0,0.0,other,0,0,76.678001,repdem_basic_2026_07
+SI,29005,Drnovšek IV,Drnovšek,1996-01-31,1996-11-10,290013.0; 290012.0,2,45.0,minority,0,0.0,regular_election,0,0,65.250999,repdem_basic_2026_07
+SI,29006,Drnovšek V,Drnovšek,1997-02-27,2000-04-08,290013.0; 290009.0; 290003.0,3,49.0,coalition_majority,0,109.0,cabinet_defeat,0,1,41.596001,repdem_basic_2026_07
+SI,29007,Bajuk,Bajuk,2000-06-07,2000-10-15,290009.0; 290015.0; 290012.0,3,36.0,minority,0,60.0,regular_election,0,0,23.396999,repdem_basic_2026_07
+SI,29008,Drnovšek VI,Drnovšek,2000-11-30,2002-12-02,290013.0; 290009.0; 290004.0,3,54.0,coalition_majority,0,46.0,other,0,0,24.91,repdem_basic_2026_07
+SI,29009,Rop I,Rop,2002-12-19,2004-04-04,290013.0; 290004.0; 290009.0; 290003.0,4,58.0,coalition_majority,0,17.0,other,0,0,24.91,repdem_basic_2026_07
+SI,29010,Rop II,Rop,2004-04-04,2004-10-03,290013.0; 290004.0; 290003.0,3,49.0,coalition_majority,0,0.0,regular_election,0,0,24.91,repdem_basic_2026_07
+SI,29011,Janša I,Janša,2004-12-03,2008-09-21,290015.0; 290016.0; 290009.0; 290003.0,4,49.0,coalition_majority,0,61.0,regular_election,0,0,20.189999,repdem_basic_2026_07
+SI,29012,Pahor I,Pahor,2008-11-21,2011-05-09,290004.0; 290006.0; 290003.0; 290013.0,4,50.0,coalition_majority,0,61.0,other,0,0,18.536999,repdem_basic_2026_07
+SI,29013,Pahor II,Pahor,2011-05-09,2011-06-27,290004.0; 290006.0; 290013.0,3,42.0,minority,0,0.0,other,0,0,17.776001,repdem_basic_2026_07
+SI,29014,Pahor III,Pahor,2011-06-27,2011-09-20,290004.0; 290013.0,2,33.0,minority,0,0.0,early_election,1,1,16.802,repdem_basic_2026_07
+SI,29015,Janša II,Janša,2012-02-10,2013-01-23,290015.0; 290016.0; 290009.0; 290003.0; 290018.0,5,50.0,coalition_majority,0,143.0,other,0,0,7.9350004,repdem_basic_2026_07
+SI,29016,Janša III,Janša,2013-01-23,2013-02-22,290015.0; 290016.0; 290009.0; 290003.0,4,41.0,minority,0,0.0,cabinet_defeat,0,1,7.9350004,repdem_basic_2026_07
+SI,29017,Bratušek,Bratušek,2013-03-20,2014-05-05,290010.0; 290004.0; 290018.0; 290003.0,4,50.0,coalition_majority,0,26.0,other,0,0,18.540001,repdem_basic_2026_07
+SI,29018,Cerar,Cerar,2014-09-18,2018-06-03,290020.0; 290003.0; 290004.0,3,43.0,coalition_majority,0,136.0,early_election,1,0,11.188999,repdem_basic_2026_07
+SI,29019,Šarec,Šarec,2018-09-13,2020-01-27,290021.0; 290020.0; 290003.0; 290004.0; 290019.0,5,43.0,minority,0,102.0,other,0,0,31.32,repdem_basic_2026_07
+SI,29020,Janša IV,Janša,2020-03-13,2020-12-17,290015.0; 290016.0; 290020.0; 290003.0,4,48.0,coalition_majority,0,46.0,other,0,0,44.869003,repdem_basic_2026_07
+SI,29021,Janša V,Janša,2020-12-17,2021-12-04,290015.0; 290016.0; 290020.0,3,41.0,minority,0,0.0,other,0,0,25.007,repdem_basic_2026_07
+SI,29022,Janša VI,Janša,2021-12-04,2022-04-24,290015.0; 290016.0; 290023.0,3,38.0,minority,0,0.0,regular_election,0,0,,repdem_basic_2026_07
+SI,29023,Golob,Golob,2022-06-01,2026-03-22,290024.0; 290004.0; 290022.0,3,53.0,coalition_majority,0,38.0,regular_election,0,0,,repdem_basic_2026_07
+SI,29024,Janša VII,Janša,2026-06-04,,290015.0; 290027.0; 290029.0,3,43.0,minority,0,74.0,in_office,0,0,,repdem_basic_2026_07
+SK,28001,Mečiar I,Mečiar,1992-06-24,1993-03-19,280008.0; 280007.0,2,89.0,coalition_majority,0,18.0,other,0,0,1.056,repdem_basic_2026_07
+SK,28002,Mečiar II,Mečiar,1993-03-19,1993-11-10,280008.0,1,74.0,minority,0,0.0,other,0,0,0.0,repdem_basic_2026_07
+SK,28003,Mečiar III,Mečiar,1993-11-10,1994-03-14,280008.0; 280007.0,2,89.0,coalition_majority,0,0.0,other,0,0,1.056,repdem_basic_2026_07
+SK,28004,Moravčik,Moravčik,1994-03-16,1994-10-01,280010.0; 280003.0; 280012.0,3,74.0,minority,0,2.0,regular_election,0,0,,repdem_basic_2026_07
+SK,28005,Mečiar IV,Mečiar,1994-12-13,1998-09-26,280008.0; 280002.0; 280007.0,3,83.0,coalition_majority,0,73.0,regular_election,0,0,14.715,repdem_basic_2026_07
+SK,28006,Dzurinda I,Dzurinda,1998-10-30,2002-09-22,280015.0; 280003.0; 280009.0; 280006.0,4,93.0,coalition_majority,0,34.0,regular_election,0,0,12.367001,repdem_basic_2026_07
+SK,28007,Dzurinda II,Dzurinda,2002-10-16,2005-09-01,280016.0; 280009.0; 280012.0; 280014.0,4,78.0,coalition_majority,0,24.0,other,0,0,37.880001,repdem_basic_2026_07
+SK,28008,Dzurinda III,Dzurinda,2005-09-01,2006-02-07,280016.0; 280009.0; 280012.0,3,63.0,minority,0,0.0,other,0,0,37.880001,repdem_basic_2026_07
+SK,28009,Dzurinda IV,Dzurinda,2006-02-08,2006-06-17,280016.0; 280009.0,2,48.0,minority,0,1.0,regular_election,0,0,37.880001,repdem_basic_2026_07
+SK,28010,Fico I,Fico,2006-07-04,2010-06-12,280005.0; 280007.0; 280008.0,3,85.0,coalition_majority,0,17.0,regular_election,0,0,29.345999,repdem_basic_2026_07
+SK,28011,Radičová,Radičová,2010-07-09,2011-10-11,280016.0; 280017.0; 280012.0; 280011.0,4,79.0,coalition_majority,0,27.0,early_election,1,1,33.694,repdem_basic_2026_07
+SK,28012,Fico II,Fico,2012-04-04,2016-03-05,280005.0,1,83.0,single_majority,0,176.0,regular_election,0,0,0.0,repdem_basic_2026_07
+SK,28013,Fico III,Fico,2016-03-23,2016-08-30,280005.0; 280007.0; 280011.0; 280019.0,4,81.0,coalition_majority,0,18.0,other,0,0,21.281,repdem_basic_2026_07
+SK,28014,Fico IV,Fico,2016-08-31,2018-03-15,280005.0; 280007.0; 280011.0,3,79.0,coalition_majority,0,1.0,other,0,0,21.281,repdem_basic_2026_07
+SK,28015,Pellegrini,Pellegrini,2018-03-22,2020-02-29,280005.0; 280007.0; 280011.0,3,78.0,coalition_majority,0,7.0,regular_election,0,0,21.281,repdem_basic_2026_07
+SK,28016,Matovič,Matovič,2020-03-21,2021-04-01,280013.0; 280020.0; 280017.0; 280021.0,4,95.0,coalition_majority,0,21.0,other,0,0,,repdem_basic_2026_07
+SK,28017,Heger,Heger,2021-04-01,2023-05-13,280013.0; 280020.0; 280017.0; 280021.0,4,93.0,coalition_majority,0,0.0,cabinet_defeat,0,1,,repdem_basic_2026_07
+SK,28018,Ódor,Ódor,2023-05-15,2023-09-30,,0,0.0,single_majority,0,2.0,early_election,1,0,,repdem_basic_2026_07
+SK,28019,Fico V,Fico,2023-10-25,,280005.0; 280007.0; 280022.0,3,79.0,coalition_majority,0,25.0,in_office,0,0,,repdem_basic_2026_07
+UK,17001,Attlee I,Attlee,1945-07-26,1950-02-23,170006.0,1,393.0,single_majority,0,1.0,regular_election,0,0,0.0,repdem_basic_2026_07
+UK,17002,Attlee II,Attlee,1950-02-24,1951-10-25,170006.0,1,315.0,single_majority,0,1.0,early_election,1,0,0.0,repdem_basic_2026_07
+UK,17003,Churchill II,Churchill,1951-10-26,1955-04-05,170009.0,1,321.0,single_majority,0,1.0,voluntary,0,0,0.0,repdem_basic_2026_07
+UK,17004,Eden I,Eden,1955-04-06,1955-05-26,170009.0,1,322.0,single_majority,0,1.0,early_election,1,0,0.0,repdem_basic_2026_07
+UK,17005,Eden II,Eden,1955-05-27,1957-01-09,170009.0,1,344.0,single_majority,0,1.0,voluntary,0,0,0.0,repdem_basic_2026_07
+UK,17006,Macmillan I,Macmillan,1957-01-10,1959-10-08,170009.0,1,336.0,single_majority,0,1.0,early_election,1,0,0.0,repdem_basic_2026_07
+UK,17007,Macmillan II,Macmillan,1959-10-09,1963-10-19,170009.0,1,365.0,single_majority,0,1.0,voluntary,0,0,0.0,repdem_basic_2026_07
+UK,17008,Douglas-Home,Douglas-Home,1963-10-19,1964-10-15,170009.0,1,361.0,single_majority,0,0.0,regular_election,0,0,0.0,repdem_basic_2026_07
+UK,17009,Wilson I,Wilson,1964-10-16,1966-03-31,170006.0,1,317.0,single_majority,0,1.0,early_election,1,0,0.0,repdem_basic_2026_07
+UK,17010,Wilson II,Wilson,1966-04-01,1970-06-18,170006.0,1,363.0,single_majority,0,1.0,early_election,1,0,0.0,repdem_basic_2026_07
+UK,17011,Heath,Heath,1970-06-19,1974-02-28,170009.0,1,330.0,single_majority,0,1.0,early_election,1,0,0.0,repdem_basic_2026_07
+UK,17012,Wilson III,Wilson,1974-03-04,1974-10-10,170006.0,1,301.0,minority,0,4.0,early_election,1,0,0.0,repdem_basic_2026_07
+UK,17013,Wilson IV,Wilson,1974-10-11,1976-04-05,170006.0,1,319.0,single_majority,0,1.0,other,0,0,0.0,repdem_basic_2026_07
+UK,17014,Callaghan,Callaghan,1976-04-05,1979-05-03,170006.0,1,318.0,single_majority,0,0.0,early_election,1,1,0.0,repdem_basic_2026_07
+UK,17015,Thatcher I,Thatcher,1979-05-04,1983-06-09,170009.0,1,339.0,single_majority,0,1.0,early_election,1,0,0.0,repdem_basic_2026_07
+UK,17016,Thatcher II,Thatcher,1983-06-10,1987-06-11,170009.0,1,397.0,single_majority,0,1.0,early_election,1,0,0.0,repdem_basic_2026_07
+UK,17017,Thatcher III,Thatcher,1987-06-11,1990-11-28,170009.0,1,376.0,single_majority,0,0.0,other,0,0,0.0,repdem_basic_2026_07
+UK,17018,Major I,Major,1990-11-28,1992-04-09,170009.0,1,373.0,single_majority,0,0.0,regular_election,0,0,0.0,repdem_basic_2026_07
+UK,17019,Major II,Major,1992-04-10,1997-05-01,170009.0,1,336.0,single_majority,0,1.0,regular_election,0,0,0.0,repdem_basic_2026_07
+UK,17020,Blair I,Blair,1997-05-02,2001-06-07,170006.0,1,418.0,single_majority,0,1.0,early_election,1,0,0.0,repdem_basic_2026_07
+UK,17021,Blair II,Blair,2001-06-07,2005-05-05,170006.0,1,412.0,single_majority,0,0.0,early_election,1,0,0.0,repdem_basic_2026_07
+UK,17022,Blair III,Blair,2005-05-05,2007-06-27,170006.0,1,355.0,single_majority,0,0.0,voluntary,0,0,0.0,repdem_basic_2026_07
+UK,17023,Brown,Brown,2007-06-27,2010-05-06,170006.0,1,354.0,single_majority,0,0.0,regular_election,0,0,0.0,repdem_basic_2026_07
+UK,17024,Cameron I,Cameron,2010-05-11,2015-05-07,170009.0; 170007.0,2,363.0,coalition_majority,0,5.0,regular_election,0,0,12.880001,repdem_basic_2026_07
+UK,17025,Cameron II,Cameron,2015-05-07,2016-07-13,170009.0,1,330.0,single_majority,0,0.0,voluntary,0,0,0.0,repdem_basic_2026_07
+UK,17026,May I,May,2016-07-13,2017-06-08,170009.0,1,330.0,single_majority,0,0.0,early_election,1,0,0.0,repdem_basic_2026_07
+UK,17027,May II,May,2017-06-08,2019-07-24,170009.0,1,317.0,minority,0,0.0,voluntary,0,0,0.0,repdem_basic_2026_07
+UK,17028,Johnson I,Johnson,2019-07-24,2019-12-12,170009.0,1,317.0,minority,0,0.0,early_election,1,0,0.0,repdem_basic_2026_07
+UK,17029,Johnson II,Johnson,2019-12-16,2022-09-06,170009.0,1,365.0,single_majority,0,4.0,voluntary,0,0,0.0,repdem_basic_2026_07
+UK,17030,Truss,Truss,2022-09-06,2022-10-25,170009.0,1,365.0,single_majority,0,0.0,voluntary,0,0,0.0,repdem_basic_2026_07
+UK,17031,Sunak,Sunak,2022-10-25,2024-07-04,170009.0,1,365.0,single_majority,0,0.0,early_election,1,0,0.0,repdem_basic_2026_07
+UK,17032,Starmer,Starmer,2024-07-05,2026-06-22,170006.0,1,411.0,single_majority,0,1.0,voluntary,0,0,0.0,repdem_basic_2026_07
+UK,17033,Burnham,Burnham,2026-07-20,,170006.0,1,404.0,single_majority,0,28.0,in_office,0,0,0.0,repdem_basic_2026_07

@@ -1,0 +1,720 @@
+# Event annotations for the PEI chart. One entry per note.
+# Each note was checked against data/pei_country_year.csv; the `data` field states what the data shows in that year.
+# Country codes are quoted so YAML 1.1 parsers do not read "NO" as false.
+# Fields: country, year, label (<= 60 chars), text (<= 200 chars), source, data.
+
+# --- Austria ---
+- country: "AT"
+  year: 1995
+  label: "Coalition splits over the budget"
+  text: "The 1995 budget passed late after the 1994 election. In the autumn the coalition split over the 1996 budget and a snap election was held in December."
+  source: https://en.wikipedia.org/wiki/1995_Austrian_legislative_election
+  data: "pei 92→62; budget late (117 days); early election"
+- country: "AT"
+  year: 2007
+  label: "Late budget after long coalition talks"
+  text: "After the October 2006 election, Gusenbauer's grand coalition took office only in January 2007, and the 2007 budget passed late."
+  source: https://en.wikipedia.org/wiki/2006_Austrian_legislative_election
+  data: "pei 72→45; budget late (130 days); PM change"
+- country: "AT"
+  year: 2019
+  label: "Ibiza affair brings down the government"
+  text: "Kurz lost a no-confidence vote in May. A caretaker cabinet under Brigitte Bierlein served until after the September snap election."
+  source: https://en.wikipedia.org/wiki/Ibiza_affair
+  data: "stability 100→46; caretaker share 0.29; early election; PM change"
+- country: "AT"
+  year: 2025
+  label: "Five months to form a government"
+  text: "After the September 2024 election, two rounds of coalition talks failed. Stocker's three-party coalition took office in March 2025 and the 2025 budget passed late."
+  source: https://en.wikipedia.org/wiki/2024_Austrian_legislative_election
+  data: "pei 74→39; budget late (180 days); caretaker share 0.17"
+
+# --- Belgium ---
+- country: "BE"
+  year: 1988
+  label: "A year with no budget law"
+  text: "After the December 1987 election it took until May 1988 to form Martens' eighth government. No budget law for 1988 was passed."
+  source: https://en.wikipedia.org/wiki/1987_Belgian_general_election
+  data: "pei 56→23; budget rolled_over; caretaker share 0.35"
+- country: "BE"
+  year: 2011
+  label: "541 days without a government"
+  text: "After the June 2010 election, Leterme stayed on as caretaker until Di Rupo's coalition took office in December 2011."
+  source: https://en.wikipedia.org/wiki/2010%E2%80%932011_Belgian_government_formation
+  data: "pei 59→30; caretaker share 0.93; stability 0; budget late"
+- country: "BE"
+  year: 2019
+  label: "Caretaker rule and provisional budgets"
+  text: "Michel's government resigned in December 2018. Caretaker governments ran the country through 2019 without a full-year budget."
+  source: https://en.wikipedia.org/wiki/2019%E2%80%932020_Belgian_government_formation
+  data: "pei 91→36; caretaker share 0.82; budget rolled_over"
+- country: "BE"
+  year: 2025
+  label: "Seven-month formation and a late budget"
+  text: "After the June 2024 election, De Wever's five-party coalition took office in February 2025. The 2025 budget passed late."
+  source: https://en.wikipedia.org/wiki/2024_Belgian_federal_election
+  data: "pei 59→49; budget late (180 days); 2024 caretaker share 0.56"
+
+# --- Bulgaria ---
+- country: "BG"
+  year: 2013
+  label: "Protests bring down Borisov"
+  text: "Borisov resigned in February after mass protests over power prices. A caretaker cabinet served until the May snap election."
+  source: https://en.wikipedia.org/wiki/2013_Bulgarian_parliamentary_election
+  data: "pei 80→51; early election; 2 PM changes"
+- country: "BG"
+  year: 2021
+  label: "Three elections in one year"
+  text: "The April and July elections produced no government. Caretaker cabinets served until Petkov took office after the November vote."
+  source: https://en.wikipedia.org/wiki/2021_Bulgarian_general_election
+  data: "pei 75→38; stability 100→30; caretaker share 0.34; 2 PM changes"
+- country: "BG"
+  year: 2022
+  label: "Petkov government falls"
+  text: "The 2022 budget passed late, in February. Petkov lost a no-confidence vote in June and a caretaker cabinet ran the country to the October snap election."
+  source: https://en.wikipedia.org/wiki/2022_Bulgarian_parliamentary_election
+  data: "pei 38→20; budget late (62 days); early election"
+- country: "BG"
+  year: 2024
+  label: "Two more snap elections"
+  text: "Elections were held in June and October 2024, the sixth and seventh since 2021. Zhelyazkov's government took office in January 2025."
+  source: https://en.wikipedia.org/wiki/October_2024_Bulgarian_parliamentary_election
+  data: "stability 48→11; 2 early elections; caretaker share 0.49"
+
+# --- Switzerland ---
+- country: "CH"
+  year: 1999
+  label: "Voters approve a revised constitution"
+  text: "Voters approved a fully revised federal constitution in April 1999. Substantive laws passed rose from 31 to 53."
+  source: https://en.wikipedia.org/wiki/Swiss_Federal_Constitution
+  data: "pei 77→100; throughput 49→100; laws 31→53"
+- country: "CH"
+  year: 2020
+  label: "Pandemic laws"
+  text: "Parliament passed the COVID-19 Act in September 2020 to give the Federal Council's emergency measures a legal basis."
+  source: https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Switzerland
+  data: "pei 81→92; throughput 57→83; laws 28→52"
+
+# --- Cyprus ---
+- country: "CY"
+  year: 1977
+  label: "Makarios dies in office"
+  text: "President Makarios died in August 1977. Spyros Kyprianou served as acting president and was then elected to the office."
+  source: https://en.wikipedia.org/wiki/Makarios_III
+  data: "pei 57→43; caretaker share 0.34; stability 100→66"
+- country: "CY"
+  year: 1986
+  label: "Late budget after early House election"
+  text: "House elections were brought forward to December 1985 after the two largest parties clashed with President Kyprianou. The 1986 budget passed late."
+  source: https://en.wikipedia.org/wiki/1985_Cypriot_legislative_election
+  data: "pei 73→53; budget late (59 days)"
+
+# --- Czechia ---
+- country: "CZ"
+  year: 2006
+  label: "A 100 to 100 parliament"
+  text: "The June 2006 election split the chamber 100 to 100. Topolánek's first cabinet lost a confidence vote and stayed on as caretaker into 2007."
+  source: https://en.wikipedia.org/wiki/2006_Czech_parliamentary_election
+  data: "pei 91→69; caretaker share 0.50; stability 90→40"
+- country: "CZ"
+  year: 2013
+  label: "Nečas falls, snap election"
+  text: "Nečas resigned in June 2013 over a scandal. Rusnok's appointed cabinet lost a confidence vote and an early election followed in October."
+  source: https://en.wikipedia.org/wiki/2013_Czech_parliamentary_election
+  data: "pei 84→50; caretaker share 0.45; early election; PM change"
+- country: "CZ"
+  year: 2018
+  label: "Minority cabinet without confidence"
+  text: "Babiš's first cabinet lost a confidence vote in January 2018 and governed as caretaker until his second cabinet won confidence in July."
+  source: https://en.wikipedia.org/wiki/2017_Czech_parliamentary_election
+  data: "pei 63→56; caretaker share 0.42; laws 107→42"
+- country: "CZ"
+  year: 2025
+  label: "Change of government after election"
+  text: "After the October 2025 election Fiala's cabinet stayed on until Babiš was appointed prime minister on 9 December."
+  source: https://en.wikipedia.org/wiki/2025_Czech_parliamentary_election
+  data: "pei 77→57; caretaker share 0.20; PM change"
+
+# --- Germany ---
+- country: "DE"
+  year: 1982
+  label: "Kohl replaces Schmidt"
+  text: "Schmidt's coalition broke up in September 1982. Kohl won a constructive no-confidence vote in October and called an early election for March 1983."
+  source: https://en.wikipedia.org/wiki/1983_West_German_federal_election
+  data: "pei 33 (1981: 71→37); budget late; PM change"
+- country: "DE"
+  year: 2018
+  label: "Six months to form a coalition"
+  text: "After the September 2017 election, Merkel's fourth cabinet took office in March 2018, and the 2018 budget passed in July."
+  source: https://en.wikipedia.org/wiki/Fourth_Merkel_cabinet
+  data: "pei 77→51; budget late (197 days); caretaker share 0.20"
+- country: "DE"
+  year: 2024
+  label: "Court ruling delays the budget"
+  text: "The Constitutional Court struck down a €60bn fund transfer in November 2023, so the 2024 budget passed only in February. The coalition broke up in November."
+  source: https://en.wikipedia.org/wiki/2024_German_government_crisis
+  data: "pei 65→36; budget late (42 days); throughput 21→10"
+- country: "DE"
+  year: 2025
+  label: "Snap election and a budget in September"
+  text: "After the February 2025 snap election, Merz took office in May. The 2025 budget passed in September."
+  source: https://en.wikipedia.org/wiki/2025_German_federal_election
+  data: "pei 36→23; caretaker share 0.34; budget late (274 days)"
+
+# --- Denmark ---
+- country: "DK"
+  year: 1953
+  label: "New constitution and two elections"
+  text: "Voters approved a new constitution in May 1953. Elections were held in April and September, and Hedtoft replaced Eriksen as prime minister."
+  source: https://en.wikipedia.org/wiki/1953_Danish_constitutional_and_electoral_age_referendum
+  data: "pei 71→20; caretaker share 0.44; PM change"
+- country: "DK"
+  year: 1984
+  label: "Budget defeat forces an election"
+  text: "Schlüter's minority government lost the budget vote in December 1983 and called an election for January 1984. The budget then passed late."
+  source: https://en.wikipedia.org/wiki/1984_Danish_general_election
+  data: "pei 91→65; budget late (66 days); early election"
+- country: "DK"
+  year: 2023
+  label: "Late budget after snap election"
+  text: "After the November 2022 snap election, Frederiksen's new cross-bloc coalition took office in December, and the 2023 budget passed late."
+  source: https://en.wikipedia.org/wiki/2022_Danish_general_election
+  data: "pei 57→43; budget late (135 days)"
+
+# --- Estonia ---
+- country: "EE"
+  year: 2019
+  label: "Coalition talks after the March election"
+  text: "After the March 2019 election, Ratas formed a new three-party coalition, which took office at the end of April."
+  source: https://en.wikipedia.org/wiki/2019_Estonian_parliamentary_election
+  data: "pei 74→65; caretaker share 0.16; stability 100→84"
+- country: "EE"
+  year: 2021
+  label: "Ratas resigns, Kallas takes over"
+  text: "Ratas resigned in January 2021 over a corruption investigation in his party. Kaja Kallas formed a new coalition later that month."
+  source: https://en.wikipedia.org/wiki/J%C3%BCri_Ratas
+  data: "pei 71→70; stability 100→87; PM change"
+
+# --- Spain ---
+- country: "ES"
+  year: 1996
+  label: "Budget defeat and snap election"
+  text: "Parliament rejected the 1996 budget in late 1995. González called an early election for March, and Aznar took office in May."
+  source: https://en.wikipedia.org/wiki/1996_Spanish_general_election
+  data: "pei 85→56; budget rolled_over; early election; PM change"
+- country: "ES"
+  year: 2016
+  label: "Ten months without a government"
+  text: "After the December 2015 and June 2016 elections, Rajoy governed as caretaker until he won an investiture vote in October."
+  source: https://en.wikipedia.org/wiki/2015%E2%80%932016_Spanish_government_formation
+  data: "pei 72→36; caretaker share 0.84; laws 81→10"
+- country: "ES"
+  year: 2019
+  label: "Two general elections in one year"
+  text: "Sánchez called an April election after his budget was rejected. No investiture followed, so a second election was held in November."
+  source: https://en.wikipedia.org/wiki/2019%E2%80%932020_Spanish_government_formation
+  data: "pei 33→7; 2 early elections; caretaker share 0.68; budget rolled_over"
+- country: "ES"
+  year: 2024
+  label: "Budgets rolled over again"
+  text: "After the July 2023 snap election and Sánchez's November investiture, no 2024 or 2025 budget was passed. The 2023 budget was extended."
+  source: https://en.wikipedia.org/wiki/2023_Spanish_general_election
+  data: "pei 55→34; budget rolled_over in 2024 and 2025"
+
+# --- Finland ---
+- country: "FI"
+  year: 1954
+  label: "Caretaker cabinet and early election"
+  text: "Tuomioja's caretaker cabinet served until after the early election in March 1954. Two new cabinets followed that year."
+  source: https://en.wikipedia.org/wiki/1954_Finnish_parliamentary_election
+  data: "pei 63→35; stability 81→14; early election; 2 PM changes"
+- country: "FI"
+  year: 1964
+  label: "Most of the year under caretakers"
+  text: "Lehto's non-party caretaker cabinet governed from December 1963 until Virolainen formed a coalition in September 1964."
+  source: https://en.wikipedia.org/wiki/Lehto_cabinet
+  data: "pei 70→31; caretaker share 0.70; PM change"
+- country: "FI"
+  year: 1975
+  label: "Caretaker cabinet and early election"
+  text: "Sorsa's coalition broke up in 1975. Liinamaa's caretaker cabinet governed through the September early election until Miettunen took office in November."
+  source: https://en.wikipedia.org/wiki/1975_Finnish_parliamentary_election
+  data: "pei 71→40; caretaker share 0.49; early election; PM change"
+- country: "FI"
+  year: 2023
+  label: "Long coalition talks after election"
+  text: "After the April 2023 election, Orpo's four-party coalition took office in June, after about ten weeks of talks."
+  source: https://en.wikipedia.org/wiki/Orpo_cabinet
+  data: "pei 90→77; caretaker share 0.22; PM change"
+
+# --- France ---
+- country: "FR"
+  year: 1963
+  label: "Dissolution delays the budget"
+  text: "De Gaulle dissolved the Assembly after it censured Pompidou in October 1962. The spending part of the 1963 budget passed only in February."
+  source: https://en.wikipedia.org/wiki/1962_French_legislative_election
+  data: "pei 81→69; budget late (53 days); 1962 early election"
+- country: "FR"
+  year: 1980
+  label: "Budget law annulled"
+  text: "The Constitutional Council struck down the 1980 finance law in December 1979 on procedural grounds. A special law covered the gap until a new law passed in January."
+  source: https://www.conseil-constitutionnel.fr/decision/1979/79110DC.htm
+  data: "pei 85→59; budget late (17 days)"
+- country: "FR"
+  year: 2024
+  label: "Dissolution and three prime ministers"
+  text: "Macron dissolved the Assembly after the June European elections. Attal, Barnier and Bayrou each led governments during the year."
+  source: https://en.wikipedia.org/wiki/2024_French_legislative_election
+  data: "stability 100→46; early election; 3 PM changes"
+- country: "FR"
+  year: 2025
+  label: "Budget via special law"
+  text: "Barnier's government fell to a censure vote in December 2024. A special law kept the state running until the 2025 budget passed in February."
+  source: https://en.wikipedia.org/wiki/Barnier_government
+  data: "pei 57→43; budget late (45 days); PM change"
+
+# --- Greece ---
+- country: "GR"
+  year: 1989
+  label: "Two elections, no majority"
+  text: "Elections in June and November 1989 gave no party a majority. Short coalition and caretaker cabinets followed."
+  source: https://en.wikipedia.org/wiki/June_1989_Greek_parliamentary_election
+  data: "pei 44→9; 2 early elections; caretaker share 0.54"
+- country: "GR"
+  year: 1991
+  label: "A majority after three elections"
+  text: "A third election in April 1990 gave Mitsotakis a one-seat majority. In 1991 the budget was on time and there were no early elections."
+  source: https://en.wikipedia.org/wiki/1990_Greek_parliamentary_election
+  data: "pei 19→63; stability 48→100; budget on_time"
+- country: "GR"
+  year: 2012
+  label: "Two elections in six weeks"
+  text: "The May 2012 election produced no government. A second election in June led to Samaras's coalition."
+  source: https://en.wikipedia.org/wiki/May_2012_Greek_parliamentary_election
+  data: "pei 85→61; 2 early elections; caretaker share 0.47"
+- country: "GR"
+  year: 2015
+  label: "Two elections and a bailout referendum"
+  text: "Tsipras won the January 2015 election, held a bailout referendum in July, resigned in August and won again in September."
+  source: https://en.wikipedia.org/wiki/September_2015_Greek_parliamentary_election
+  data: "pei 85→52; 2 early elections; 2 PM changes"
+
+# --- Croatia ---
+- country: "HR"
+  year: 2004
+  label: "Late budget after change of government"
+  text: "After the November 2003 election, Sanader's government took office in December, and the 2004 budget passed late."
+  source: https://en.wikipedia.org/wiki/2003_Croatian_parliamentary_election
+  data: "pei 66→50; budget late"
+- country: "HR"
+  year: 2016
+  label: "Government falls within six months"
+  text: "Orešković's government took office in January and passed a late budget. It lost a no-confidence vote in June, leading to a September snap election."
+  source: https://en.wikipedia.org/wiki/2016_Croatian_parliamentary_election
+  data: "pei 73→24; budget late (83 days); caretaker share 0.40; 2 PM changes"
+- country: "HR"
+  year: 2024
+  label: "Snap election in April"
+  text: "Parliament was dissolved in March and an election held in April 2024. Plenković formed a new coalition in May."
+  source: https://en.wikipedia.org/wiki/2024_Croatian_parliamentary_election
+  data: "pei 84→66; stability 100→82; PM change (new cabinet)"
+
+# --- Hungary ---
+- country: "HU"
+  year: 1998
+  label: "Change of government after election"
+  text: "Orbán's Fidesz-led coalition replaced Horn's government after the May 1998 election. Law output fell that year."
+  source: https://en.wikipedia.org/wiki/1998_Hungarian_parliamentary_election
+  data: "pei 76→62; laws 119→64; PM change"
+- country: "HU"
+  year: 2009
+  label: "Gyurcsány resigns, Bajnai takes over"
+  text: "Gyurcsány announced his resignation in March 2009. Bajnai took office in April through a constructive no-confidence vote."
+  source: https://en.wikipedia.org/wiki/Gordon_Bajnai
+  data: "pei 86→82; stability 100→83; PM change"
+- country: "HU"
+  year: 2011
+  label: "New constitution and a burst of laws"
+  text: "With a two-thirds majority, Fidesz adopted a new constitution in April 2011 and passed many related laws."
+  source: https://en.wikipedia.org/wiki/Fundamental_Law_of_Hungary
+  data: "pei 87→99; throughput 86→97; laws 144→161"
+
+# --- Ireland ---
+- country: "IE"
+  year: 1982
+  label: "Three elections in 18 months"
+  text: "Elections were held in June 1981, February 1982 and November 1982 as minority governments fell in turn."
+  source: https://en.wikipedia.org/wiki/November_1982_Irish_general_election
+  data: "pei 47→34; 2 early elections; 2 PM changes"
+- country: "IE"
+  year: 2011
+  label: "Bailout and early election"
+  text: "Cowen's coalition broke up after the EU-IMF bailout. An early election in February 2011 brought Kenny to power."
+  source: https://en.wikipedia.org/wiki/2011_Irish_general_election
+  data: "pei 70→62; early election; PM change"
+- country: "IE"
+  year: 2016
+  label: "70 days to form a minority government"
+  text: "The February 2016 election left no majority. Kenny's minority government took office in May with Fianna Fáil support."
+  source: https://en.wikipedia.org/wiki/2016_Irish_general_election
+  data: "pei 84→66; caretaker share 0.19; laws 62→18"
+- country: "IE"
+  year: 2020
+  label: "Four months to form a coalition"
+  text: "After the February 2020 election, Varadkar stayed on as caretaker until Martin's three-party coalition took office in June."
+  source: https://en.wikipedia.org/wiki/2020_Irish_general_election
+  data: "pei 86→69; caretaker share 0.38; PM change"
+
+# --- Iceland ---
+- country: "IS"
+  year: 1959
+  label: "Two elections to change the voting system"
+  text: "Elections were held in June and October 1959 to adopt a new system of constituencies. The budget passed late."
+  source: https://en.wikipedia.org/wiki/October_1959_Icelandic_parliamentary_election
+  data: "pei 77→24; 2 early elections; caretaker share 0.56; budget late"
+- country: "IS"
+  year: 2009
+  label: "Banking collapse and early election"
+  text: "Haarde's government fell in January 2009 after protests over the banking collapse. An early election followed in April."
+  source: https://en.wikipedia.org/wiki/2009_Icelandic_parliamentary_election
+  data: "pei 87→72; stability 100→54; early election; PM change"
+- country: "IS"
+  year: 2016
+  label: "Panama Papers and early election"
+  text: "Gunnlaugsson resigned in April 2016 after the Panama Papers leak. An early election was held in October."
+  source: https://en.wikipedia.org/wiki/2016_Icelandic_parliamentary_election
+  data: "pei 65→47; early election; PM change"
+- country: "IS"
+  year: 2024
+  label: "Two prime ministers and a snap election"
+  text: "Jakobsdóttir resigned in April 2024 to run for president. Benediktsson's coalition collapsed in October and an election followed in November."
+  source: https://en.wikipedia.org/wiki/2024_Icelandic_parliamentary_election
+  data: "pei 67→49; early election; 2 PM changes"
+
+# --- Italy ---
+- country: "IT"
+  year: 1963
+  label: "Caretaker government for most of the year"
+  text: "After the April 1963 election, Leone led a short holding government until Moro formed the first centre-left cabinet in December."
+  source: https://en.wikipedia.org/wiki/1963_Italian_general_election
+  data: "pei 73→44; caretaker share 0.60; budget late"
+- country: "IT"
+  year: 1979
+  label: "Early election after Andreotti falls"
+  text: "Andreotti's government lost its majority in early 1979. An early election was held in June and Cossiga took office in August."
+  source: https://en.wikipedia.org/wiki/1979_Italian_general_election
+  data: "pei 47→19; caretaker share 0.51; budget late; early election"
+- country: "IT"
+  year: 1993
+  label: "Tangentopoli and electoral reform"
+  text: "Bribery investigations broke the old parties. Ciampi's government passed a new electoral law, and provisional budgets ended."
+  source: https://en.wikipedia.org/wiki/Mani_pulite
+  data: "pei 51→96; throughput 14→100 (new scoring era from 1993); budget on_time"
+- country: "IT"
+  year: 2008
+  label: "Prodi loses confidence vote"
+  text: "Prodi lost a Senate confidence vote in January 2008. An early election was held in April and Berlusconi returned."
+  source: https://en.wikipedia.org/wiki/2008_Italian_general_election
+  data: "pei 73→42; caretaker share 0.29; early election; PM change"
+
+# --- Lithuania ---
+- country: "LT"
+  year: 2006
+  label: "Brazauskas government falls"
+  text: "Brazauskas's coalition collapsed and he resigned in mid-2006. Kirkilas formed a new government in July."
+  source: https://en.wikipedia.org/wiki/Algirdas_Brazauskas
+  data: "pei 64→48; caretaker share 0.25; PM change"
+- country: "LT"
+  year: 2024
+  label: "Change of government after election"
+  text: "The Social Democrats won the October 2024 election. Paluckas's government took office in December."
+  source: https://en.wikipedia.org/wiki/2024_Lithuanian_parliamentary_election
+  data: "pei 95→79; caretaker share 0.13; PM change"
+- country: "LT"
+  year: 2025
+  label: "Paluckas resigns"
+  text: "Paluckas resigned at the end of July 2025 amid investigations into his business interests. Inga Ruginienė succeeded him."
+  source: https://en.wikipedia.org/wiki/Gintautas_Paluckas
+  data: "pei 79→77; caretaker share 0.15; PM change"
+
+# --- Luxembourg ---
+- country: "LU"
+  year: 2013
+  label: "Spy scandal ends Juncker's tenure"
+  text: "Juncker resigned in July 2013 over the intelligence service scandal. An early election in October led to Bettel's coalition."
+  source: https://en.wikipedia.org/wiki/2013_Luxembourg_general_election
+  data: "pei 87→72; early election; PM change"
+- country: "LU"
+  year: 2014
+  label: "Budget waits for the new coalition"
+  text: "Bettel's government took office in December 2013, and the 2014 budget passed late, in the spring."
+  source: https://en.wikipedia.org/wiki/Bettel_I_Government
+  data: "pei 72→65; budget late (118 days)"
+- country: "LU"
+  year: 2019
+  label: "Budget passes after October election"
+  text: "Because of the October 2018 election, the 2019 budget was passed late, in the spring."
+  source: https://en.wikipedia.org/wiki/2018_Luxembourg_general_election
+  data: "pei 91→75; budget late (115 days)"
+- country: "LU"
+  year: 2024
+  label: "Budget passes after October election"
+  text: "After the October 2023 election Frieden's coalition took office in November, and the 2024 budget passed late, in the spring."
+  source: https://en.wikipedia.org/wiki/2023_Luxembourg_general_election
+  data: "pei 92→76; budget late (116 days)"
+
+# --- Latvia ---
+- country: "LV"
+  year: 2011
+  label: "President dissolves parliament"
+  text: "Zatlers called a referendum after the Saeima blocked a search of an MP's home. Voters approved dissolution and an early election was held in September."
+  source: https://en.wikipedia.org/wiki/2011_Latvian_parliamentary_dissolution_referendum
+  data: "pei 95→74; early election; caretaker share 0.10"
+- country: "LV"
+  year: 2019
+  label: "Three months to form a government"
+  text: "After the October 2018 election, Kariņš took office in January 2019, and the 2019 budget passed late."
+  source: https://en.wikipedia.org/wiki/2018_Latvian_parliamentary_election
+  data: "pei 60→42; budget late (101 days); PM change"
+- country: "LV"
+  year: 2023
+  label: "Late budget and a new prime minister"
+  text: "The 2023 budget passed late after the October 2022 election. Kariņš resigned in August and Siliņa took office in September."
+  source: https://en.wikipedia.org/wiki/Evika_Sili%C5%86a
+  data: "pei 69→44; budget late (79 days); PM change"
+
+# --- Malta ---
+- country: "MT"
+  year: 1997
+  label: "Late budget after change of government"
+  text: "Labour won the October 1996 election, and the 1997 budget passed late."
+  source: https://en.wikipedia.org/wiki/1996_Maltese_general_election
+  data: "pei 75→49; budget late (55 days)"
+- country: "MT"
+  year: 1998
+  label: "One-seat majority fails"
+  text: "Sant called an early election after Dom Mintoff voted against the government. Fenech Adami returned to office in September 1998."
+  source: https://en.wikipedia.org/wiki/1998_Maltese_general_election
+  data: "pei 49→66; budget on_time; PM change"
+- country: "MT"
+  year: 2013
+  label: "Budget defeat forces an early election"
+  text: "Gonzi's budget was voted down in December 2012. Muscat won the March 2013 election and the 2013 budget passed late."
+  source: https://en.wikipedia.org/wiki/2013_Maltese_general_election
+  data: "pei 65→55; budget late (105 days); PM change"
+
+# --- Netherlands ---
+- country: "NL"
+  year: 1977
+  label: "208 days of coalition talks"
+  text: "After the May 1977 election, Den Uyl stayed on as caretaker until Van Agt's cabinet took office in December."
+  source: https://en.wikipedia.org/wiki/1977_Dutch_general_election
+  data: "pei 71→35; caretaker share 0.74; PM change"
+- country: "NL"
+  year: 2010
+  label: "Cabinet falls over Afghanistan mission"
+  text: "Balkenende's fourth cabinet fell in February 2010. After the June election, Rutte's first cabinet took office in October."
+  source: https://en.wikipedia.org/wiki/2010_Dutch_general_election
+  data: "pei 75→46; caretaker share 0.64; early election; PM change"
+- country: "NL"
+  year: 2021
+  label: "Benefits scandal and record formation"
+  text: "Rutte's third cabinet resigned in January 2021 over the childcare benefits scandal. Forming the next cabinet took a record 299 days."
+  source: https://en.wikipedia.org/wiki/2021%E2%80%932022_Dutch_cabinet_formation
+  data: "pei 77→46; caretaker share 0.80"
+- country: "NL"
+  year: 2024
+  label: "Cabinet fall and long formation"
+  text: "Rutte's fourth cabinet fell in July 2023 over asylum policy. After the November election, Schoof's cabinet took office in July 2024."
+  source: https://en.wikipedia.org/wiki/2023%E2%80%932024_Dutch_cabinet_formation
+  data: "pei 61→35; caretaker share 0.50; budget late; PM change"
+
+# --- Norway ---
+- country: "NO"
+  year: 1963
+  label: "Kings Bay affair"
+  text: "Gerhardsen's government lost a no-confidence vote in August 1963 after a mining accident. Lyng governed for a month before Gerhardsen returned."
+  source: https://en.wikipedia.org/wiki/Kings_Bay_Affair
+  data: "pei 71→62; 2 PM changes"
+- country: "NO"
+  year: 1981
+  label: "Three prime ministers in one year"
+  text: "Nordli resigned in February 1981 and Brundtland took over. Willoch formed a Conservative government after the September election."
+  source: https://en.wikipedia.org/wiki/1981_Norwegian_parliamentary_election
+  data: "pei 71→59; 2 PM changes; caretaker share 0.10"
+- country: "NO"
+  year: 1986
+  label: "Willoch falls over fuel tax"
+  text: "Willoch lost a confidence vote on a fuel tax rise in spring 1986. Brundtland formed her second government."
+  source: https://en.wikipedia.org/wiki/K%C3%A5re_Willoch
+  data: "pei 71→66; stability 100→88; PM change"
+
+# --- Poland ---
+- country: "PL"
+  year: 1993
+  label: "Suchocka loses confidence vote"
+  text: "Suchocka's government lost a no-confidence vote by one vote in May 1993. Wałęsa dissolved parliament and an early election was held in September."
+  source: https://en.wikipedia.org/wiki/1993_Polish_parliamentary_election
+  data: "pei 29→11; caretaker share 0.46; early election; budget late"
+- country: "PL"
+  year: 2004
+  label: "Miller resigns after EU accession"
+  text: "The 2004 budget passed late. Miller resigned in May 2004, the day after Poland joined the EU, and Belka took over."
+  source: https://en.wikipedia.org/wiki/Leszek_Miller
+  data: "pei 87→54; budget late (35 days); PM change"
+- country: "PL"
+  year: 2007
+  label: "Coalition collapse and early election"
+  text: "Kaczyński's coalition broke up and the Sejm voted to dissolve itself. Tusk won the October 2007 early election."
+  source: https://en.wikipedia.org/wiki/2007_Polish_parliamentary_election
+  data: "pei 53→47; early election; PM change; budget late"
+- country: "PL"
+  year: 2023
+  label: "Change of government after election"
+  text: "After the October 2023 election, Morawiecki's third cabinet lost its confidence vote and Tusk took office in December."
+  source: https://en.wikipedia.org/wiki/2023_Polish_parliamentary_election
+  data: "pei 48→35; caretaker share 0.16; PM change"
+
+# --- Portugal ---
+- country: "PT"
+  year: 1983
+  label: "Balsemão resigns, early election"
+  text: "Balsemão resigned in December 1982 and parliament was dissolved. After the April 1983 election, Soares formed a Socialist and PSD coalition."
+  source: https://en.wikipedia.org/wiki/1983_Portuguese_legislative_election
+  data: "pei 79→47; caretaker share 0.44; budget late; PM change"
+- country: "PT"
+  year: 1985
+  label: "Central Bloc coalition collapses"
+  text: "The PSD left the governing coalition in 1985. Cavaco Silva formed a minority government after the October early election."
+  source: https://en.wikipedia.org/wiki/1985_Portuguese_legislative_election
+  data: "pei 94→53; caretaker share 0.32; early election; budget late"
+- country: "PT"
+  year: 2022
+  label: "Budget rejected, snap election"
+  text: "Parliament rejected the 2022 budget in October 2021. After the January 2022 election, the budget took effect only at mid-year."
+  source: https://en.wikipedia.org/wiki/2022_Portuguese_legislative_election
+  data: "pei 61→27; budget late (177 days); early election"
+- country: "PT"
+  year: 2024
+  label: "Back-to-back snap elections"
+  text: "Costa resigned in November 2023. Elections followed in March 2024 and, after Montenegro lost a confidence vote, again in May 2025."
+  source: https://en.wikipedia.org/wiki/2024_Portuguese_legislative_election
+  data: "pei 51→47; caretaker share 0.25 (2025: 0.24); PM change"
+
+# --- Romania ---
+- country: "RO"
+  year: 1998
+  label: "Ciorbea government replaced"
+  text: "Ciorbea resigned in March 1998 amid coalition disputes, and Vasile took over. The 1998 budget passed late."
+  source: https://en.wikipedia.org/wiki/Victor_Ciorbea
+  data: "pei 56→29; budget late (153 days); PM change"
+- country: "RO"
+  year: 2009
+  label: "Late budget, then a no-confidence vote"
+  text: "The 2009 budget passed late after the November 2008 election. Boc's government lost a no-confidence vote in October 2009."
+  source: https://en.wikipedia.org/wiki/Emil_Boc
+  data: "pei 77→47; budget late (57 days); caretaker share 0.20"
+- country: "RO"
+  year: 2017
+  label: "Ruling party ousts its own government"
+  text: "Grindeanu took office in January 2017. His own party brought him down in a no-confidence vote in June, and Tudose replaced him."
+  source: https://en.wikipedia.org/wiki/Sorin_Grindeanu
+  data: "pei 63→40; budget late (47 days); 2 PM changes"
+- country: "RO"
+  year: 2025
+  label: "Government resigns after presidential vote"
+  text: "Ciolacu resigned in May 2025 after the coalition candidate lost the presidential first round. Bolojan took office in June."
+  source: https://en.wikipedia.org/wiki/2025_Romanian_presidential_election
+  data: "pei 79→46; budget late (40 days); 2 PM changes"
+
+# --- Sweden ---
+- country: "SE"
+  year: 1958
+  label: "Pension dispute forces extra election"
+  text: "Erlander called an extra election in June 1958 after parliament rejected his pension reform."
+  source: https://en.wikipedia.org/wiki/1958_Swedish_general_election
+  data: "pei 71→65; early election"
+- country: "SE"
+  year: 2018
+  label: "134 days to form a government"
+  text: "The September 2018 election left neither bloc a majority. Löfven stayed on as caretaker until January 2019."
+  source: https://en.wikipedia.org/wiki/2018%E2%80%932019_Swedish_government_formation
+  data: "pei 85→68; caretaker share 0.31"
+- country: "SE"
+  year: 2021
+  label: "Prime minister loses no-confidence vote"
+  text: "Löfven lost a no-confidence vote in June 2021 and was voted back in July. Andersson succeeded him in November."
+  source: https://en.wikipedia.org/wiki/2021_Swedish_government_crisis
+  data: "stability 100→85; PM change"
+
+# --- Slovenia ---
+- country: "SI"
+  year: 2000
+  label: "Two changes of government"
+  text: "Drnovšek's coalition broke up and Bajuk took office in June 2000. Drnovšek returned after the October election."
+  source: https://en.wikipedia.org/wiki/2000_Slovenian_parliamentary_election
+  data: "pei 77→43; 2 PM changes; caretaker share 0.29; budget late"
+- country: "SI"
+  year: 2011
+  label: "Pahor loses confidence vote"
+  text: "Pahor's government lost a confidence vote in September 2011. Slovenia held its first early election in December."
+  source: https://en.wikipedia.org/wiki/2011_Slovenian_parliamentary_election
+  data: "pei 83→66; caretaker share 0.28; early election"
+- country: "SI"
+  year: 2014
+  label: "Bratušek resigns, early election"
+  text: "Bratušek resigned in May 2014 after losing her party leadership. An early election was held in July and Cerar took office in September."
+  source: https://en.wikipedia.org/wiki/2014_Slovenian_parliamentary_election
+  data: "pei 66→59; caretaker share 0.37; PM change"
+- country: "SI"
+  year: 2018
+  label: "Cerar resigns, early election"
+  text: "Cerar resigned in March 2018 after the Supreme Court annulled a rail referendum. After the June election, Šarec took office in September."
+  source: https://en.wikipedia.org/wiki/2018_Slovenian_parliamentary_election
+  data: "pei 65→44; caretaker share 0.28; early election; PM change"
+
+# --- Slovakia ---
+- country: "SK"
+  year: 1994
+  label: "Mečiar ousted, then returns"
+  text: "Mečiar lost a no-confidence vote in March 1994 and Moravčík took over. Mečiar returned after the autumn early election."
+  source: https://en.wikipedia.org/wiki/1994_Slovak_parliamentary_election
+  data: "pei 69→50; 2 PM changes; caretaker share 0.20"
+- country: "SK"
+  year: 2011
+  label: "Government falls over euro rescue fund"
+  text: "Radičová tied a confidence vote to the euro rescue fund in October 2011 and lost. An early election followed in March 2012."
+  source: https://en.wikipedia.org/wiki/2012_Slovak_parliamentary_election
+  data: "pei 78→62; caretaker share 0.23; early election"
+- country: "SK"
+  year: 2023
+  label: "No-confidence vote and early election"
+  text: "Heger's government lost a no-confidence vote in December 2022. Ódor's appointed cabinet served until the September 2023 early election."
+  source: https://en.wikipedia.org/wiki/2023_Slovak_parliamentary_election
+  data: "pei 95→75; early election; 2 PM changes"
+
+# --- United Kingdom ---
+- country: "UK"
+  year: 1974
+  label: "Two elections in one year"
+  text: "The February 1974 election produced a hung parliament. Wilson formed a minority government and won a small majority in October."
+  source: https://en.wikipedia.org/wiki/February_1974_United_Kingdom_general_election
+  data: "pei 89→73; 2 early elections; PM change"
+- country: "UK"
+  year: 2017
+  label: "Snap election loses the majority"
+  text: "May called an early election for June 2017 and lost her majority. She governed with DUP support."
+  source: https://en.wikipedia.org/wiki/2017_United_Kingdom_general_election
+  data: "pei 54→46; stability 90→85; early election"
+- country: "UK"
+  year: 2019
+  label: "Brexit deadlock and early election"
+  text: "Parliament rejected May's Brexit deal three times. Johnson replaced her in July and won a December early election."
+  source: https://en.wikipedia.org/wiki/2019_United_Kingdom_general_election
+  data: "pei 53→37; early election; PM change"
+- country: "UK"
+  year: 2022
+  label: "Three prime ministers in one year"
+  text: "Johnson resigned in July 2022. Truss took office in September and was replaced by Sunak in October."
+  source: https://en.wikipedia.org/wiki/2022_United_Kingdom_government_crisis
+  data: "pei 64→49; 2 PM changes"

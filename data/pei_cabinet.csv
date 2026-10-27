@@ -1,0 +1,823 @@
+country,cabinet_id,cabinet_name,pm,start,end,cabinet_type,n_parties,years,n_years,laws_substantive_per_year,p1_throughput,p2_fiscal,p3_stability,pei,pei_per_governing_day
+AT,1003,Figl III,Figl,1949-11-08,1953-02-22,coalition_majority,2,1950-1952,3,97.7,8.8,66.7,100.0,58.5,57.9
+AT,1004,Raab I,Raab,1953-04-02,1956-05-13,coalition_majority,2,1953-1956,4,92.8,14.6,75.0,84.1,57.9,57.5
+AT,1005,Raab II,Raab,1956-06-29,1959-05-10,coalition_majority,2,1956-1959,4,85.8,7.9,100.0,84.7,64.2,64.6
+AT,1006,Raab III,Raab,1959-07-16,1961-04-11,coalition_majority,2,1959-1961,3,80.7,5.0,100.0,85.5,63.5,63.9
+AT,1007,Gorbach I,Gorbach,1961-04-11,1962-11-18,coalition_majority,2,1961-1962,2,89.0,12.8,100.0,81.5,64.8,68.2
+AT,1008,Gorbach II,Gorbach,1963-03-27,1964-04-02,coalition_majority,2,1963-1964,2,108.5,44.1,50.0,83.4,59.1,65.7
+AT,1009,Klaus I,Klaus,1964-04-02,1965-10-25,coalition_majority,2,1964-1965,2,124.5,47.4,100.0,78.2,75.2,82.6
+AT,1010,Klaus II,Klaus,1966-04-19,1970-03-01,single_majority,1,1966-1969,4,127.2,63.2,75.0,92.6,76.9,76.7
+AT,1011,Kreisky I,Kreisky,1970-04-21,1971-10-10,minority,1,1970-1971,2,128.0,78.3,100.0,77.1,85.1,83.6
+AT,1012,Kreisky II,Kreisky,1971-11-04,1975-10-05,single_majority,1,1972-1975,4,137.5,80.8,100.0,98.4,93.1,88.3
+AT,1013,Kreisky III,Kreisky,1975-10-28,1979-05-06,single_majority,1,1976-1979,4,111.0,37.5,100.0,94.2,77.2,74.2
+AT,1014,Kreisky IV,Kreisky,1979-06-05,1983-04-24,single_majority,1,1979-1983,5,113.8,40.7,100.0,91.7,77.5,74.6
+AT,1015,Sinowatz,Sinowatz,1983-05-24,1986-06-16,coalition_majority,2,1983-1986,4,101.5,25.7,100.0,86.5,70.7,70.2
+AT,1016,Vranitzky I,Vranitzky,1986-06-16,1986-11-23,coalition_majority,2,1986-1986,1,92.0,26.3,100.0,64.3,63.5,64.4
+AT,1017,Vranitzky II,Vranitzky,1987-01-21,1990-10-07,coalition_majority,2,1987-1990,4,134.2,69.1,75.0,93.8,79.3,76.2
+AT,1018,Vranitzky III,Vranitzky,1990-12-17,1994-10-09,coalition_majority,2,1991-1994,4,158.5,91.9,75.0,96.5,87.8,87.3
+AT,1019,Vranitzky IV,Vranitzky,1994-11-29,1995-12-17,coalition_majority,2,1995-1995,1,115.0,78.9,0.0,80.9,53.3,56.3
+AT,1020,Vranizky V,Vranizky,1996-03-12,1997-01-15,coalition_majority,2,1996-1996,1,143.0,73.6,0.0,70.6,48.1,48.2
+AT,1021,Klima,Klima,1997-01-15,1999-10-03,coalition_majority,2,1997-1999,3,133.3,54.8,100.0,88.4,81.1,81.9
+AT,1022,Schüssel I,Schüssel,2000-02-04,2002-11-24,coalition_majority,2,2000-2002,3,111.7,24.8,66.7,85.1,58.9,60.3
+AT,1023,Schüssel II,Schüssel,2003-02-28,2006-10-01,coalition_majority,2,2003-2006,4,130.8,52.9,75.0,86.0,71.3,70.8
+AT,1024,Gusenbauer,Gusenbauer,2007-01-11,2008-09-28,coalition_majority,2,2007-2008,2,110.5,41.2,50.0,72.2,54.5,55.5
+AT,1025,Faymann I,Faymann,2008-12-02,2013-09-29,coalition_majority,2,2009-2013,5,122.8,49.1,80.0,95.7,74.9,74.7
+AT,1026,Faymann II,Faymann,2013-12-16,2016-05-09,coalition_majority,2,2014-2016,3,111.7,64.8,66.7,95.9,75.8,75.1
+AT,1027,Kern,Kern,2016-05-17,2017-10-15,coalition_majority,2,2016-2017,2,117.5,62.6,100.0,72.6,78.4,78.3
+AT,1028,Kurz I,Kurz,2017-12-18,2019-05-22,coalition_majority,2,2018-2019,2,100.5,50.6,50.0,73.0,57.8,60.5
+AT,1031,Bierlein,Bierlein,2019-06-03,2019-09-29,single_majority,0,2019-2019,1,91.0,65.3,100.0,46.0,70.4,71.3
+AT,1032,Kurz IV,Kurz,2020-01-07,2021-10-09,coalition_majority,2,2020-2021,2,197.5,93.4,50.0,83.9,75.8,75.8
+AT,1034,Nehammer,Nehammer,2021-12-06,2024-09-29,coalition_majority,2,2022-2024,3,174.0,75.8,100.0,91.4,89.1,89.5
+AT,1035,Stocker,Stocker,2025-03-03,,coalition_majority,3,2025-2025,1,102.0,31.7,0.0,73.3,35.0,40.9
+BE,2007,Pholien,Pholien,1950-08-16,1952-01-09,single_majority,1,1950-1951,2,,,,70.6,60.3,60.3
+BE,2008,Van Houtte,Van Houtte,1952-01-15,1954-04-11,single_majority,1,1952-1954,3,,,,91.8,70.9,70.9
+BE,2009,Van Acker IV,Van Acker,1954-04-22,1958-06-01,coalition_majority,2,1954-1958,5,,,,94.1,72.0,72.0
+BE,2010,Eyskens II,Eyskens,1958-06-23,1958-11-04,minority,1,1958-1958,1,,,,83.4,66.7,66.7
+BE,2011,Eyskens III,Eyskens,1958-11-06,1961-03-26,coalition_majority,2,1959-1960,2,,,,100.0,75.0,75.0
+BE,2012,Lefevre,Lefevre,1961-04-25,1965-05-23,coalition_majority,2,1961-1965,5,,,,87.8,68.9,68.9
+BE,2013,Harmel,Harmel,1965-07-27,1966-02-11,coalition_majority,2,1965-1965,1,,,,72.2,61.1,61.1
+BE,2014,Van den Boeynants I,Van den Boeynants,1966-03-19,1968-02-07,coalition_majority,2,1966-1967,2,,,,90.1,70.0,70.0
+BE,2015,Eyskens IV,Eyskens,1968-06-17,1971-11-07,coalition_majority,3,1968-1971,4,,,,77.3,63.6,63.6
+BE,2016,Eyskens V,Eyskens,1972-01-21,1972-11-23,coalition_majority,3,1972-1972,1,,,,83.9,66.9,66.9
+BE,2017,Leburton,Leburton,1973-01-26,1974-01-19,coalition_majority,5,1973-1973,1,,,,83.2,66.6,66.6
+BE,2019,Tindemans II,Tindemans,1974-06-12,1977-03-04,coalition_majority,5,1974-1976,3,,,,82.8,66.4,66.4
+BE,2021,Tindemans IV,Tindemans,1977-06-03,1978-10-11,coalition_majority,5,1977-1978,2,,,,70.0,60.0,60.0
+BE,2023,Martens I,Martens,1979-04-03,1980-01-16,coalition_majority,5,1979-1979,1,,,,64.8,57.4,57.4
+BE,2025,Martens III,Martens,1980-05-18,1980-10-07,coalition_majority,6,1980-1980,1,,,,83.3,66.7,66.7
+BE,2026,Martens IV,Martens,1980-10-22,1981-04-02,coalition_majority,4,1981-1981,1,,,,40.1,45.0,45.0
+BE,2027,M Eyskens,M Eyskens,1981-04-06,1981-09-21,coalition_majority,4,1981-1981,1,,,,40.1,45.0,45.0
+BE,2028,Martens V,Martens,1981-12-17,1985-10-13,coalition_majority,4,1982-1985,4,,,,96.8,73.4,73.4
+BE,2029,Martens VI,Martens,1985-11-28,1987-10-19,coalition_majority,4,1986-1987,2,,,,82.4,66.2,66.2
+BE,2030,Martens VII,Martens,1988-05-09,1991-09-29,coalition_majority,5,1988-1991,4,58.0,14.3,50.0,88.6,51.0,52.4
+BE,2032,Dehaene I,Dehaene,1992-03-07,1995-05-21,coalition_majority,4,1992-1995,4,56.0,11.4,75.0,87.0,57.8,56.4
+BE,2033,Dehaene II,Dehaene,1995-06-23,1999-06-13,coalition_majority,4,1995-1999,5,94.0,33.7,100.0,91.6,75.1,73.0
+BE,2034,Verhofstadt I,Verhofstadt,1999-07-12,2003-05-05,coalition_majority,6,1999-2003,5,108.4,48.6,100.0,93.4,80.7,78.0
+BE,2036,Verhofstadt III,Verhofstadt,2003-07-12,2007-06-10,coalition_majority,4,2003-2007,5,112.2,52.0,100.0,85.8,79.3,78.9
+BE,2038,Leterme I,Leterme,2008-03-20,2008-12-22,coalition_majority,5,2008-2008,1,66.0,31.4,0.0,56.2,29.2,36.8
+BE,2039,Van Rompuy,Van Rompuy,2008-12-30,2009-11-25,coalition_majority,5,2009-2009,1,102.0,28.6,50.0,90.0,56.2,66.7
+BE,2040,Leterme II,Leterme,2009-11-25,2010-04-26,coalition_majority,5,2010-2010,1,91.0,60.0,100.0,31.5,63.8,67.6
+BE,2041,Di Rupo,Di Rupo,2011-12-06,2014-05-25,coalition_majority,6,2012-2014,3,200.0,92.4,33.3,84.0,69.9,68.0
+BE,2042,Michel I,Michel,2014-10-11,2018-12-09,coalition_majority,4,2015-2018,4,196.8,90.7,100.0,99.2,96.7,94.3
+BE,2045,Wilmes II,Wilmes,2020-03-17,2020-10-01,minority,3,2020-2020,1,128.0,71.4,0.0,90.0,53.8,61.4
+BE,2046,De Croo,De Croo,2020-10-01,2024-06-09,coalition_majority,7,2020-2024,5,165.3,75.7,80.0,86.7,77.4,77.5
+BE,2047,De Wever,De Wever,2025-02-03,,coalition_majority,5,2025-2025,1,,,0.0,81.0,43.7,43.7
+BG,18002,Popov,Popov,1990-12-20,1991-10-13,coalition_majority,3,1991-1991,1,,,,82.9,66.4,66.4
+BG,18003,Dimitrov,Dimitrov,1991-11-08,1992-10-28,minority,1,1992-1992,1,,,0.0,72.8,40.9,40.9
+BG,18004,Berov,Berov,1992-12-30,1994-09-08,coalition_majority,3,1993-1994,2,,,0.0,80.2,43.4,43.4
+BG,18006,Videnov,Videnov,1995-01-25,1996-12-28,single_majority,1,1995-1996,2,,,12.5,83.7,48.7,48.7
+BG,18008,Kostov,Kostov,1997-05-21,2001-06-17,coalition_majority,2,1997-2001,5,,,80.0,87.9,72.6,72.6
+BG,18009,Saxecoburggothski I,Saxecoburggothski,2001-07-24,2005-02-21,coalition_majority,2,2001-2004,4,173.0,84.8,100.0,95.0,87.5,87.8
+BG,18010,Saxecoburggothski II,Saxecoburggothski,2005-02-23,2005-06-25,coalition_majority,3,2005-2005,1,176.0,100.0,100.0,75.2,91.7,91.7
+BG,18011,Stanishev,Stanishev,2005-08-16,2009-07-05,coalition_majority,3,2005-2009,5,152.4,90.4,100.0,91.8,94.1,93.8
+BG,18012,Borissov,Borissov,2009-07-27,2013-02-21,minority,1,2009-2012,4,94.8,72.0,100.0,96.0,89.3,88.2
+BG,18014,Oresharski,Oresharski,2013-05-29,2014-07-24,minority,2,2013-2014,2,60.5,25.2,100.0,53.6,59.6,56.7
+BG,18016,Borissov II,Borissov,2014-11-07,2017-01-27,minority,3,2015-2016,2,103.5,48.2,100.0,100.0,82.7,80.6
+BG,18017,Gerdzhikov,Gerdzhikov,2017-01-27,2017-05-04,single_majority,0,2017-2017,1,69.0,65.7,100.0,65.0,76.9,74.7
+BG,18018,Borissov IIII,Borissov,2017-05-04,2021-04-04,minority,2,2017-2021,5,83.2,53.1,100.0,79.1,77.4,75.6
+BG,18021,Petkov,Petkov,2021-12-13,2022-08-02,coalition_majority,4,2022-2022,1,62.0,8.1,0.0,50.1,19.4,22.3
+BG,18024,Denkov,Denkov,2023-06-06,2024-03-06,coalition_majority,4,2023-2023,1,82.0,9.5,0.0,48.4,19.3,27.3
+BG,18027,Zhelyazkov,Zhelyazkov,2025-01-16,2025-12-11,minority,3,2025-2025,1,75.0,32.2,0.0,80.1,37.5,44.0
+CH,pg556,Bundesrat 1947,,1947-12-11,1951-12-13,collegial_all_party,10,1950-1951,2,,,,100.0,75.0,75.0
+CH,pg814,Bundesrat 1951,,1951-12-13,1955-12-15,collegial_all_party,9,1952-1955,4,,,,100.0,75.0,75.0
+CH,pg635,Bundesrat 1955,,1955-12-15,1959-12-17,collegial_all_party,9,1956-1959,4,,,,100.0,75.0,75.0
+CH,pg623,Bundesrat 1959,,1959-12-17,1963-12-12,collegial_all_party,9,1960-1963,4,,,,100.0,75.0,75.0
+CH,pg513,Bundesrat 1963,,1963-12-12,1967-12-14,collegial_all_party,9,1964-1967,4,,,,100.0,75.0,75.0
+CH,pg777,Bundesrat 1967,,1967-12-14,1971-12-08,collegial_all_party,11,1968-1971,4,,,,100.0,75.0,75.0
+CH,pg79,Bundesrat 1971,,1971-12-08,1975-12-10,collegial_all_party,10,1972-1975,4,,,,100.0,75.0,75.0
+CH,pg20,Bundesrat 1975,,1975-12-10,1979-12-05,collegial_all_party,11,1976-1979,4,15.0,19.3,,100.0,67.3,67.4
+CH,pg723,Bundesrat 1979,,1979-12-05,1983-12-07,collegial_all_party,15,1980-1983,4,15.0,16.1,100.0,100.0,72.0,72.0
+CH,pg129,Bundesrat 1983,,1983-12-07,1987-12-09,collegial_all_party,15,1984-1987,4,15.2,12.8,100.0,100.0,70.9,70.9
+CH,pg426,Bundesrat 1987,,1987-12-09,1991-12-04,collegial_all_party,15,1988-1991,4,17.2,16.1,100.0,100.0,72.0,72.0
+CH,pg773,Bundesrat 1991,,1991-12-04,1995-12-13,collegial_all_party,18,1992-1995,4,32.5,41.9,100.0,100.0,80.6,80.7
+CH,pg38,Bundesrat 1995,,1995-12-13,1999-12-15,collegial_all_party,15,1996-1999,4,32.5,53.4,100.0,100.0,84.5,84.4
+CH,pg198,Bundesrat 1999,,1999-12-15,2003-12-10,collegial_all_party,15,2000-2003,4,45.5,72.6,100.0,100.0,90.9,90.9
+CH,pg855,Bundesrat 2003,,2003-12-10,2007-12-12,collegial_all_party,14,2004-2007,4,41.0,70.3,100.0,100.0,90.1,90.1
+CH,pg508,Bundesrat 2007,,2007-12-12,2008-12-10,collegial_all_party,12,2008-2008,1,38.0,52.9,100.0,100.0,84.3,84.3
+CH,pg903,Bundesrat 2008,,2008-12-10,2011-12-14,collegial_all_party,13,2009-2011,3,43.3,52.9,100.0,100.0,84.3,84.4
+CH,pg989,Bundesrat 2011,,2011-12-14,2015-12-09,collegial_all_party,11,2012-2015,4,38.2,39.8,100.0,100.0,79.9,79.8
+CH,pg1212,Bundesrat 2015,,2015-12-09,2019-12-11,collegial_all_party,12,2016-2019,4,33.2,50.6,100.0,100.0,83.5,83.5
+CH,pg1612,Bundesrat 2019,,2019-12-11,2023-12-13,collegial_all_party,12,2020-2023,4,42.2,77.9,100.0,100.0,92.6,92.6
+CH,manual_CH_2023-12-13,Bundesrat 2023,,2023-12-13,,collegial_all_party,1,2024-2025,2,38.0,72.0,100.0,100.0,90.7,90.7
+CY,pg1478,Mouskos,Mouskos,1976-09-05,1977-08-31,unknown,4,1976-1977,2,61.0,25.0,,83.2,54.1,59.4
+CY,pg166,Kyprianou I,Kyprianou,1977-08-31,1978-03-08,caretaker,4,1977-1977,1,70.0,25.8,,66.3,46.0,51.3
+CY,pg210,Kyprianou II,Kyprianou,1978-03-08,1981-05-24,unknown,4,1978-1981,4,57.5,27.7,12.5,95.5,53.6,53.9
+CY,pg914,Kyprianou III,Kyprianou,1981-05-24,1983-02-28,unknown,4,1981-1982,2,48.0,12.1,12.5,100.0,41.5,41.5
+CY,pg313,Kyprianou IV,Kyprianou,1983-02-28,1985-12-08,unknown,4,1983-1985,3,61.0,29.3,100.0,100.0,71.8,71.1
+CY,pg913,Kyprianou V,Kyprianou,1985-12-08,1988-02-28,unknown,4,1986-1987,2,110.5,47.7,12.5,100.0,53.4,53.4
+CY,pg784,Vassiliou I,Vassiliou,1988-02-28,1991-05-19,unknown,5,1988-1991,4,127.5,56.1,75.0,97.5,76.4,76.4
+CY,pg912,Vassiliou II,Vassiliou,1991-05-19,1993-02-28,unknown,5,1991-1992,2,128.5,51.5,100.0,100.0,83.8,83.8
+CY,pg645,Clerides I,Clerides,1993-02-28,1996-05-26,unknown,5,1993-1996,4,99.8,44.7,16.7,97.5,57.1,57.1
+CY,pg911,Clerides II,Clerides,1996-05-26,1998-02-28,unknown,6,1996-1997,2,114.0,49.2,25.0,100.0,58.1,58.1
+CY,pg731,Clerides III,Clerides,1998-02-28,2001-05-27,unknown,6,1998-2001,4,155.2,67.8,75.0,100.0,80.9,80.9
+CY,pg910,Clerides IV,Clerides,2001-05-27,2003-02-28,unknown,9,2001-2002,2,204.0,87.1,100.0,100.0,95.7,95.7
+CY,pg342,Papadopoulos I,Papadopoulos,2003-02-28,2006-05-21,unknown,8,2003-2006,4,205.2,91.3,100.0,97.5,96.3,96.3
+CY,pg909,Papadopoulos II,Papadopoulos,2006-05-21,2008-02-28,unknown,6,2006-2007,2,188.0,70.5,100.0,100.0,90.2,90.2
+CY,pg289,Christofias I,Christofias,2008-02-28,2010-03-02,unknown,6,2008-2009,2,133.5,62.1,100.0,95.0,85.7,85.7
+CY,pg908,Christofias II,Christofias,2010-03-02,2011-05-22,unknown,6,2010-2011,2,169.0,71.2,100.0,100.0,90.4,90.4
+CY,pg920,Christofias IV,Christofias,2011-08-05,2013-02-28,unknown,6,2011-2012,2,210.0,82.6,100.0,100.0,94.2,94.2
+CY,pg1064,Anastasiades I,Anastasiades,2013-02-28,2014-03-14,unknown,6,2013-2013,1,185.0,92.4,100.0,90.0,94.1,94.1
+CY,pg1086,Anastasiades II,Anastasiades,2014-03-14,2016-05-22,unknown,6,2014-2016,3,187.0,80.8,100.0,100.0,93.6,93.6
+CY,pg1492,Anastasiades III,Anastasiades,2016-05-22,2018-03-01,unknown,9,2016-2017,2,163.0,70.5,100.0,100.0,90.2,90.2
+CY,pg1628,Anastasiades IV,Anastasiades,2018-03-01,2021-05-30,unknown,8,2018-2021,4,187.8,81.4,87.5,100.0,89.6,89.6
+CY,pg1659,Anastasiades V,Anastasiades,2021-05-30,2023-03-01,unknown,7,2021-2022,2,212.5,91.7,75.0,100.0,88.9,88.9
+CY,manual_CY_2023-03-01,Christodoulides I,Christodoulides,2023-03-01,,unknown,1,2023-2025,3,197.0,86.9,100.0,96.7,94.5,94.5
+CZ,20001,Klaus I,Klaus,1992-07-02,1996-06-01,coalition_majority,4,1992-1996,5,70.0,43.9,100.0,97.7,80.6,79.6
+CZ,20002,Klaus II,Klaus,1996-07-04,1997-11-30,minority,3,1996-1997,2,45.5,8.3,100.0,91.1,66.5,66.5
+CZ,20003,Tošovský,Tošovský,1998-01-02,1998-06-20,minority,3,1998-1998,1,46.0,13.6,100.0,56.0,56.5,57.0
+CZ,20004,Zeman,Zeman,1998-07-22,2002-06-15,minority,1,1998-2002,5,99.6,41.7,60.0,87.5,63.1,61.3
+CZ,20005,Špidla,Špidla,2002-07-15,2004-07-01,coalition_majority,3,2002-2004,3,127.7,78.0,100.0,87.5,88.5,87.1
+CZ,20006,Gross I,Gross,2004-08-04,2005-03-30,coalition_majority,3,2004-2004,1,158.0,89.4,100.0,80.7,90.0,88.5
+CZ,20008,Paroubek,Paroubek,2005-04-25,2006-06-03,coalition_majority,3,2005-2006,2,117.0,81.8,100.0,64.9,82.2,84.0
+CZ,20010,Topolánek II,Topolánek,2007-01-09,2009-03-24,minority,3,2007-2008,2,87.0,76.1,100.0,98.9,91.7,92.3
+CZ,20011,Fischer,Fischer,2009-05-08,2010-05-29,coalition_majority,3,2009-2010,2,86.5,64.8,100.0,77.7,80.8,80.2
+CZ,20012,Nečas I,Nečas,2010-07-13,2012-04-26,coalition_majority,3,2010-2012,3,95.7,69.2,100.0,92.5,87.2,85.5
+CZ,20013,Nečas II,Nečas,2012-04-27,2013-06-17,minority,3,2012-2013,2,96.5,52.3,100.0,64.9,72.4,74.9
+CZ,20015,Sobotka,Sobotka,2014-01-29,2017-10-20,coalition_majority,3,2014-2017,4,88.5,41.3,100.0,89.4,76.9,79.0
+CZ,20017,Babiš II,Babiš,2018-06-27,2021-10-09,minority,2,2018-2021,4,82.5,40.2,100.0,82.2,74.1,74.9
+CZ,20018,Fiala,Fiala,2021-12-17,2024-09-30,coalition_majority,5,2022-2024,3,84.7,55.6,66.7,99.0,73.7,72.4
+CZ,20019,Fiala II,Fiala,2024-10-11,2025-10-04,coalition_majority,4,2025-2025,1,99.0,25.8,100.0,70.3,65.3,68.4
+DE,6001,Adenauer I,Adenauer,1949-09-15,1953-09-06,coalition_majority,3,1950-1953,4,133.1,96.2,0.0,97.7,64.7,64.7
+DE,6002,Adenauer II,Adenauer,1953-10-09,1955-07-23,coalition_majority,4,1954-1955,2,125.9,88.8,0.0,100.0,62.9,62.5
+DE,6003,Adenauer III,Adenauer,1955-07-23,1956-02-25,coalition_majority,3,1955-1955,1,125.9,87.5,0.0,100.0,62.5,61.7
+DE,6004,Adenauer IV,Adenauer,1956-02-25,1957-09-15,coalition_majority,3,1956-1957,2,123.9,83.8,0.0,94.9,59.6,60.0
+DE,6005,Adenauer V,Adenauer,1957-10-22,1960-07-02,coalition_majority,2,1958-1960,3,105.9,58.3,0.0,100.0,52.8,54.4
+DE,6006,Adenauer VI,Adenauer,1960-07-02,1961-09-17,single_majority,1,1960-1961,2,106.0,53.8,0.0,93.0,48.9,51.4
+DE,6007,Adenauer VII,Adenauer,1961-11-07,1962-11-19,coalition_majority,2,1962-1962,1,106.5,57.5,0.0,100.0,52.5,55.0
+DE,6009,Adenauer IX,Adenauer,1962-12-13,1963-10-16,coalition_majority,2,1963-1963,1,106.5,60.0,0.0,90.0,50.0,47.5
+DE,6010,Erhard I,Erhard,1963-10-16,1965-09-19,coalition_majority,2,1964-1965,2,107.4,65.0,0.0,95.8,53.6,52.3
+DE,6011,Erhard II,Erhard,1965-10-20,1966-10-28,coalition_majority,2,1966-1966,1,113.1,75.0,0.0,90.0,55.0,55.0
+DE,6013,Kiesinger,Kiesinger,1966-12-01,1969-09-28,coalition_majority,2,1967-1969,3,112.7,75.8,0.0,94.6,56.8,56.0
+DE,6014,Brandt I,Brandt,1969-10-21,1972-11-19,coalition_majority,2,1970-1972,3,70.9,55.0,0.0,92.7,49.2,48.1
+DE,6015,Brandt II,Brandt,1972-12-14,1974-05-16,coalition_majority,2,1973-1974,2,71.0,58.8,0.0,95.0,51.3,50.9
+DE,6016,Schmidt I,Schmidt,1974-05-16,1976-10-03,coalition_majority,2,1974-1976,3,91.0,53.1,0.0,90.0,47.7,47.7
+DE,6017,Schmidt II,Schmidt,1976-12-15,1980-10-05,coalition_majority,2,1977-1980,4,52.8,36.6,25.0,97.9,53.1,53.7
+DE,6018,Schmidt III,Schmidt,1980-11-05,1982-09-17,coalition_majority,2,1981-1982,2,31.5,7.3,0.0,95.0,34.1,34.3
+DE,6020,Kohl I,Kohl,1982-10-01,1983-03-06,coalition_majority,2,1982-1982,1,32.0,6.8,0.0,90.0,32.3,32.3
+DE,6021,Kohl II,Kohl,1983-03-29,1987-01-25,coalition_majority,2,1983-1986,4,58.8,29.9,100.0,94.7,74.9,74.7
+DE,6022,Kohl III,Kohl,1987-03-11,1990-10-30,coalition_majority,2,1987-1990,4,65.5,38.0,100.0,94.9,77.6,77.7
+DE,6024,Kohl V,Kohl,1991-01-17,1994-10-16,coalition_majority,2,1991-1994,4,83.5,32.3,75.0,96.8,68.0,67.6
+DE,6025,Kohl VI,Kohl,1994-11-15,1998-09-27,coalition_majority,2,1995-1998,4,81.5,45.5,75.0,95.4,72.0,71.7
+DE,6026,Schröder I,Schröder,1998-10-27,2002-09-22,coalition_majority,2,1999-2002,4,97.2,60.4,75.0,97.9,77.8,76.4
+DE,6027,Schröder II,Schröder,2002-10-22,2005-09-18,coalition_majority,2,2003-2005,3,93.7,40.7,0.0,85.7,42.2,41.5
+DE,6028,Merkel I,Merkel,2005-11-22,2009-09-27,coalition_majority,2,2006-2009,4,115.0,69.1,75.0,97.9,80.7,79.2
+DE,6029,Merkel II,Merkel,2009-10-28,2013-09-22,coalition_majority,2,2010-2013,4,99.2,57.8,75.0,94.1,75.6,75.5
+DE,6030,Merkel III,Merkel,2013-12-17,2017-09-24,coalition_majority,2,2014-2017,4,106.0,64.6,75.0,93.2,77.6,78.8
+DE,6031,Merkel IV,Merkel,2018-03-14,2021-09-26,coalition_majority,2,2018-2021,4,118.5,66.8,75.0,87.6,76.5,77.1
+DE,6032,Scholz,Scholz,2021-12-08,2024-12-16,coalition_majority,3,2022-2024,3,86.3,39.8,33.3,98.5,57.2,58.0
+DE,6033,Merz,Merz,2025-05-06,,coalition_majority,2,2025-2025,1,79.0,9.7,0.0,55.8,21.8,27.8
+DK,3002,Hedtoft I,Hedtoft,1947-11-13,1950-09-05,minority,1,1950-1950,1,,,,70.9,60.4,60.4
+DK,3004,Eriksen I,Eriksen,1950-10-30,1953-04-21,minority,2,1951-1953,3,40.0,1.4,,81.9,57.8,57.8
+DK,3005,Eriksen II,Eriksen,1953-04-21,1953-09-22,caretaker,2,1953-1953,1,40.0,1.4,,45.6,23.5,23.5
+DK,3006,Hedtoft III,Hedtoft,1953-09-30,1955-01-29,minority,1,1953-1954,2,111.0,2.1,,72.8,37.4,38.8
+DK,3007,Hansen,Hansen,1955-02-01,1957-05-14,minority,1,1955-1957,3,139.0,9.1,,95.1,52.1,52.4
+DK,3008,Hansen II,Hansen,1957-05-28,1960-02-19,coalition_majority,3,1957-1959,3,134.0,6.4,,98.7,52.6,51.6
+DK,3009,Kampmann I,Kampmann,1960-02-21,1960-11-15,coalition_majority,3,1960-1960,1,140.0,6.8,,73.6,40.2,39.6
+DK,3010,Kampmann II,Kampmann,1960-11-18,1962-09-03,minority,2,1961-1962,2,140.5,12.3,,95.0,53.7,53.3
+DK,3011,Krag I,Krag,1962-09-03,1964-09-22,minority,2,1962-1964,3,143.7,14.2,,96.3,55.2,55.2
+DK,3012,Krag II,Krag,1964-09-26,1966-11-22,minority,1,1964-1966,3,180.7,25.6,,94.6,60.1,59.9
+DK,3013,Krag III,Krag,1966-11-22,1968-01-23,minority,1,1967-1967,1,236.0,30.1,,100.0,65.1,65.1
+DK,3014,Baunsgaard,Baunsgaard,1968-02-22,1971-09-21,coalition_majority,3,1968-1971,4,197.5,46.8,,84.1,65.5,66.0
+DK,3015,Krag IV,Krag,1971-10-11,1972-10-05,minority,1,1972-1972,1,298.0,47.9,,90.0,69.0,71.0
+DK,3016,Jorgensen I,Jorgensen,1972-10-05,1973-12-04,minority,1,1973-1973,1,215.0,79.5,,70.9,75.2,75.9
+DK,3017,Hartling,Hartling,1973-12-19,1975-01-09,minority,1,1974-1974,1,316.0,89.0,,100.0,94.5,96.6
+DK,3018,Jorgensen II,Jorgensen,1975-02-13,1977-02-15,minority,1,1975-1976,2,339.5,99.3,,82.7,91.0,91.0
+DK,3019,Jorgensen III,Jorgensen,1977-02-15,1978-08-30,minority,1,1977-1978,2,307.5,87.2,,92.5,89.8,89.5
+DK,3020,Jorgensen IV,Jorgensen,1978-08-30,1979-10-23,minority,2,1978-1979,2,236.5,69.9,,92.1,81.0,80.6
+DK,3021,Jorgensen V,Jorgensen,1979-10-26,1981-12-08,minority,1,1980-1981,2,258.5,67.8,100.0,89.5,85.8,86.4
+DK,3022,Jorgensen VI,Jorgensen,1981-12-30,1982-09-03,minority,1,1982-1982,1,280.0,83.6,0.0,88.1,57.2,58.1
+DK,3023,Schlüter I,Schlüter,1982-09-10,1984-01-10,minority,4,1982-1983,2,288.0,81.5,50.0,94.0,75.2,75.6
+DK,3024,Schlüter II,Schlüter,1984-01-10,1987-09-08,minority,4,1984-1987,4,264.5,80.9,75.0,92.4,82.7,82.8
+DK,3025,Schlüter III,Schlüter,1987-09-10,1988-05-10,minority,4,1987-1988,2,278.0,78.1,100.0,81.4,86.5,87.4
+DK,3026,Schlüter IV,Schlüter,1988-06-03,1990-12-12,minority,3,1988-1990,3,257.7,71.7,100.0,87.3,86.3,86.8
+DK,3027,Schlüter V,Schlüter,1990-12-18,1993-01-15,minority,2,1991-1992,2,319.5,94.4,50.0,100.0,81.5,81.5
+DK,3028,Nyrup Rasmussen I,Nyrup Rasmussen,1993-01-25,1994-09-21,minority,4,1993-1994,2,277.0,87.7,100.0,92.8,93.5,93.3
+DK,3029,Nyrup Rasmussen II,Nyrup Rasmussen,1994-09-27,1996-12-30,minority,3,1994-1996,3,260.3,79.9,100.0,99.5,93.1,92.7
+DK,3030,Nyrup Rasmussen III,Nyrup Rasmussen,1996-12-30,1998-03-11,minority,2,1997-1997,1,308.0,91.8,100.0,100.0,97.3,96.8
+DK,3031,Nyrup Rasmussen IV,Nyrup Rasmussen,1998-03-11,2001-11-20,minority,2,1998-2001,4,264.2,76.7,100.0,93.3,90.0,89.5
+DK,3032,Fogh Rasmussen I,Fogh Rasmussen,2001-11-27,2005-02-08,minority,2,2002-2004,3,247.3,49.5,66.7,100.0,72.0,72.1
+DK,3033,Fogh Rasmussen II,Fogh Rasmussen,2005-02-08,2007-11-13,minority,2,2005-2007,3,198.0,36.8,100.0,90.0,75.6,75.3
+DK,3034,Fogh Rasmussen III,Fogh Rasmussen,2007-11-13,2009-04-05,minority,2,2008-2009,2,227.5,54.1,50.0,95.0,66.4,65.9
+DK,3035,Løkke Rasmussen I,Løkke Rasmussen,2009-04-05,2011-09-15,minority,2,2009-2011,3,205.3,59.4,100.0,91.7,83.7,83.7
+DK,3036,Thorning-Schmidt I,Thorning-Schmidt,2011-10-03,2014-02-03,minority,3,2011-2013,3,210.3,52.9,83.3,95.0,77.1,76.9
+DK,3037,Thorning-Schmidt II,Thorning-Schmidt,2014-02-03,2015-06-18,minority,2,2014-2015,2,185.5,30.1,100.0,93.6,74.6,74.4
+DK,3038,Løkke Rasmussen II,Løkke Rasmussen,2015-06-28,2016-11-28,minority,1,2015-2016,2,182.0,38.5,100.0,93.6,77.4,77.4
+DK,3039,Løkke Rasmussen III,Løkke Rasmussen,2016-11-28,2019-06-05,minority,3,2017-2019,3,227.7,47.8,100.0,94.7,80.8,80.7
+DK,3040,Frederiksen I,Frederiksen,2019-06-27,2022-11-01,minority,1,2019-2022,4,201.5,36.5,100.0,89.2,75.2,75.8
+DK,3041,Frederiksen II,Frederiksen,2022-12-15,2026-03-24,minority,3,2023-2025,3,207.7,23.6,66.7,100.0,63.4,63.0
+EE,21001,Laar I,Laar,1992-10-21,1994-09-26,coalition_majority,3,1993-1994,2,140.0,41.9,0.0,89.1,54.6,54.6
+EE,21003,Vähi I,Vähi,1995-04-17,1995-10-12,coalition_majority,5,1995-1995,1,113.0,42.6,100.0,71.4,71.3,73.8
+EE,21004,Vähi II,Vähi,1995-11-06,1996-11-20,coalition_majority,5,1996-1996,1,95.0,42.6,100.0,96.7,79.8,80.3
+EE,21006,Siimann,Siimann,1997-03-17,1999-03-07,minority,5,1997-1998,2,134.0,41.9,100.0,92.3,78.1,77.3
+EE,21007,Laar II,Laar,1999-03-25,2002-01-08,coalition_majority,3,1999-2001,3,166.0,52.5,83.3,95.0,76.9,76.6
+EE,21008,Kallas,Kallas,2002-01-28,2003-03-02,minority,2,2002-2002,1,163.0,57.4,50.0,84.5,64.0,64.4
+EE,21009,Parts,Parts,2003-04-10,2005-03-24,coalition_majority,3,2003-2004,2,156.5,62.5,100.0,89.7,84.1,84.3
+EE,21010,Ansip I,Ansip,2005-04-13,2007-03-04,coalition_majority,3,2005-2006,2,131.5,59.6,100.0,92.3,83.9,83.9
+EE,21011,Ansip II,Ansip,2007-04-04,2009-05-21,coalition_majority,3,2007-2009,3,120.0,61.5,100.0,95.9,85.8,85.4
+EE,21012,Ansip III,Ansip,2009-06-04,2011-03-06,minority,2,2009-2010,2,130.0,60.7,100.0,98.1,86.2,85.9
+EE,21013,Ansip IV,Ansip,2011-04-06,2014-03-04,coalition_majority,2,2011-2013,3,93.7,60.3,100.0,97.2,85.8,85.5
+EE,21014,Rõivas,Rõivas,2014-03-26,2015-03-01,coalition_majority,2,2014-2014,1,130.0,61.8,100.0,84.0,81.9,82.4
+EE,21015,Rõivas II,Rõivas,2015-04-09,2016-11-09,coalition_majority,3,2015-2016,2,90.5,64.7,100.0,87.7,84.2,84.6
+EE,21016,Ratas I,Ratas,2016-11-23,2019-03-03,coalition_majority,3,2017-2018,2,102.0,51.1,100.0,100.0,83.7,83.6
+EE,21017,Ratas II,Ratas,2019-04-29,2021-01-14,coalition_majority,3,2019-2020,2,76.0,33.8,100.0,92.2,75.3,75.6
+EE,21018,Kallas K I,Kallas K,2021-01-26,2022-07-14,coalition_majority,2,2021-2022,2,99.0,43.8,100.0,92.8,78.9,78.7
+EE,21019,Kallas K II,Kallas K,2022-07-18,2023-03-05,coalition_majority,3,2022-2022,1,115.0,44.1,100.0,98.9,81.0,81.5
+EE,21020,Kallas K III,Kallas K,2023-04-17,2024-07-15,coalition_majority,3,2023-2024,2,75.5,51.5,100.0,88.0,79.8,79.6
+EE,21021,Michal I,Michal,2024-07-23,2025-03-11,coalition_majority,3,2024-2024,1,81.0,52.9,100.0,87.8,80.3,79.8
+EE,21022,Michal II,Michal,2025-03-11,,minority,2,2025-2025,1,85.0,55.9,100.0,100.0,85.3,85.3
+ES,15001,Suárez II,Suárez,1977-07-05,1979-03-01,minority,1,1977-1978,2,,,,,,
+ES,15002,Suárez III,Suárez,1979-04-06,1981-01-29,minority,1,1979-1980,2,73.5,92.6,100.0,87.6,90.9,90.4
+ES,15003,Calvo-Sotelo,Calvo-Sotelo,1981-02-27,1982-10-28,minority,1,1981-1982,2,75.5,94.7,100.0,73.6,89.4,90.5
+ES,15004,González I,González,1982-12-03,1986-06-22,single_majority,1,1983-1986,4,61.0,71.0,75.0,97.7,81.2,79.4
+ES,15005,González II,González,1986-07-26,1989-10-29,single_majority,1,1986-1989,4,42.0,26.1,100.0,91.2,72.4,70.1
+ES,15006,González III,González,1989-12-07,1993-06-06,minority,1,1990-1993,4,40.8,27.7,75.0,93.6,65.4,62.8
+ES,15007,González IV,González,1993-07-14,1996-03-03,minority,1,1993-1995,3,59.3,58.5,100.0,91.5,83.3,81.3
+ES,15008,Aznar I,Aznar,1996-05-06,2000-03-12,minority,1,1996-1999,4,71.0,85.9,75.0,89.4,83.4,83.2
+ES,15009,Aznar II,Aznar,2000-04-28,2004-03-14,single_majority,1,2000-2003,4,57.2,55.9,100.0,96.8,84.2,81.6
+ES,15010,Zapatero I,Zapatero,2004-04-18,2008-03-09,minority,1,2004-2007,4,55.2,53.2,100.0,95.1,82.8,79.8
+ES,15011,Zapatero II,Zapatero,2008-04-14,2011-11-20,minority,1,2008-2011,4,49.8,49.5,100.0,89.1,79.5,77.9
+ES,15012,Rajoy I,Rajoy,2011-12-22,2015-12-20,single_majority,1,2012-2015,4,60.8,57.2,75.0,99.2,77.1,79.2
+ES,15013,Rajoy II,Rajoy,2015-12-20,2016-06-26,caretaker,1,2016-2016,1,10.0,18.1,100.0,15.8,44.6,56.3
+ES,15014,Rajoy III,Rajoy,2016-11-04,2018-06-02,minority,1,2017-2018,2,38.0,7.4,0.0,94.5,34.0,41.1
+ES,15015,Sánchez I,Sánchez,2018-06-06,2019-04-28,minority,1,2018-2019,2,34.5,11.7,0.0,45.5,19.1,29.3
+ES,15016,Sánchez II,Sánchez,2019-04-28,2019-11-10,caretaker,1,2019-2019,1,26.0,14.9,0.0,2.1,5.6,17.7
+ES,15017,Sánchez III,Sánchez,2020-01-13,2023-07-23,minority,3,2020-2023,4,53.8,44.9,75.0,91.2,70.4,73.0
+ES,15018,Sánchez IV,Sánchez,2023-11-16,,minority,2,2024-2025,2,28.5,3.2,0.0,100.0,34.4,34.4
+FI,4004,Kekkonen I,Kekkonen,1950-03-17,1951-01-17,minority,3,1950-1950,1,,,,85.6,67.8,67.8
+FI,4005,Kekkonen II,Kekkonen,1951-01-17,1951-07-03,coalition_majority,4,1951-1951,1,,,,78.4,64.2,64.2
+FI,4006,Kekkonen III,Kekkonen,1951-09-20,1953-06-29,coalition_majority,3,1951-1953,3,,,,86.6,68.3,68.3
+FI,4007,Kekkonen IV,Kekkonen,1953-07-09,1953-11-04,minority,2,1953-1953,1,,,,81.4,65.7,65.7
+FI,4009,Törngren,Törngren,1954-05-05,1954-10-14,coalition_majority,3,1954-1954,1,,,,14.4,32.2,32.2
+FI,4010,Kekkonen V,Kekkonen,1954-10-20,1956-01-27,coalition_majority,2,1955-1955,1,,,,100.0,75.0,75.0
+FI,4011,Fagerholm II,Fagerholm,1956-03-03,1957-05-17,coalition_majority,4,1956-1957,2,,,,74.1,62.1,62.1
+FI,4016,von Fieandt,von Fieandt,1957-11-29,1958-04-18,caretaker,0,1958-1958,1,,,,16.6,33.3,33.3
+FI,4018,Fagerholm IV,Fagerholm,1958-08-29,1958-12-04,coalition_majority,5,1958-1958,1,,,,16.6,33.3,33.3
+FI,4019,Sukselainen IV,Sukselainen,1959-01-13,1961-06-28,minority,2,1959-1961,3,,,,85.8,67.9,67.9
+FI,4020,Miettunen I,Miettunen,1961-07-14,1962-02-05,minority,1,1961-1961,1,,,,70.6,60.3,60.3
+FI,4021,Karjalainen I,Karjalainen,1962-04-13,1963-10-18,coalition_majority,5,1962-1963,2,,,,76.3,63.1,63.1
+FI,4023,Lehto,Lehto,1963-12-18,1964-09-12,caretaker,0,1964-1964,1,,,,5.3,27.7,27.7
+FI,4024,Virolainen,Virolainen,1964-09-12,1966-03-21,coalition_majority,4,1964-1965,2,,,,52.7,51.3,51.3
+FI,4025,Paasio I,Paasio,1966-05-27,1968-03-01,coalition_majority,4,1966-1967,2,,,,85.8,67.9,67.9
+FI,4026,Koivisto I,Koivisto,1968-03-22,1970-03-16,coalition_majority,5,1968-1969,2,,,,92.1,71.1,71.1
+FI,4028,Karjalainen III,Karjalainen,1970-07-15,1971-03-26,coalition_majority,5,1970-1970,1,,,,56.8,53.4,53.4
+FI,4029,Karjalainen IV,Karjalainen,1971-03-26,1971-10-29,coalition_majority,4,1971-1971,1,,,,82.5,66.2,66.2
+FI,4031,Paasio II,Paasio,1972-02-23,1972-07-19,minority,1,1972-1972,1,,,,37.7,43.8,43.8
+FI,4032,Sorsa I,Sorsa,1972-09-04,1975-06-04,coalition_majority,4,1972-1975,4,,,,65.9,58.0,58.0
+FI,4033,Liinamaa,Liinamaa,1975-06-13,1975-09-22,caretaker,0,1975-1975,1,,,,26.0,38.0,38.0
+FI,4034,Miettunen II,Miettunen,1975-11-30,1976-09-17,coalition_majority,5,1976-1976,1,,,,96.7,73.4,73.4
+FI,4035,Miettunen III,Miettunen,1976-09-29,1977-05-11,minority,3,1976-1977,2,,,,92.8,71.4,71.4
+FI,4036,Sorsa II,Sorsa,1977-05-15,1978-01-17,coalition_majority,5,1977-1977,1,,,,88.9,69.5,69.5
+FI,4037,Sorsa III,Sorsa,1978-03-02,1979-03-19,coalition_majority,4,1978-1978,1,,,,87.9,69.0,69.0
+FI,4038,Koivisto II,Koivisto,1979-05-26,1982-01-26,coalition_majority,4,1979-1981,3,,,100.0,90.5,73.0,73.0
+FI,4039,Sorsa IV,Sorsa,1982-02-19,1982-12-30,coalition_majority,4,1982-1982,1,,,100.0,83.2,77.7,77.7
+FI,4041,Sorsa VI,Sorsa,1983-05-06,1987-03-16,coalition_majority,4,1983-1986,4,,,62.5,96.8,69.8,69.8
+FI,4042,Holkeri I,Holkeri,1987-04-30,1990-08-24,coalition_majority,4,1987-1990,4,456.0,16.7,87.5,94.1,74.4,74.9
+FI,4043,Holkeri II,Holkeri,1990-08-28,1991-03-17,coalition_majority,3,1990-1990,1,456.0,16.7,100.0,98.9,71.9,73.7
+FI,4044,Aho I,Aho,1991-04-26,1994-06-20,coalition_majority,4,1991-1994,4,593.0,50.7,62.5,94.2,69.1,68.2
+FI,4045,Aho II,Aho,1994-06-28,1995-03-19,coalition_majority,3,1994-1994,1,553.0,63.9,100.0,97.8,87.2,87.2
+FI,4046,Lipponen I,Lipponen,1995-04-13,1999-03-21,coalition_majority,5,1995-1998,4,549.5,27.1,87.5,95.8,70.1,69.9
+FI,4047,Lipponen II,Lipponen,1999-04-15,2002-05-31,coalition_majority,5,1999-2002,4,514.2,17.4,100.0,98.3,71.9,71.4
+FI,4048,Lipponen III,Lipponen,2002-05-31,2003-03-16,coalition_majority,4,2002-2002,1,499.0,30.6,100.0,100.0,76.9,76.9
+FI,4050,Vanhanen I,Vanhanen,2003-06-24,2007-03-18,coalition_majority,3,2003-2006,4,522.5,26.4,100.0,92.4,72.9,72.5
+FI,4051,Vanhanen II,Vanhanen,2007-04-19,2010-06-18,coalition_majority,4,2007-2010,4,639.2,53.8,100.0,95.0,83.0,83.1
+FI,4052,Mari Kiviniemi,Mari Kiviniemi,2010-06-22,2011-04-17,coalition_majority,4,2010-2011,2,694.5,64.6,100.0,80.4,81.7,83.7
+FI,4053,Katainen I,Katainen,2011-06-22,2014-03-25,coalition_majority,6,2011-2013,3,586.0,43.5,100.0,90.6,78.1,80.2
+FI,4054,Katainen II,Katainen,2014-03-25,2014-06-24,coalition_majority,5,2014-2014,1,740.0,81.9,100.0,90.0,90.6,89.3
+FI,4056,Stubb II,Stubb,2014-09-20,2015-04-19,coalition_majority,4,2014-2015,2,851.0,91.0,100.0,84.5,91.8,91.1
+FI,4057,Sipilä I,Sipilä,2015-05-29,2017-06-13,coalition_majority,3,2015-2017,3,781.7,86.1,100.0,93.0,93.0,92.1
+FI,4058,Sipilä II,Sipilä,2017-06-13,2019-04-14,coalition_majority,3,2017-2019,3,788.3,87.0,100.0,88.5,91.8,91.8
+FI,4059,Rinne,Rinne,2019-06-06,2019-12-10,coalition_majority,5,2019-2019,1,1049.0,97.2,100.0,65.5,87.6,87.6
+FI,4060,Marin,Marin,2019-12-10,2023-04-02,coalition_majority,5,2020-2023,4,725.0,77.1,100.0,92.1,89.7,90.6
+FI,4061,Orpo,Orpo,2023-06-20,,coalition_majority,4,2023-2025,3,770.7,77.8,100.0,89.5,89.1,89.4
+FR,5001,Debré,Debré,1959-01-20,1962-04-14,coalition_majority,4,1959-1962,4,73.2,74.4,100.0,92.9,89.1,89.1
+FR,5002,Pompidou I,Pompidou,1962-04-15,1962-11-25,coalition_majority,3,1962-1962,1,52.0,79.1,100.0,71.7,83.6,83.6
+FR,5003,Pompidou II,Pompidou,1962-12-06,1966-01-08,coalition_majority,2,1963-1965,3,96.7,87.1,66.7,100.0,84.6,84.4
+FR,5004,Pompidou III,Pompidou,1966-01-08,1967-03-12,coalition_majority,2,1966-1966,1,143.0,89.6,100.0,100.0,96.5,96.5
+FR,5005,Pompidou IV,Pompidou,1967-04-07,1968-06-30,minority,2,1967-1968,2,75.0,79.1,100.0,82.3,87.1,87.6
+FR,5006,Couve de Murville,Couve de Murville,1968-07-12,1969-06-20,coalition_majority,2,1968-1969,2,74.0,73.9,100.0,80.6,84.8,85.3
+FR,5007,Chaban Delmas,Chaban Delmas,1969-06-22,1972-07-05,coalition_majority,3,1969-1972,4,105.2,88.1,100.0,94.8,94.3,94.3
+FR,5008,Messmer I,Messmer,1972-07-06,1973-03-11,coalition_majority,3,1972-1972,1,131.0,92.5,100.0,89.7,94.1,94.1
+FR,5009,Messmer II and III,Messmer II and,1973-04-12,1974-05-27,coalition_majority,4,1973-1974,2,70.5,83.6,100.0,84.0,89.2,89.4
+FR,5010,Chirac I,Chirac,1974-06-08,1976-08-25,coalition_majority,4,1974-1976,3,109.7,93.0,100.0,92.1,95.0,95.2
+FR,5011,Barre I,Barre,1976-08-27,1977-03-29,coalition_majority,4,1976-1976,1,110.0,100.0,100.0,89.5,96.5,96.5
+FR,5012,Barre II,Barre,1977-04-01,1978-03-19,coalition_majority,4,1977-1977,1,163.0,98.5,100.0,99.2,99.2,99.2
+FR,5013,Barre III,Barre,1978-04-06,1981-05-13,coalition_majority,2,1978-1981,4,57.5,58.8,87.5,89.7,78.7,78.5
+FR,5015,Mauroy II and III,Mauroy II and,1981-06-23,1984-07-17,coalition_majority,3,1981-1984,4,64.5,62.3,100.0,88.0,83.4,83.2
+FR,5016,Fabius,Fabius,1984-07-23,1986-03-16,coalition_majority,2,1984-1985,2,76.0,70.5,100.0,94.2,88.2,88.1
+FR,5017,Chirac II,Chirac,1986-03-20,1988-05-10,minority,2,1986-1988,3,52.7,54.5,100.0,86.8,80.4,80.7
+FR,5019,Rocard II,Rocard,1988-06-28,1991-05-15,coalition_majority,3,1988-1991,4,56.2,56.9,100.0,90.3,82.4,82.5
+FR,5020,Cresson,Cresson,1991-05-17,1992-04-02,minority,2,1991-1992,2,61.5,60.4,100.0,89.5,83.3,83.3
+FR,5021,Beregovoy,Beregovoy,1992-04-04,1993-03-28,minority,2,1992-1992,1,62.0,56.7,100.0,89.5,82.1,82.1
+FR,5022,Balladur,Balladur,1993-03-30,1995-05-11,coalition_majority,2,1993-1995,3,52.7,55.7,100.0,92.5,82.7,81.9
+FR,5023,Juppé I and II,Juppé I and,1995-05-18,1997-06-01,coalition_majority,2,1995-1997,3,42.3,29.1,100.0,87.4,72.2,71.4
+FR,5024,Jospin,Jospin,1997-06-04,2002-05-06,coalition_majority,4,1997-2002,6,34.3,12.4,100.0,92.1,68.2,67.4
+FR,5026,Raffarin II and III,Raffarin II and,2002-06-17,2005-05-31,single_majority,1,2002-2005,4,35.5,10.4,100.0,92.0,67.5,67.1
+FR,5027,de Villepin,de Villepin,2005-06-02,2007-05-15,single_majority,1,2005-2007,3,44.0,19.2,100.0,93.3,70.8,71.6
+FR,5029,Fillon II,Fillon,2007-06-19,2012-05-10,coalition_majority,2,2007-2012,6,45.8,31.3,100.0,96.5,75.9,76.0
+FR,5031,Ayrault II,Ayrault,2012-06-21,2014-03-31,coalition_majority,3,2012-2013,2,43.5,32.1,100.0,94.3,75.5,76.9
+FR,5032,Valls I,Valls,2014-04-09,2014-08-25,coalition_majority,2,2014-2014,1,52.0,40.3,100.0,87.3,75.9,75.4
+FR,5033,Valls II,Valls,2014-08-26,2016-02-11,coalition_majority,2,2014-2015,2,48.0,44.0,100.0,93.6,79.2,78.5
+FR,5034,Valls III,Valls,2016-02-11,2016-12-06,coalition_majority,3,2016-2016,1,57.0,21.6,100.0,90.0,70.5,70.8
+FR,5035,Cazeneuve,Cazeneuve,2016-12-06,2017-05-10,coalition_majority,3,2017-2017,1,31.0,15.7,100.0,88.5,68.1,68.3
+FR,5037,Philippe II,Philippe,2017-06-21,2020-07-03,coalition_majority,3,2017-2020,4,38.8,17.4,100.0,94.6,70.7,70.2
+FR,5038,Castex,Castex,2020-07-03,2022-05-16,coalition_majority,3,2020-2022,3,45.3,36.8,100.0,92.0,76.3,74.9
+FR,5040,Borne II,Borne,2022-07-04,2024-01-09,minority,2,2022-2023,2,44.5,28.4,100.0,92.9,73.8,75.0
+FR,5041,Attal,Attal,2024-01-09,2024-07-07,minority,3,2024-2024,1,37.0,42.5,100.0,46.1,62.9,64.6
+FR,5042,Barnier,Barnier,2024-09-05,2024-12-04,minority,5,2024-2024,1,37.0,42.5,100.0,46.1,62.9,64.6
+FR,5043,Bayrou,Bayrou,2024-12-13,2025-09-08,minority,4,2025-2025,1,57.0,35.8,0.0,81.0,38.9,43.4
+GR,7001,Karamanlis,Karamanlis,1977-11-28,1980-05-10,single_majority,1,1978-1980,3,86.7,92.2,,96.7,94.4,94.4
+GR,7002,Rallis,Rallis,1980-05-10,1981-10-18,single_majority,1,1980-1981,2,76.5,89.2,,82.1,85.7,84.7
+GR,7003,Papandreou I,Papandreou,1981-10-21,1985-06-02,single_majority,1,1982-1985,4,55.5,68.6,,96.0,82.3,79.1
+GR,7004,Papandreou II,Papandreou,1985-06-05,1989-06-18,single_majority,1,1985-1989,5,37.0,12.4,,80.0,46.2,54.1
+GR,7005,Tzannetakis,Tzannetakis,1989-07-02,1989-10-07,caretaker,2,1989-1989,1,32.0,3.9,,16.0,10.0,40.4
+GR,7007,Zolotas,Zolotas,1989-11-23,1990-04-08,caretaker,3,1990-1990,1,38.0,6.9,0.0,47.6,18.2,38.1
+GR,7008,Mitsotakis,Mitsotakis,1990-04-11,1993-10-10,minority,1,1990-1993,4,38.2,14.0,75.0,80.4,56.5,60.5
+GR,7009,Papandreou III,Papandreou,1993-10-13,1996-01-16,single_majority,1,1994-1995,2,50.5,30.4,100.0,100.0,71.0,68.6
+GR,7010,Simitis I,Simitis,1996-01-22,1996-09-22,single_majority,1,1996-1996,1,33.0,25.5,100.0,72.5,66.0,63.4
+GR,7011,Simitis II,Simitis,1996-09-25,2000-04-09,single_majority,1,1996-2000,5,42.8,33.3,100.0,91.3,69.7,67.1
+GR,7012,Simitis III,Simitis,2000-04-13,2004-03-07,single_majority,1,2000-2003,4,47.8,44.1,100.0,96.0,73.9,71.2
+GR,7013,Karamanlis I,Karamanlis,2004-03-10,2007-09-16,single_majority,1,2004-2007,4,48.5,53.9,100.0,89.6,76.5,75.0
+GR,7014,Karamanlis II,Karamanlis,2007-09-19,2009-10-04,single_majority,1,2007-2009,3,40.0,35.6,100.0,86.2,70.1,67.8
+GR,7015,Papandreou,Papandreou,2009-10-06,2011-11-11,single_majority,1,2010-2011,2,64.0,67.6,100.0,93.0,86.9,90.3
+GR,7019,Samaras I,Samaras,2012-06-21,2013-06-22,coalition_majority,3,2012-2013,2,57.5,76.0,100.0,56.5,77.5,80.4
+GR,7020,Samaras II,Samaras,2013-06-22,2015-01-25,coalition_majority,2,2013-2014,2,63.5,70.1,100.0,100.0,90.0,90.5
+GR,7021,Tsipras I,Tsipras,2015-01-26,2015-08-20,coalition_majority,2,2015-2015,1,29.0,37.3,100.0,40.4,59.2,57.9
+GR,7023,Tsipras II,Tsipras,2015-09-23,2019-01-13,coalition_majority,2,2015-2018,4,41.0,27.2,100.0,85.1,70.8,69.2
+GR,7024,Tsipras III,Tsipras,2019-01-16,2019-07-07,minority,1,2019-2019,1,39.0,50.0,100.0,73.9,74.6,73.7
+GR,7025,Mitsotakis I,Mitsotakis,2019-07-08,2023-06-25,single_majority,1,2019-2023,5,57.2,72.0,100.0,94.7,88.9,87.9
+GR,7026,Mitsotakis II,Mitsotakis,2023-06-26,,single_majority,1,2023-2025,3,51.7,67.0,100.0,99.9,89.0,87.6
+HR,30002,Manolic,Manolic,1990-08-24,1991-07-17,single_majority,1,1990-1991,2,,,,,,
+HR,30003,Greguric I,Greguric,1991-07-17,1992-02-20,coalition_majority,4,1991-1991,1,,,,,,
+HR,30006,Sarinic,Sarinic,1992-08-12,1993-03-29,single_majority,1,1992-1992,1,123.0,,,,,
+HR,30007,Valentic,Valentic,1993-04-03,1995-10-29,single_majority,1,1993-1995,3,94.3,,,,,
+HR,30008,Matesa,Matesa,1995-11-07,2000-01-03,single_majority,1,1996-1999,4,90.5,,,,,
+HR,30009,Racan I,Racan,2000-01-27,2001-06-04,coalition_majority,6,2000-2001,2,106.0,39.7,50.0,91.7,60.5,59.0
+HR,30010,Racan II,Racan,2001-06-04,2002-07-05,coalition_majority,5,2001-2002,2,111.0,44.1,100.0,96.6,80.2,79.7
+HR,30011,Racan III,Racan,2002-07-30,2003-11-23,minority,5,2002-2003,2,105.0,47.1,100.0,87.5,78.2,78.2
+HR,30012,Sanader I,Sanader,2003-12-23,2006-02-09,minority,2,2004-2005,2,84.5,20.6,50.0,100.0,56.9,56.4
+HR,30013,Sanader II,Sanader,2006-02-09,2007-11-25,minority,1,2006-2007,2,89.5,30.9,100.0,94.9,75.3,75.8
+HR,30014,Sanader III,Sanader,2008-01-13,2009-07-01,coalition_majority,4,2008-2009,2,152.5,77.9,50.0,92.7,73.5,73.5
+HR,30015,Kosor I,Kosor,2009-07-06,2010-07-10,coalition_majority,4,2009-2010,2,142.0,82.4,100.0,94.3,92.2,91.7
+HR,30016,Kosor II,Kosor,2010-07-10,2011-12-04,minority,3,2010-2011,2,152.0,83.8,100.0,92.4,92.1,92.1
+HR,30017,Milanovic,Milanovic,2011-12-23,2015-11-08,coalition_majority,3,2012-2015,4,170.2,84.6,75.0,96.3,85.3,86.8
+HR,30018,Oreskovic,Oreskovic,2016-01-22,2016-06-16,minority,2,2016-2016,1,63.0,23.5,0.0,40.1,21.2,29.1
+HR,30019,Plenkovic I,Plenkovic,2016-10-19,2017-04-27,minority,2,2017-2017,1,101.0,67.6,100.0,100.0,89.2,91.2
+HR,30021,Plenkovic III,Plenkovic,2017-06-09,2020-07-05,minority,2,2017-2020,4,158.0,80.9,100.0,98.8,93.2,93.2
+HR,30022,Plenkovic IV,Plenkovic,2020-07-23,2024-04-17,minority,2,2020-2024,5,112.6,59.4,100.0,95.4,84.9,83.6
+HR,30023,Plenković V,Plenković,2024-05-17,,minority,2,2024-2025,2,93.0,32.4,100.0,90.9,74.4,73.4
+HU,22001,Antall I,Antall,1990-05-23,1992-02-24,coalition_majority,3,1990-1991,2,70.0,11.4,100.0,100.0,62.9,62.4
+HU,22002,Antall II,Antall,1992-02-24,1993-12-12,coalition_majority,3,1992-1993,2,82.5,30.0,100.0,93.8,74.6,74.1
+HU,22003,Boross,Boross,1993-12-21,1994-05-29,coalition_majority,3,1994-1994,1,86.0,42.9,100.0,77.1,73.3,74.3
+HU,22004,Horn,Horn,1994-07-15,1998-05-24,coalition_majority,2,1994-1998,5,88.8,41.4,100.0,91.1,77.5,77.4
+HU,22005,Orbán I,Orbán,1998-07-06,2002-04-21,coalition_majority,3,1998-2002,5,65.8,15.1,100.0,91.7,68.9,69.2
+HU,22006,Medgyessy,Medgyessy,2002-05-27,2004-08-25,coalition_majority,2,2002-2004,3,80.7,41.0,100.0,86.9,75.9,76.6
+HU,22007,Gyurcsány I,Gyurcsány,2004-09-29,2006-04-23,coalition_majority,2,2004-2006,3,109.0,71.0,100.0,89.2,86.7,87.2
+HU,22008,Gyurcsány II,Gyurcsány,2006-06-09,2008-04-30,coalition_majority,2,2006-2008,3,101.0,65.7,100.0,95.6,87.1,86.8
+HU,22009,Gyurcsány III,Gyurcsány,2008-05-01,2009-03-21,minority,2,2008-2008,1,82.0,68.6,100.0,99.7,89.4,88.5
+HU,22010,Bajnai,Bajnai,2009-04-14,2010-04-25,minority,1,2009-2010,2,131.0,79.3,100.0,82.1,87.1,87.4
+HU,22011,Orbán II,Orbán,2010-05-29,2014-04-06,coalition_majority,2,2010-2014,5,149.0,92.6,100.0,92.8,95.1,95.1
+HU,22012,Orbán III,Orbán,2014-06-06,2018-04-08,coalition_majority,2,2014-2018,5,126.8,81.4,100.0,94.5,92.0,92.1
+HU,22013,Orbán IV,Orbán,2018-05-18,2022-04-03,coalition_majority,2,2018-2022,5,95.4,54.9,100.0,95.0,83.3,83.1
+HU,22014,Orbán V,Orbán,2022-05-24,2026-04-12,coalition_majority,2,2022-2025,4,70.7,23.8,100.0,96.5,75.6,75.6
+IE,9002,Costello I,Costello,1948-02-18,1951-05-30,minority,5,1950-1951,2,29.0,6.2,,85.6,45.9,46.2
+IE,9003,de Valera VII,de Valera,1951-06-13,1954-05-18,minority,1,1951-1954,4,30.2,32.2,,85.5,58.9,59.0
+IE,9004,Costello II,Costello,1954-06-02,1957-03-05,coalition_majority,3,1954-1956,3,34.3,39.3,,90.3,64.8,64.2
+IE,9005,de Valera VIII,de Valera,1957-03-20,1959-06-23,single_majority,1,1957-1959,3,32.3,55.0,,87.0,71.0,70.1
+IE,9006,Lemass I,Lemass,1959-06-23,1961-10-04,single_majority,1,1959-1961,3,41.3,81.1,,91.0,86.1,85.6
+IE,9007,Lemass II,Lemass,1961-10-11,1965-04-07,minority,1,1962-1965,4,31.5,45.5,,95.3,70.4,69.6
+IE,9008,Lemass III,Lemass,1965-04-21,1966-11-10,minority,1,1965-1966,2,24.5,26.3,,85.6,55.9,55.8
+IE,9009,Lynch I,Lynch,1966-11-10,1969-06-18,minority,1,1967-1969,3,28.7,16.1,,93.7,54.9,55.1
+IE,9010,Lynch II,Lynch,1969-07-02,1973-02-28,single_majority,1,1969-1972,4,29.5,19.1,,95.3,57.2,56.5
+IE,9011,Cosgrave I,Cosgrave,1973-03-14,1977-06-16,coalition_majority,2,1973-1977,5,32.4,32.2,,88.2,60.2,59.5
+IE,9012,Lynch III,Lynch,1977-07-05,1979-12-11,single_majority,1,1977-1979,3,36.0,53.7,,86.6,70.2,69.8
+IE,9013,Haughey I,Haughey,1979-12-11,1981-06-11,single_majority,1,1980-1981,2,37.5,42.4,,84.9,63.7,65.0
+IE,9014,FitzGerald I,FitzGerald,1981-06-30,1982-02-18,minority,2,1981-1981,1,33.0,30.3,,69.8,50.0,52.3
+IE,9015,Haughey II,Haughey,1982-03-09,1982-11-24,minority,1,1982-1982,1,27.0,30.6,,39.3,35.0,36.8
+IE,9016,FitzGerald II,FitzGerald,1982-12-14,1987-02-17,coalition_majority,2,1983-1986,4,31.2,20.6,,100.0,60.3,60.0
+IE,9017,Haughey III,Haughey,1987-03-10,1989-06-15,minority,1,1987-1989,3,29.0,42.3,,82.3,62.3,62.5
+IE,9018,Haughey IV,Haughey,1989-07-12,1992-02-11,minority,2,1989-1991,3,29.0,38.4,,92.5,65.5,65.8
+IE,9019,Reynolds I,Reynolds,1992-02-11,1992-11-25,minority,2,1992-1992,1,29.0,30.3,,64.9,47.6,48.6
+IE,9020,Reynolds II,Reynolds,1993-01-12,1994-11-17,coalition_majority,2,1993-1994,2,34.5,57.1,,89.7,73.4,75.1
+IE,9021,Bruton,Bruton,1994-12-15,1997-06-06,coalition_majority,3,1995-1997,3,40.3,67.2,,89.8,78.5,78.6
+IE,9022,Ahern I,Ahern,1997-06-26,2002-05-17,minority,2,1997-2002,6,42.7,75.0,,94.0,84.5,83.8
+IE,9023,Ahern II,Ahern,2002-06-06,2007-05-24,coalition_majority,2,2002-2007,6,38.0,62.8,,98.1,80.5,80.1
+IE,9024,Ahern III,Ahern,2007-06-14,2008-05-06,coalition_majority,3,2007-2008,2,30.0,42.4,,92.0,67.2,66.7
+IE,9025,Cowen I,Cowen,2008-05-07,2011-01-23,coalition_majority,3,2008-2010,3,34.3,42.8,,96.6,69.7,68.9
+IE,9027,Kenny I,Kenny,2011-03-09,2016-02-26,coalition_majority,2,2011-2015,5,48.0,81.6,,94.3,88.0,87.7
+IE,9028,Kenny II,Kenny,2016-05-06,2017-06-14,minority,1,2016-2017,2,28.5,63.5,,77.9,70.7,71.2
+IE,9029,Varadkar I,Varadkar,2017-06-14,2020-02-08,minority,1,2017-2019,3,44.0,70.3,,96.7,83.5,84.2
+IE,9030,Martin,Martin,2020-06-26,2022-12-17,coalition_majority,3,2020-2022,3,41.0,88.9,,80.7,84.8,86.4
+IE,9031,Varadkar II,Varadkar,2022-12-17,2024-04-08,coalition_majority,3,2023-2024,2,41.0,76.0,,90.4,83.2,83.7
+IE,9032,Harris,Harris,2024-04-09,2024-11-29,coalition_majority,3,2024-2024,1,45.0,63.2,,80.7,71.9,73.4
+IE,9033,Martin II,Martin,2025-01-23,,minority,2,2025-2025,1,16.0,55.9,,84.0,69.9,73.9
+IS,8005,Steinthorsson,Steinthorsson,1950-03-14,1953-06-28,coalition_majority,2,1950-1953,4,,,62.5,89.9,67.5,67.5
+IS,8006,Thors V,Thors,1953-09-11,1956-06-24,coalition_majority,2,1953-1956,4,,,62.5,84.1,65.5,65.5
+IS,8007,Jonasson III,Jonasson,1956-07-24,1958-12-23,coalition_majority,3,1956-1958,3,,,33.3,88.1,57.1,57.1
+IS,8008,Jonsson I,Jonsson,1958-12-23,1959-06-28,caretaker,1,1959-1959,1,,,0.0,4.4,18.1,18.1
+IS,8009,Jonsson II,Jonsson,1959-06-28,1959-10-26,minority,1,1959-1959,1,,,0.0,4.4,18.1,18.1
+IS,8010,Thors VI,Thors,1959-11-20,1963-06-09,coalition_majority,2,1960-1963,4,,,75.0,97.5,74.2,74.2
+IS,8011,Thors VII,Thors,1963-06-09,1963-11-14,coalition_majority,2,1963-1963,1,,,100.0,90.0,80.0,80.0
+IS,8012,Benediktsson I,Benediktsson,1963-11-14,1967-06-11,coalition_majority,2,1964-1967,4,,,100.0,100.0,83.3,83.3
+IS,8013,Benediktsson II,Benediktsson,1967-06-11,1970-07-10,coalition_majority,2,1967-1970,4,,,100.0,97.5,82.5,82.5
+IS,8014,Hafstein,Hafstein,1970-07-10,1971-06-13,coalition_majority,2,1970-1971,2,,,100.0,85.8,78.6,78.6
+IS,8015,Johannesson I,Johannesson,1971-07-14,1974-06-30,coalition_majority,3,1971-1974,4,,,100.0,85.1,78.4,78.4
+IS,8016,Hallgrimsson,Hallgrimsson,1974-08-28,1978-06-25,coalition_majority,2,1974-1978,5,,,100.0,86.0,78.7,78.7
+IS,8017,Johannesson II,Johannesson,1978-09-01,1979-10-15,coalition_majority,3,1978-1979,2,,,100.0,69.2,73.1,73.1
+IS,8019,Thoroddsen,Thoroddsen,1980-02-08,1983-04-23,coalition_majority,3,1980-1983,4,,,75.0,86.4,70.5,70.5
+IS,8020,Hermansson I,Hermansson,1983-05-26,1987-04-25,coalition_majority,2,1983-1987,5,,,100.0,87.1,79.0,79.0
+IS,8021,Palsson,Palsson,1987-07-08,1988-09-28,coalition_majority,3,1987-1988,2,,,100.0,79.9,76.6,76.6
+IS,8022,Hermansson II,Hermansson,1988-09-28,1989-09-10,minority,3,1988-1989,2,,,50.0,95.0,65.0,65.0
+IS,8023,Hermansson III,Hermansson,1989-09-10,1991-04-20,coalition_majority,4,1989-1991,3,,,66.7,95.8,70.8,70.8
+IS,8024,Oddsson I,Oddsson,1991-04-30,1995-04-08,coalition_majority,2,1991-1995,5,106.2,33.6,100.0,96.6,77.8,77.4
+IS,8025,Oddsson II,Oddsson,1995-04-23,1999-05-08,coalition_majority,2,1995-1999,5,117.0,63.2,100.0,98.1,87.1,86.8
+IS,8026,Oddsson III,Oddsson,1999-05-28,2003-05-10,coalition_majority,2,1999-2003,5,120.0,76.8,100.0,98.2,91.7,91.7
+IS,8027,Oddsson IV,Oddsson,2003-05-23,2004-09-15,coalition_majority,2,2003-2004,2,115.0,75.0,100.0,93.2,89.4,89.9
+IS,8028,Asgrimsson,Asgrimsson,2004-09-15,2006-06-15,coalition_majority,2,2004-2006,3,116.0,71.6,100.0,93.3,88.3,87.6
+IS,8029,Haarde I,Haarde,2006-06-15,2007-05-12,coalition_majority,2,2006-2007,2,124.5,76.1,100.0,93.4,89.8,89.5
+IS,8030,Haarde II,Haarde,2007-05-24,2009-01-26,coalition_majority,2,2007-2008,2,124.5,76.5,100.0,98.4,91.6,91.9
+IS,8032,Sigurdardottir II,Sigurdardottir,2009-05-10,2013-04-27,coalition_majority,2,2009-2013,5,119.8,48.7,100.0,87.4,78.7,78.3
+IS,8033,Gunnlaugsson I,Gunnlaugsson,2013-05-23,2016-04-06,coalition_majority,2,2013-2016,4,92.0,19.1,100.0,85.0,68.0,68.4
+IS,8034,Johannsson I,Johannsson,2016-04-07,2016-10-29,coalition_majority,2,2016-2016,1,90.0,11.8,100.0,57.2,56.3,57.3
+IS,8035,Benediktsson I,Benediktsson,2017-01-11,2017-10-28,coalition_majority,3,2017-2017,1,57.0,25.0,100.0,53.2,59.4,59.9
+IS,8036,Jakobsdottir,Jakobsdottir,2017-11-30,2021-09-25,coalition_majority,3,2018-2021,4,120.5,63.6,100.0,95.6,86.4,87.4
+IS,8037,Jakobsdottir II,Jakobsdottir,2021-11-28,2024-04-09,coalition_majority,3,2022-2024,3,90.0,24.5,100.0,86.4,70.3,70.5
+IS,8038,Benediktsson II,Benediktsson,2024-04-09,2024-11-30,coalition_majority,3,2024-2024,1,99.0,14.7,100.0,59.3,58.0,57.5
+IS,8039,Frostadóttir,Frostadóttir,2024-12-21,,coalition_majority,3,2025-2025,1,67.0,13.2,100.0,100.0,71.1,70.6
+IT,10005,De Gasperi VI,De Gasperi,1950-01-28,1951-07-16,coalition_majority,3,1950-1951,2,427.5,98.8,0.0,96.4,65.1,58.9
+IT,10006,De Gasperi VII,De Gasperi,1951-07-26,1953-06-07,coalition_majority,2,1951-1953,3,368.3,93.8,16.7,81.2,63.9,60.5
+IT,10008,Pella,Pella,1953-08-17,1954-01-05,caretaker,1,1953-1953,1,231.0,86.0,0.0,46.3,44.1,43.3
+IT,10010,Scelba,Scelba,1954-02-10,1955-06-22,minority,3,1954-1955,2,342.5,75.6,0.0,79.1,51.6,51.2
+IT,10011,Segni I,Segni,1955-07-06,1957-05-06,minority,3,1955-1957,3,342.0,84.5,16.7,90.8,64.0,58.8
+IT,10012,Zoli,Zoli,1957-05-20,1958-05-25,minority,1,1957-1958,2,315.5,73.3,0.0,82.9,52.0,48.9
+IT,10013,Fanfani II,Fanfani,1958-07-02,1959-01-26,minority,2,1958-1958,1,311.0,65.1,0.0,79.6,48.2,45.9
+IT,10014,Segni II,Segni,1959-02-16,1960-02-24,minority,1,1959-1959,1,290.0,67.4,25.0,84.2,58.9,56.6
+IT,10015,Tambroni,Tambroni,1960-03-26,1960-07-19,minority,1,1960-1960,1,321.0,72.1,0.0,69.3,47.1,44.0
+IT,10016,Fanfani III,Fanfani,1960-07-27,1962-02-02,minority,1,1960-1961,2,339.5,81.4,12.5,84.7,59.5,55.3
+IT,10017,Fanfani IV,Fanfani,1962-02-22,1963-04-28,coalition_majority,3,1962-1963,2,363.5,84.9,0.0,62.0,49.0,52.1
+IT,10018,Leone I,Leone,1963-06-22,1963-11-05,caretaker,1,1963-1963,1,326.0,76.7,0.0,29.5,35.4,40.0
+IT,10019,Moro I,Moro,1963-12-05,1968-05-19,coalition_majority,4,1964-1968,5,317.8,68.4,20.0,86.6,58.3,61.3
+IT,10020,Leone II,Leone,1968-06-25,1968-11-19,caretaker,1,1968-1968,1,375.0,74.4,0.0,33.2,35.9,44.4
+IT,10021,Rumor I,Rumor,1968-12-13,1969-07-05,coalition_majority,4,1969-1969,1,221.0,55.8,0.0,50.7,35.5,48.7
+IT,10022,Rumor II,Rumor,1969-08-06,1970-02-07,caretaker,1,1969-1969,1,221.0,55.8,0.0,50.7,35.5,48.7
+IT,10023,Rumor III,Rumor,1970-03-28,1970-07-06,coalition_majority,4,1970-1970,1,200.0,51.2,100.0,57.9,69.7,75.1
+IT,10024,Colombo,Colombo,1970-08-06,1972-01-15,coalition_majority,4,1970-1971,2,268.5,44.2,50.0,79.0,57.7,60.8
+IT,10026,Andreotti II,Andreotti,1972-06-26,1973-06-12,minority,3,1972-1973,2,177.0,37.2,0.0,61.7,33.0,32.2
+IT,10027,Rumor IV,Rumor,1973-07-08,1974-03-02,coalition_majority,4,1973-1973,1,288.0,27.9,0.0,82.9,36.9,36.9
+IT,10028,Rumor V,Rumor,1974-03-15,1974-10-03,coalition_majority,3,1974-1974,1,206.0,53.5,0.0,72.5,42.0,39.7
+IT,10029,Moro II,Moro,1974-11-23,1976-01-07,minority,2,1975-1975,1,265.0,44.2,0.0,100.0,48.1,50.4
+IT,10031,Andreotti III,Andreotti,1976-07-30,1979-01-31,minority,1,1976-1978,3,222.7,40.3,66.7,80.1,62.4,63.1
+IT,10033,Cossiga I,Cossiga,1979-08-05,1980-03-19,minority,3,1979-1979,1,112.0,25.6,0.0,24.0,16.5,18.9
+IT,10034,Cossiga II,Cossiga,1980-04-04,1980-09-28,coalition_majority,3,1980-1980,1,243.0,23.3,0.0,80.2,34.5,39.1
+IT,10035,Forlani,Forlani,1980-10-18,1981-05-26,coalition_majority,4,1981-1981,1,195.0,39.5,0.0,81.0,40.2,38.6
+IT,10036,Spadolini,Spadolini,1981-06-28,1982-11-13,coalition_majority,5,1981-1982,2,202.0,28.5,0.0,83.0,37.2,37.4
+IT,10037,Fanfani V,Fanfani,1982-12-01,1983-04-29,coalition_majority,4,1983-1983,1,132.0,17.4,0.0,48.4,22.0,21.6
+IT,10038,Craxi,Craxi,1983-08-04,1987-03-03,coalition_majority,5,1983-1986,4,179.5,17.7,50.0,87.1,51.6,50.0
+IT,10040,Goria,Goria,1987-07-29,1988-03-11,coalition_majority,5,1987-1987,1,100.0,4.7,100.0,34.5,46.4,45.6
+IT,10041,De Mita,De Mita,1988-04-13,1989-05-19,coalition_majority,5,1988-1989,2,156.0,5.8,50.0,76.6,44.1,44.1
+IT,10042,Andreotti V,Andreotti,1989-07-23,1991-03-29,coalition_majority,5,1989-1990,2,186.0,20.9,100.0,86.1,69.0,67.5
+IT,10043,Andreotti VI,Andreotti,1991-04-13,1992-04-06,coalition_majority,4,1991-1992,2,175.5,17.4,100.0,81.6,66.3,67.1
+IT,10044,Amato I,Amato,1992-06-28,1993-04-22,coalition_majority,4,1992-1993,2,147.5,57.0,100.0,77.7,78.2,79.4
+IT,10045,Ciampi,Ciampi,1993-04-29,1994-01-13,coalition_majority,4,1993-1993,1,147.0,100.0,100.0,88.1,96.0,96.0
+IT,10046,Berlusconi I,Berlusconi,1994-05-11,1994-12-22,coalition_majority,4,1994-1994,1,124.0,97.0,100.0,39.9,79.0,78.0
+IT,10047,Dini,Dini,1995-01-17,1996-01-11,single_majority,0,1995-1995,1,91.0,78.8,100.0,85.6,88.1,94.2
+IT,10048,Prodi I,Prodi,1996-05-18,1998-10-09,minority,4,1996-1998,3,106.7,82.8,100.0,75.6,86.1,87.1
+IT,10049,D'Alema I,D'Alema,1998-10-21,1999-12-18,coalition_majority,7,1999-1999,1,117.0,87.9,100.0,98.9,95.6,92.6
+IT,10050,D'Alema II,D'Alema,1999-12-22,2000-04-19,minority,7,2000-2000,1,104.0,93.9,100.0,88.1,94.0,92.0
+IT,10051,Amato II,Amato,2000-04-26,2001-05-13,minority,8,2000-2001,2,115.5,87.9,100.0,85.1,91.0,89.0
+IT,10052,Berlusconi II,Berlusconi,2001-06-11,2005-04-20,coalition_majority,4,2001-2005,5,93.6,71.5,100.0,96.2,89.3,88.6
+IT,10053,Berlusconi III,Berlusconi,2005-04-23,2006-04-10,coalition_majority,6,2005-2006,2,71.0,59.1,100.0,89.5,82.9,82.9
+IT,10054,Prodi II,Prodi,2006-05-17,2007-05-15,coalition_majority,7,2006-2007,2,51.0,47.0,100.0,89.8,78.9,79.4
+IT,10055,Prodi III,Prodi,2007-05-16,2008-01-24,coalition_majority,8,2007-2007,1,36.0,39.4,100.0,99.7,79.7,80.7
+IT,10056,Berlusconi IV,Berlusconi,2008-05-08,2010-07-29,coalition_majority,2,2008-2010,3,40.0,17.7,100.0,81.9,66.5,67.7
+IT,10057,Berlusconi V,Berlusconi,2010-07-30,2010-11-16,coalition_majority,3,2010-2010,1,42.0,24.2,100.0,99.5,74.6,71.5
+IT,10059,Berlusconi VII,Berlusconi,2011-03-23,2011-11-12,minority,3,2011-2011,1,38.0,45.5,100.0,88.6,78.0,75.0
+IT,10060,Monti,Monti,2011-11-16,2012-12-21,single_majority,0,2012-2012,1,67.0,36.4,100.0,82.0,72.8,73.8
+IT,10061,Letta I,Letta,2013-04-28,2013-11-14,coalition_majority,5,2013-2013,1,29.0,42.4,100.0,57.7,66.7,67.7
+IT,10063,Renzi I,Renzi,2014-02-22,2015-02-17,coalition_majority,4,2014-2014,1,45.0,10.6,100.0,87.8,66.1,69.7
+IT,10064,Renzi II,Renzi,2015-02-18,2016-12-07,coalition_majority,3,2015-2016,2,41.5,31.8,100.0,94.2,75.3,74.8
+IT,10065,Gentiloni Silveri,Gentiloni Silveri,2016-12-12,2018-03-04,coalition_majority,3,2017-2017,1,50.0,15.2,100.0,100.0,71.7,70.7
+IT,10066,Conte I,Conte,2018-06-01,2019-08-20,coalition_majority,2,2018-2019,2,31.5,4.5,100.0,80.6,61.7,61.7
+IT,10067,Conte II,Conte,2019-09-05,2021-02-13,coalition_majority,4,2019-2020,2,36.5,12.1,100.0,97.8,70.0,68.0
+IT,10068,Draghi,Draghi,2021-02-13,2022-09-25,coalition_majority,6,2021-2022,2,46.5,37.9,100.0,86.3,74.7,74.2
+IT,10069,Meloni,Meloni,2022-10-22,,coalition_majority,3,2023-2025,3,66.7,56.6,100.0,100.0,85.5,85.5
+LT,24002,Slezevicius,Slezevicius,1993-03-16,1996-02-08,single_majority,1,1993-1995,3,199.7,8.1,66.7,93.9,56.2,55.9
+LT,24003,Stankevicius,Stankevicius,1996-02-15,1996-11-10,single_majority,1,1996-1996,1,344.0,30.3,100.0,69.9,66.7,65.7
+LT,24004,Vagnorius,Vagnorius,1996-12-10,1999-05-03,coalition_majority,3,1997-1999,3,304.3,31.3,100.0,88.5,73.3,73.3
+LT,24005,Paksas I,Paksas,1999-06-10,1999-10-27,coalition_majority,2,1999-1999,1,286.0,36.4,100.0,65.5,67.3,68.3
+LT,24006,Kubilius I,Kubilius,1999-11-11,2000-10-08,coalition_majority,2,2000-2000,1,438.0,42.4,100.0,81.3,74.6,76.6
+LT,24007,Paksas II,Paksas,2000-11-09,2001-06-19,minority,2,2001-2001,1,325.0,51.5,100.0,83.7,78.4,79.4
+LT,24008,Brazauskas I,Brazauskas,2001-07-12,2004-10-24,coalition_majority,2,2001-2004,4,360.2,43.2,100.0,92.4,78.5,79.3
+LT,24009,Brazauskas II,Brazauskas,2004-12-14,2006-04-11,coalition_majority,4,2005-2006,2,228.5,13.6,100.0,82.5,65.4,65.9
+LT,24011,Kirkilas,Kirkilas,2006-07-18,2008-10-26,minority,4,2006-2008,3,256.3,14.1,100.0,81.0,65.1,65.1
+LT,24012,Kubilius II,Kubilius,2008-12-09,2012-10-28,coalition_majority,4,2009-2012,4,389.2,53.0,100.0,94.4,82.5,81.5
+LT,24013,Butkevičius I,Butkevičius,2012-12-13,2014-08-25,coalition_majority,4,2013-2014,2,457.5,68.2,100.0,95.8,88.0,87.0
+LT,24014,Butkevičius II,Butkevičius,2014-09-25,2016-10-23,coalition_majority,3,2014-2016,3,512.3,75.8,100.0,89.2,88.3,88.7
+LT,24015,Skvernelis I,Skvernelis,2016-12-13,2017-09-23,coalition_majority,2,2017-2017,1,500.0,81.8,100.0,72.6,84.8,88.8
+LT,24016,Skvernelis II,Skvernelis,2018-04-24,2019-05-29,minority,2,2018-2019,2,598.0,97.0,100.0,74.9,90.6,91.1
+LT,24017,Skvernelis III,Skvernelis,2019-08-07,2020-10-25,coalition_majority,4,2019-2020,2,591.5,95.5,100.0,79.0,91.5,91.0
+LT,24018,Simonyte,Simonyte,2020-12-11,2024-10-27,coalition_majority,3,2021-2024,4,526.5,84.8,100.0,94.4,93.1,90.8
+LT,24019,Paluckas,Paluckas,2024-12-12,2025-07-31,coalition_majority,3,2025-2025,1,422.0,66.7,100.0,74.7,80.4,83.5
+LT,24021,Ruginienė ,Ruginienė,2025-09-25,2026-06-23,coalition_majority,3,2025-2025,1,422.0,66.7,100.0,74.7,80.4,83.5
+LU,11003,Dupong III,Dupong,1948-07-14,1951-06-03,coalition_majority,2,1950-1951,2,25.0,12.5,0.0,95.9,36.1,36.1
+LU,11004,Dupong IV,Dupong,1951-07-03,1953-12-23,coalition_majority,2,1951-1953,3,23.0,9.2,0.0,93.5,34.2,34.4
+LU,11005,Bech I,Bech,1953-12-28,1954-05-30,coalition_majority,2,1954-1954,1,20.0,3.3,0.0,91.8,31.7,31.9
+LU,11006,Bech II,Bech,1954-06-29,1958-03-29,coalition_majority,2,1954-1957,4,19.5,4.4,0.0,97.9,34.1,34.1
+LU,11007,Frieden,Frieden,1958-03-29,1959-02-01,coalition_majority,2,1958-1958,1,26.0,5.9,0.0,90.0,32.0,31.8
+LU,11008,Werner I,Werner,1959-03-02,1964-06-07,coalition_majority,2,1959-1964,6,32.2,16.3,0.0,92.8,36.4,36.4
+LU,11009,Werner II,Werner,1964-07-15,1968-10-29,coalition_majority,2,1964-1968,5,47.0,25.8,20.0,91.4,45.7,46.1
+LU,11010,Werner III,Werner,1969-02-03,1974-05-26,coalition_majority,2,1969-1974,6,51.5,38.6,83.3,95.9,72.6,72.4
+LU,11011,Thorn,Thorn,1974-06-15,1979-06-10,coalition_majority,2,1974-1979,6,63.0,58.8,100.0,94.1,84.3,84.1
+LU,11012,Werner IV,Werner,1979-07-16,1984-06-17,coalition_majority,2,1979-1984,6,61.0,52.2,100.0,93.5,81.9,82.3
+LU,11013,Santer I,Santer,1984-07-20,1989-06-18,coalition_majority,2,1984-1989,6,55.2,40.1,100.0,95.6,78.6,78.9
+LU,11014,Santer II,Santer,1989-07-14,1994-06-12,coalition_majority,2,1989-1994,6,54.7,40.9,100.0,97.4,79.4,79.4
+LU,11015,Santer III,Santer,1994-07-13,1995-01-20,coalition_majority,2,1994-1994,1,49.0,38.8,100.0,91.5,76.8,77.0
+LU,11016,Juncker I,Juncker,1995-01-26,1999-06-13,coalition_majority,2,1995-1999,5,58.2,48.8,100.0,94.7,81.2,81.2
+LU,11017,Juncker II,Juncker,1999-08-07,2004-06-13,coalition_majority,2,1999-2004,6,76.0,71.8,100.0,95.3,89.0,89.4
+LU,11018,Juncker III,Juncker,2004-07-31,2009-06-07,coalition_majority,2,2004-2009,6,85.7,80.5,100.0,95.7,92.1,92.2
+LU,11019,Juncker IV,Juncker,2009-07-23,2013-10-20,coalition_majority,2,2009-2013,5,75.0,74.1,100.0,90.0,88.0,87.9
+LU,11020,Bettel I,Bettel,2013-12-04,2018-10-14,coalition_majority,3,2014-2018,5,96.4,85.4,80.0,97.2,87.5,87.3
+LU,11021,Bettel II,Bettel,2018-12-05,2023-10-08,coalition_majority,3,2019-2023,5,127.2,96.8,80.0,95.8,90.9,90.8
+LU,11022,Frieden,Frieden,2023-11-17,,coalition_majority,2,2024-2025,2,97.0,93.4,50.0,100.0,81.1,80.9
+LV,23001,Birkavs,Birkavs,1993-08-03,1994-07-13,minority,2,1993-1994,2,,,0.0,85.7,57.7,57.7
+LV,23002,Gailis,Gailis,1994-09-19,1995-10-01,minority,2,1994-1995,2,,,50.0,69.6,56.5,56.5
+LV,23003,Šķēle I,Šķēle,1995-12-21,1997-01-20,coalition_majority,6,1996-1996,1,,,0.0,100.0,50.0,50.0
+LV,23004,Šķēle II,Šķēle,1997-02-13,1997-07-28,coalition_majority,6,1997-1997,1,,,100.0,80.7,76.9,76.9
+LV,23005,Krasts I,Krasts,1997-08-07,1998-04-07,coalition_majority,4,1997-1998,2,,,100.0,77.8,75.9,75.9
+LV,23006,Krasts II,Krasts,1998-04-08,1998-10-03,minority,3,1998-1998,1,,,100.0,74.9,75.0,75.0
+LV,23008,Krištopans II,Krištopans,1999-02-05,1999-07-05,coalition_majority,4,1999-1999,1,,,0.0,86.7,45.6,45.6
+LV,23009,Šķēle III,Šķēle,1999-07-16,2000-04-12,coalition_majority,3,1999-2000,2,217.0,3.8,50.0,85.2,54.0,54.0
+LV,23010,Bērziņš,Bērziņš,2000-05-05,2002-10-05,coalition_majority,4,2000-2002,3,233.7,19.2,100.0,88.2,69.2,68.3
+LV,23011,Repše,Repše,2002-11-07,2004-01-28,coalition_majority,4,2003-2003,1,315.0,80.8,0.0,100.0,60.3,60.3
+LV,23012,Emsis,Emsis,2004-03-09,2004-10-28,minority,3,2004-2004,1,340.0,88.5,100.0,59.2,82.6,82.6
+LV,23013,Kalvītis I,Kalvītis,2004-12-02,2006-04-07,coalition_majority,4,2005-2006,2,303.5,78.8,100.0,95.6,91.5,89.6
+LV,23014,Kalvītis II,Kalvītis,2006-04-08,2006-10-07,minority,3,2006-2006,1,286.0,73.1,100.0,91.2,88.1,84.3
+LV,23015,Kalvītis III,Kalvītis,2006-11-07,2007-12-05,coalition_majority,4,2007-2007,1,298.0,76.9,100.0,85.9,87.6,85.0
+LV,23016,Godmanis,Godmanis,2007-12-20,2009-02-20,coalition_majority,4,2008-2008,1,332.0,92.3,100.0,100.0,97.4,97.4
+LV,23017,Dombrovskis I,Dombrovskis,2009-03-12,2010-03-22,coalition_majority,5,2009-2009,1,476.0,100.0,100.0,84.5,94.8,94.8
+LV,23018,Dombrovskis II,Dombrovskis,2010-03-23,2010-10-02,minority,4,2010-2010,1,415.0,96.2,100.0,91.0,95.7,95.7
+LV,23019,Dombrovskis III,Dombrovskis,2010-11-03,2011-09-17,coalition_majority,2,2011-2011,1,255.0,61.5,100.0,74.6,78.7,80.0
+LV,23020,Dombrovskis IV,Dombrovskis,2011-10-25,2013-11-27,coalition_majority,3,2012-2013,2,305.5,59.6,100.0,95.2,84.9,86.9
+LV,23021,Straujuma,Straujuma,2014-01-22,2014-10-04,coalition_majority,4,2014-2014,1,282.0,69.2,100.0,75.5,81.6,84.1
+LV,23022,Straujuma II,Straujuma,2014-11-05,2015-12-06,coalition_majority,3,2015-2015,1,225.0,34.6,100.0,92.9,75.8,77.1
+LV,23023,Kučinskis,Kučinskis,2016-02-11,2018-10-06,coalition_majority,3,2016-2018,3,228.3,16.7,100.0,85.0,67.2,69.4
+LV,23024,Kariņš I,Kariņš,2019-01-23,2021-06-02,coalition_majority,5,2019-2021,3,290.0,46.2,66.7,94.6,69.1,67.8
+LV,23025,Kariņš II,Kariņš,2021-06-03,2022-10-02,minority,4,2021-2022,2,289.5,48.1,100.0,89.9,79.3,80.6
+LV,23026,Kariņš III,Kariņš,2022-12-14,2023-08-17,coalition_majority,3,2023-2023,1,251.0,38.5,0.0,82.1,40.2,41.5
+LV,23027,Siliņa,Siliņa,2023-09-15,2026-05-14,coalition_majority,3,2023-2025,3,246.3,26.9,66.7,94.0,62.5,60.8
+MT,pg1470,Boffa,Boffa,1947-10-27,1950-09-04,unknown,5,1950-1950,1,,,,,,
+MT,pg1471,Mizzi,Mizzi,1950-09-04,1951-05-06,unknown,6,1950-1951,2,,,,,,
+MT,pg1472,Borg Olivier I,Borg Olivier,1951-05-06,1953-12-14,unknown,4,1951-1953,3,,,,,,
+MT,pg1473,Borg Olivier II,Borg Olivier,1953-12-14,1955-02-28,unknown,3,1954-1954,1,,,,,,
+MT,pg1474,Mintoff I,Mintoff,1955-02-28,1962-03-05,unknown,2,1955-1961,7,,,,,,
+MT,pg589,Borg Olivier III,Borg Olivier,1962-03-05,1966-04-07,unknown,5,1962-1966,5,,,,100.0,75.0,75.0
+MT,pg681,Borg Olivier IV,Borg Olivier,1966-04-07,1971-06-21,unknown,2,1966-1971,6,,,,98.3,74.2,74.2
+MT,pg295,Mintoff II,Mintoff,1971-06-21,1974-09-30,unknown,2,1971-1974,4,,,,97.5,73.8,73.8
+MT,pg816,Mintoff III,Mintoff,1974-09-30,1976-09-25,unknown,2,1974-1976,3,,,,100.0,75.0,75.0
+MT,pg606,Mintoff IV,Mintoff,1976-09-25,1981-12-18,unknown,2,1976-1981,6,,,100.0,100.0,76.4,76.4
+MT,pg83,Mintoff V,Mintoff,1981-12-18,1984-12-22,unknown,2,1982-1984,3,,,100.0,96.7,82.2,82.2
+MT,pg122,Mifsud Bonnici,Mifsud Bonnici,1984-12-22,1987-05-12,unknown,2,1985-1987,3,,,100.0,96.7,82.2,82.2
+MT,pg3,Fenech Adami I,Fenech Adami,1987-05-12,1992-02-27,unknown,2,1987-1991,5,29.5,63.2,100.0,98.0,84.4,84.3
+MT,pg881,Fenech Adami II,Fenech Adami,1992-02-27,1996-10-28,unknown,2,1992-1996,5,25.6,48.1,100.0,98.0,82.0,82.1
+MT,pg299,Sant,Sant,1996-10-28,1998-09-06,unknown,2,1997-1998,2,25.0,34.0,50.0,95.0,59.7,59.9
+MT,pg582,Fenech Adami III,Fenech Adami,1998-09-06,2003-04-15,unknown,2,1998-2003,6,23.7,36.8,100.0,98.3,78.4,78.3
+MT,pg160,Fenech Adami IV,Fenech Adami,2003-04-15,2004-03-23,unknown,2,2003-2003,1,17.0,13.9,100.0,100.0,71.3,71.3
+MT,pg298,Gonzi I,Gonzi,2004-03-23,2008-03-12,unknown,2,2004-2007,4,20.5,9.7,100.0,97.5,69.1,69.1
+MT,pg468,Gonzi II,Gonzi,2008-03-12,2013-03-11,unknown,2,2008-2012,5,21.8,23.1,100.0,100.0,74.4,74.4
+MT,pg1046,Muscat I,Muscat,2013-03-11,2017-06-06,unknown,2,2013-2017,5,36.6,77.5,80.0,98.0,85.2,85.3
+MT,pg1504,Muscat II,Muscat,2017-06-06,2020-01-13,unknown,2,2017-2019,3,34.7,83.8,100.0,100.0,94.6,94.4
+MT,pg1623,Abela I,Abela,2020-01-13,2022-03-30,unknown,2,2020-2021,2,66.0,98.6,100.0,95.0,97.9,97.9
+MT,pg1699,Abela II,Abela,2022-03-30,,unknown,2,2022-2025,4,36.5,80.6,100.0,100.0,93.5,93.5
+NL,12002,Drees I,Drees,1948-08-07,1951-01-24,coalition_majority,4,1950-1950,1,,,,100.0,75.0,75.0
+NL,12003,Drees II,Drees,1951-03-15,1952-06-25,coalition_majority,4,1951-1952,2,,,,83.7,66.9,66.9
+NL,12004,Drees III,Drees,1952-09-02,1956-06-13,coalition_majority,4,1952-1956,5,,,,89.6,69.8,69.8
+NL,12005,Drees IV,Drees,1956-10-13,1958-12-12,coalition_majority,4,1957-1958,2,,,,93.6,71.8,71.8
+NL,12007,De Quay,De Quay,1959-05-19,1963-05-15,coalition_majority,4,1959-1963,5,,,,85.4,67.7,67.7
+NL,12008,Marijnen,Marijnen,1963-07-24,1965-02-27,coalition_majority,4,1963-1964,2,,,,85.4,67.7,67.7
+NL,12009,Cals,Cals,1965-04-14,1966-10-15,coalition_majority,3,1965-1966,2,,,,78.0,64.0,64.0
+NL,12011,De Jong,De Jong,1967-04-05,1971-04-28,coalition_majority,4,1967-1971,5,,,,87.1,68.5,68.5
+NL,12012,Biesheuvel I,Biesheuvel,1971-07-06,1972-07-20,coalition_majority,5,1971-1972,2,,,,55.5,52.8,52.8
+NL,12013,Biesheuvel II,Biesheuvel,1972-08-09,1972-11-28,caretaker,4,1972-1972,1,,,,39.9,45.0,45.0
+NL,12014,Den Uyl,Den Uyl,1973-05-11,1977-03-22,coalition_majority,5,1973-1976,4,,,,88.6,69.3,69.3
+NL,12015,Van Agt I,Van Agt,1977-12-19,1981-05-26,coalition_majority,2,1978-1981,4,257.0,86.7,25.0,92.6,67.3,68.0
+NL,12016,Van Agt II,Van Agt,1981-09-11,1982-05-12,coalition_majority,3,1981-1982,2,211.0,81.1,25.0,48.6,51.6,54.5
+NL,12017,Van Agt III,Van Agt,1982-05-29,1982-09-08,caretaker,2,1982-1982,1,165.0,75.6,25.0,26.8,42.4,45.4
+NL,12018,Lubbers I,Lubbers,1982-11-04,1986-05-21,coalition_majority,2,1983-1986,4,190.5,58.3,25.0,96.3,59.9,49.1
+NL,12019,Lubbers II,Lubbers,1986-07-14,1989-05-02,coalition_majority,2,1986-1989,4,211.2,68.0,25.0,79.6,57.5,50.7
+NL,12020,Lubbers III,Lubbers,1989-11-07,1994-05-03,coalition_majority,2,1990-1994,5,156.2,35.5,70.0,91.9,65.8,62.6
+NL,12021,Kok I,Kok,1994-08-22,1998-05-05,coalition_majority,3,1994-1998,5,221.8,78.1,85.0,87.0,83.4,72.9
+NL,12022,Kok II,Kok,1998-08-03,2002-04-16,coalition_majority,3,1998-2002,5,219.8,74.2,100.0,83.5,85.9,77.6
+NL,12024,Balkenende II,Balkenende,2003-05-27,2006-06-30,coalition_majority,3,2003-2006,4,187.2,46.0,100.0,73.6,73.2,73.1
+NL,12025,Balkenende III,Balkenende,2006-07-07,2006-11-22,caretaker,2,2006-2006,1,215.0,47.6,100.0,34.3,60.6,61.4
+NL,12026,Balkenende IV,Balkenende,2007-02-22,2010-02-23,coalition_majority,3,2007-2009,3,164.7,42.4,66.7,95.3,68.1,69.1
+NL,12027,Balkenende V,Balkenende,2010-02-23,2010-06-09,caretaker,2,2010-2010,1,174.0,45.7,100.0,11.2,52.3,57.5
+NL,12028,Rutte I,Rutte,2010-10-14,2012-04-23,minority,2,2011-2012,2,187.5,55.1,100.0,65.7,73.6,77.3
+NL,12029,Rutte II,Rutte,2012-11-05,2017-03-15,coalition_majority,2,2013-2016,4,155.8,49.6,75.0,100.0,74.9,74.2
+NL,12030,Rutte III,Rutte,2017-10-26,2021-03-17,coalition_majority,4,2018-2020,3,139.7,52.6,100.0,100.0,84.2,88.7
+NL,12031,Rutte IV,Rutte,2022-01-10,2023-07-08,coalition_majority,4,2022-2023,2,127.5,42.7,100.0,74.5,72.4,81.1
+NL,12032,Schoof I,Schoof,2024-07-02,2025-06-03,coalition_majority,4,2024-2025,2,113.0,46.5,50.0,41.0,45.8,54.7
+NO,13002,Gerhardsen III,Gerhardsen,1949-10-10,1951-11-13,single_majority,1,1950-1951,2,,,,94.2,72.1,72.1
+NO,13003,Torp I,Torp,1951-11-19,1953-10-12,single_majority,1,1952-1953,2,,,,100.0,75.0,75.0
+NO,13004,Torp II,Torp,1953-10-12,1955-01-14,single_majority,1,1954-1954,1,,,,100.0,75.0,75.0
+NO,13005,Gerhardsen IV,Gerhardsen,1955-01-22,1957-10-07,single_majority,1,1955-1957,3,,,,95.9,73.0,73.0
+NO,13006,Gerhardsen V,Gerhardsen,1957-10-07,1961-09-11,single_majority,1,1958-1961,4,,,,100.0,75.0,75.0
+NO,13007,Gerhardsen VI,Gerhardsen,1961-09-11,1963-08-27,minority,1,1961-1963,3,,,,92.9,71.4,71.4
+NO,13009,Gerhardsen VII,Gerhardsen,1963-09-25,1965-09-13,minority,1,1963-1965,3,,,,86.9,68.4,68.4
+NO,13010,Borten I,Borten,1965-10-12,1969-09-08,coalition_majority,4,1966-1969,4,,,,100.0,75.0,75.0
+NO,13011,Borten II,Borten,1969-09-08,1971-03-02,coalition_majority,4,1969-1970,2,,,,100.0,75.0,75.0
+NO,13012,Bratteli I,Bratteli,1971-03-13,1972-10-07,minority,1,1971-1972,2,,,,87.0,68.5,68.5
+NO,13013,Korvald,Korvald,1972-10-18,1973-09-10,minority,3,1973-1973,1,,,,80.1,65.1,65.1
+NO,13014,Bratteli II,Bratteli,1973-10-16,1976-01-09,minority,1,1974-1975,2,,,,100.0,75.0,75.0
+NO,13015,Nordli I,Nordli,1976-01-15,1977-09-12,minority,1,1976-1977,2,,,,94.2,72.1,72.1
+NO,13016,Nordli II,Nordli,1977-09-12,1981-01-30,minority,1,1977-1980,4,,,,100.0,75.0,75.0
+NO,13017,Brundtland I,Brundtland,1981-02-04,1981-09-14,minority,1,1981-1981,1,,,,70.4,60.2,60.2
+NO,13018,Willoch I,Willoch,1981-10-14,1983-06-01,minority,1,1982-1983,2,,,,99.0,74.5,74.5
+NO,13019,Willoch II,Willoch,1983-06-08,1985-09-09,coalition_majority,3,1983-1985,3,,,,99.4,74.7,74.7
+NO,13020,Willoch III,Willoch,1985-09-09,1986-05-02,minority,3,1985-1986,2,,,,94.0,72.0,72.0
+NO,13021,Brundtland II,Brundtland,1986-05-09,1989-09-11,minority,1,1986-1989,4,84.0,22.2,100.0,92.1,71.2,71.2
+NO,13022,Syse,Syse,1989-10-16,1990-11-03,minority,3,1990-1990,1,67.0,12.8,100.0,90.0,67.6,68.5
+NO,13023,Brundtland III,Brundtland,1990-11-03,1993-09-13,minority,1,1991-1993,3,94.7,38.0,100.0,100.0,79.3,77.9
+NO,13024,Brundtland IV,Brundtland,1993-09-13,1996-10-23,minority,1,1993-1996,4,83.8,29.2,100.0,97.4,75.5,74.9
+NO,13025,Jagland,Jagland,1996-10-25,1997-09-15,minority,1,1997-1997,1,80.0,6.4,100.0,81.2,62.5,63.0
+NO,13026,Bondevik I,Bondevik,1997-10-17,2000-03-09,minority,3,1998-1999,2,82.0,35.9,100.0,100.0,78.6,79.1
+NO,13027,Stoltenberg I,Stoltenberg,2000-03-17,2001-09-10,minority,1,2000-2001,2,107.0,62.8,100.0,83.6,82.1,81.7
+NO,13028,Bondevik II,Bondevik,2001-10-19,2005-09-12,minority,3,2002-2005,4,111.0,81.6,100.0,95.1,92.2,91.7
+NO,13029,Stoltenberg II,Stoltenberg,2005-10-17,2009-09-14,coalition_majority,3,2006-2009,4,92.2,72.8,100.0,100.0,90.9,89.6
+NO,13030,Stoltenberg III,Stoltenberg,2009-09-14,2013-09-09,coalition_majority,3,2009-2013,5,82.2,43.6,100.0,96.0,79.9,80.1
+NO,13031,Solberg I,Solberg,2013-10-16,2017-09-11,minority,2,2014-2017,4,93.0,60.9,100.0,92.3,84.4,86.2
+NO,13032,Solberg II,Solberg,2018-01-17,2019-01-22,minority,3,2018-2018,1,75.0,51.9,100.0,95.6,82.5,86.8
+NO,13033,Solberg III,Solberg,2019-01-22,2020-01-20,coalition_majority,4,2019-2019,1,81.0,62.8,100.0,100.0,87.6,87.2
+NO,13034,Solberg IV,Solberg,2020-01-20,2021-09-13,minority,3,2020-2021,2,126.0,82.1,100.0,90.8,90.9,90.7
+NO,13035,Gahr Store I,Gahr Store,2021-10-14,2025-01-30,minority,2,2022-2024,3,82.3,65.0,100.0,100.0,88.3,87.7
+NO,13036,Gahr Store II,Gahr Store,2025-02-04,2025-09-08,minority,1,2025-2025,1,95.0,44.9,100.0,98.6,81.2,80.7
+NO,13037,Gahr Store III,Gahr Store,2025-09-08,,minority,1,2025-2025,1,95.0,44.9,100.0,98.6,81.2,80.7
+PL,26001,Olszewski,Olszewski,1991-12-23,1992-06-05,minority,4,1992-1992,1,44.0,5.7,0.0,80.2,28.6,29.6
+PL,26002,Suchocka,Suchocka,1992-07-11,1993-05-28,minority,6,1992-1993,2,51.0,4.3,0.0,54.8,19.7,20.2
+PL,26003,Pawlak,Pawlak,1993-11-10,1995-03-01,coalition_majority,2,1994-1994,1,72.0,8.6,0.0,100.0,36.2,37.1
+PL,26004,Oleksy,Oleksy,1995-03-07,1996-01-26,coalition_majority,2,1995-1995,1,89.0,14.3,0.0,88.4,34.2,34.2
+PL,26005,Cimoszewicz,Cimoszewicz,1996-02-15,1997-09-21,coalition_majority,2,1996-1997,2,146.0,24.3,0.0,80.3,34.9,35.8
+PL,26006,Buzek I,Buzek,1997-11-11,2000-06-07,coalition_majority,2,1998-2000,3,111.0,27.6,16.7,99.9,48.1,47.7
+PL,26007,Buzek II,Buzek,2000-06-08,2001-09-23,minority,1,2000-2001,2,190.5,60.0,25.0,90.3,58.4,56.5
+PL,26008,Miller I,Miller,2001-10-26,2003-03-02,coalition_majority,3,2002-2002,1,185.0,82.9,0.0,100.0,61.0,62.9
+PL,26009,Miller II,Miller,2003-03-03,2004-05-01,minority,2,2003-2004,2,190.0,68.6,50.0,87.5,68.7,71.1
+PL,26010,Belka,Belka,2004-06-24,2005-09-25,minority,2,2004-2005,2,188.0,63.6,50.0,76.3,63.3,68.3
+PL,26011,Marcinkiewicz I,Marcinkiewicz,2005-11-10,2006-05-04,minority,1,2006-2006,1,167.0,54.3,0.0,87.3,47.2,47.2
+PL,26013,Kaczynski I,Kaczynski,2006-07-19,2007-08-12,coalition_majority,3,2006-2007,2,169.5,55.7,0.0,76.3,44.0,42.6
+PL,26015,Tusk I,Tusk,2007-11-24,2011-10-09,coalition_majority,2,2008-2011,4,214.5,87.6,12.5,97.2,65.8,64.4
+PL,26016,Tusk II,Tusk,2011-11-19,2014-09-09,coalition_majority,2,2012-2014,3,134.0,61.0,0.0,95.5,52.1,51.4
+PL,26017,Kopacz,Kopacz,2014-09-22,2015-10-25,coalition_majority,2,2014-2015,2,213.0,83.2,25.0,85.2,64.5,64.2
+PL,26018,Szydło,Szydło,2015-11-16,2017-12-08,coalition_majority,2,2016-2017,2,190.5,82.4,25.0,94.5,67.3,67.0
+PL,26019,Morawiecki I,Morawiecki,2017-12-12,2019-10-13,coalition_majority,2,2018-2019,2,231.0,63.1,0.0,95.5,52.9,52.4
+PL,26020,Morawiecki II,Morawiecki,2019-11-15,2021-08-11,coalition_majority,3,2020-2021,2,141.0,43.1,25.0,89.6,52.6,53.5
+PL,26021,Morawiecki III,Morawiecki,2021-10-26,2022-06-02,minority,3,2022-2022,1,183.0,34.0,0.0,100.0,44.7,46.1
+PL,26022,Morawiecki IV,Morawiecki,2022-06-02,2023-10-15,minority,4,2022-2023,2,161.0,29.0,0.0,86.9,38.7,39.4
+PL,26023,Tusk III,Tusk,2023-12-13,,minority,6,2024-2025,2,156.5,27.6,25.0,100.0,50.9,50.4
+PT,14001,Soares I,Soares,1976-07-23,1977-12-09,minority,1,1976-1977,2,808.5,99.0,,96.8,97.9,95.9
+PT,14002,Soares II,Soares,1978-01-23,1978-07-28,coalition_majority,2,1978-1978,1,555.0,96.0,,51.0,73.5,75.5
+PT,14004,Mota Pinto,Mota Pinto,1978-11-22,1979-06-11,caretaker,0,1979-1979,1,787.0,94.0,,0.0,47.0,48.0
+PT,14005,Pintassilgo,Pintassilgo,1979-07-31,1979-12-02,caretaker,0,1979-1979,1,787.0,94.0,,0.0,47.0,48.0
+PT,14006,Sá Carneiro I,Sá Carneiro,1980-01-03,1980-10-05,coalition_majority,3,1980-1980,1,696.0,92.0,0.0,89.5,60.5,53.2
+PT,14008,Balsemao I,Balsemao,1981-01-09,1981-08-14,coalition_majority,3,1981-1981,1,436.0,72.0,0.0,84.2,52.1,52.1
+PT,14009,Balsemao II,Balsemao,1981-09-04,1982-12-23,coalition_majority,3,1981-1982,2,507.5,69.0,50.0,83.4,67.5,70.5
+PT,14010,Soares III,Soares,1983-06-09,1985-07-12,coalition_majority,2,1983-1985,3,604.7,81.3,33.3,63.1,59.3,62.2
+PT,14011,Cavaco Silva I,Cavaco Silva,1985-11-06,1987-07-19,minority,1,1986-1987,2,535.0,82.0,50.0,88.5,73.5,73.5
+PT,14012,Cavaco Silva II,Cavaco Silva,1987-08-17,1991-10-06,single_majority,1,1987-1991,5,559.8,72.8,90.0,94.0,85.6,84.3
+PT,14013,Cavaco Silva III,Cavaco Silva,1991-10-31,1995-10-01,single_majority,1,1992-1995,4,419.5,53.2,75.0,95.7,74.6,74.1
+PT,14014,Guterres I,Guterres,1995-10-28,1999-10-01,minority,1,1996-1999,4,552.8,71.5,75.0,98.4,81.6,80.3
+PT,14015,Guterres II,Guterres,1999-10-25,2001-12-17,minority,1,2000-2001,2,461.0,63.0,50.0,90.4,67.8,69.5
+PT,14016,Durão Barroso,Durão Barroso,2002-04-06,2004-07-17,coalition_majority,2,2002-2004,3,380.0,45.7,100.0,77.9,74.5,76.0
+PT,14017,Santana Lopes,Santana Lopes,2004-07-17,2004-12-13,coalition_majority,2,2004-2004,1,317.0,38.0,100.0,69.8,69.3,69.9
+PT,14018,Socrates I,Socrates,2005-03-12,2009-09-27,single_majority,1,2005-2009,5,381.6,40.8,100.0,92.6,77.8,77.5
+PT,14019,Socrates II,Socrates,2009-10-26,2011-03-31,minority,1,2010-2010,1,223.0,26.0,0.0,100.0,42.0,43.3
+PT,14020,Passos Coelho I,Passos Coelho,2011-06-21,2015-10-04,coalition_majority,2,2011-2015,5,311.0,24.8,100.0,90.1,71.6,71.2
+PT,14022,Costa,Costa,2015-11-26,2019-10-06,minority,2,2016-2019,4,236.5,16.0,75.0,98.6,63.2,62.0
+PT,14023,Costa II,Costa,2019-10-26,2022-01-30,minority,1,2020-2021,2,280.0,17.0,50.0,100.0,55.7,54.7
+PT,14024,Costa III,Costa,2022-03-30,2023-11-07,single_majority,1,2022-2023,2,207.5,6.0,50.0,76.9,44.3,44.6
+PT,14025,Montenegro I,Montenegro,2024-04-02,2025-03-11,minority,2,2024-2024,1,193.0,8.0,100.0,64.9,57.6,61.0
+PT,14026,Montenegro II,Montenegro,2025-06-05,,minority,2,2025-2025,1,242.0,6.0,100.0,76.4,60.8,64.1
+RO,27001,Roman,Roman,1990-06-28,1991-09-26,single_majority,1,1990-1991,2,,,0.0,92.1,59.9,59.9
+RO,27002,Stolojan,Stolojan,1991-10-17,1992-09-27,coalition_majority,4,1992-1992,1,,,0.0,75.2,41.7,41.7
+RO,27003,Vacaroiu I,Vacaroiu,1992-11-20,1994-08-18,minority,1,1993-1994,2,,,0.0,100.0,50.0,50.0
+RO,27004,Vacaroiu II,Vacaroiu,1994-08-18,1996-09-03,minority,2,1994-1996,3,,,0.0,93.1,47.7,47.7
+RO,27006,Ciorbea I,Ciorbea,1996-12-12,1997-12-05,coalition_majority,6,1997-1997,1,,,0.0,100.0,50.0,50.0
+RO,27009,Vasile I,Vasile,1998-04-17,1998-10-27,coalition_majority,6,1998-1998,1,234.0,3.6,0.0,82.6,28.7,28.7
+RO,27010,Vasile II,Vasile,1998-10-27,1999-12-13,coalition_majority,5,1999-1999,1,308.0,14.3,0.0,87.5,33.9,33.9
+RO,27011,Isarescu I,Isarescu,1999-12-22,2000-09-14,coalition_majority,5,2000-2000,1,408.0,75.0,25.0,81.3,60.4,60.4
+RO,27013,Nastase I,Nastase,2000-12-28,2003-06-19,minority,3,2001-2003,3,720.3,96.4,75.0,100.0,90.5,90.5
+RO,27014,Nastase II,Nastase,2003-06-19,2004-11-28,minority,1,2003-2004,2,618.5,92.9,100.0,90.8,94.5,94.5
+RO,27015,Popescu-Tariceanu I,Popescu-Tariceanu,2004-12-29,2006-12-04,minority,4,2005-2006,2,546.0,83.9,100.0,100.0,94.6,92.3
+RO,27016,Popescu-Tariceanu II,Popescu-Tariceanu,2006-12-04,2007-04-05,minority,3,2007-2007,1,471.0,67.9,100.0,100.0,89.3,88.1
+RO,27017,Popescu-Tariceanu III,Popescu-Tariceanu,2007-04-05,2008-11-30,minority,2,2007-2008,2,464.5,64.3,100.0,92.0,85.4,84.8
+RO,27018,Boc I,Boc,2008-12-22,2009-10-01,coalition_majority,2,2009-2009,1,419.0,46.4,0.0,80.5,42.3,43.5
+RO,27020,Boc III,Boc,2009-12-23,2012-02-06,minority,3,2010-2011,2,364.5,28.6,75.0,100.0,67.9,68.5
+RO,27022,Ponta I,Ponta,2012-05-07,2012-12-09,minority,3,2012-2012,1,277.0,28.6,100.0,73.2,67.2,66.1
+RO,27023,Ponta II,Ponta,2012-12-21,2014-02-26,coalition_majority,4,2013-2013,1,429.0,10.7,0.0,100.0,36.9,35.7
+RO,27025,Ponta IV,Ponta,2014-03-05,2014-12-17,coalition_majority,4,2014-2014,1,242.0,25.0,100.0,100.0,75.0,73.8
+RO,27026,Ponta V,Ponta,2014-12-17,2015-11-04,coalition_majority,4,2015-2015,1,391.0,7.1,100.0,86.4,64.5,65.7
+RO,27027,Ciolos,Ciolos,2015-11-17,2016-12-11,single_majority,0,2016-2016,1,309.0,21.4,100.0,94.3,71.9,74.3
+RO,27028,Grindeanu,Grindeanu,2017-01-04,2017-06-21,coalition_majority,2,2017-2017,1,359.0,32.1,0.0,77.0,36.4,36.4
+RO,27029,Tudose,Tudose,2017-06-29,2018-01-16,coalition_majority,2,2017-2017,1,359.0,32.1,0.0,77.0,36.4,36.4
+RO,27030,Dancila I,Dancila,2018-01-29,2019-08-27,minority,2,2018-2019,2,385.0,42.9,25.0,84.9,50.9,51.5
+RO,27033,Orban II,Orban,2020-03-14,2020-12-06,minority,1,2020-2020,1,498.0,53.6,50.0,75.0,59.5,60.7
+RO,27034,Cîțu I,Cîțu,2020-12-23,2021-09-06,coalition_majority,3,2021-2021,1,442.0,64.3,0.0,76.0,46.8,52.7
+RO,27036,Ciucă,Ciucă,2021-11-25,2023-06-12,coalition_majority,3,2022-2023,2,541.5,75.0,100.0,94.6,89.9,89.9
+RO,27037,Ciolacu I,Ciolacu,2023-06-15,2024-12-01,coalition_majority,2,2023-2024,2,497.0,67.9,100.0,91.6,86.5,83.5
+RO,27038,Ciolacu II,Ciolacu,2024-12-23,2025-05-06,minority,3,2025-2025,1,313.0,42.9,0.0,80.0,41.0,39.8
+RO,27040,Bolojan I,Bolojan,2025-06-23,2026-04-23,coalition_majority,5,2025-2025,1,313.0,42.9,0.0,80.0,41.0,39.8
+SE,16003,Erlander II,Erlander,1948-09-19,1951-10-01,minority,1,1950-1951,2,,,,100.0,75.0,75.0
+SE,16004,Erlander III,Erlander,1951-10-01,1952-09-21,coalition_majority,2,1951-1952,2,,,,100.0,75.0,75.0
+SE,16005,Erlander IV,Erlander,1952-09-21,1956-09-16,coalition_majority,2,1952-1956,5,,,,100.0,75.0,75.0
+SE,16006,Erlander V,Erlander,1956-09-16,1957-10-26,coalition_majority,2,1956-1957,2,,,,99.3,74.7,74.7
+SE,16007,Erlander VI,Erlander,1957-10-31,1958-06-01,minority,1,1958-1958,1,,,,85.0,67.5,67.5
+SE,16008,Erlander VII,Erlander,1958-06-01,1960-09-18,minority,1,1958-1960,3,,,,95.0,72.5,72.5
+SE,16009,Erlander VIII,Erlander,1960-09-18,1964-09-20,minority,1,1960-1964,5,,,,100.0,75.0,75.0
+SE,16010,Erlander IX,Erlander,1964-09-20,1968-09-15,minority,1,1964-1968,5,,,,100.0,75.0,75.0
+SE,16011,Erlander X,Erlander,1968-09-15,1969-10-14,single_majority,1,1968-1969,2,,,,95.0,72.5,72.5
+SE,16012,Palme I,Palme,1969-10-14,1970-09-20,single_majority,1,1970-1970,1,,,,100.0,75.0,75.0
+SE,16013,Palme II,Palme,1970-09-20,1973-09-16,minority,1,1970-1973,4,,,,100.0,75.0,75.0
+SE,16014,Palme III,Palme,1973-09-16,1976-09-19,minority,1,1973-1976,4,,,,96.2,73.1,73.1
+SE,16015,Fälldin I,Fälldin,1976-10-08,1978-10-05,coalition_majority,3,1977-1978,2,,,,93.2,71.6,71.6
+SE,16016,Ullsten,Ullsten,1978-10-18,1979-09-16,minority,1,1979-1979,1,,,,82.9,66.4,66.4
+SE,16017,Fälldin II,Fälldin,1979-10-12,1981-05-08,coalition_majority,3,1980-1981,2,,,100.0,98.1,82.7,82.7
+SE,16018,Fälldin III,Fälldin,1981-05-22,1982-09-19,minority,2,1981-1982,2,,,100.0,90.5,80.2,80.2
+SE,16019,Palme IV,Palme,1982-10-08,1985-09-15,minority,1,1983-1985,3,,,100.0,100.0,83.3,83.3
+SE,16020,Palme V,Palme,1985-09-15,1986-03-01,minority,1,1985-1985,1,,,100.0,100.0,83.3,83.3
+SE,16021,Carlsson I,Carlsson,1986-03-14,1988-09-18,minority,1,1986-1988,3,,,100.0,95.5,81.8,81.8
+SE,16022,Carlsson II,Carlsson,1988-09-18,1991-09-15,minority,1,1988-1991,4,,,100.0,96.2,82.1,82.1
+SE,16023,Bildt,Bildt,1991-10-04,1994-09-18,minority,4,1992-1994,3,,,100.0,94.9,81.6,81.6
+SE,16024,Carlsson III,Carlsson,1994-10-07,1996-03-18,minority,1,1995-1995,1,,,100.0,100.0,83.3,83.3
+SE,16025,Persson I,Persson,1996-03-22,1998-09-20,minority,1,1996-1998,3,,,100.0,96.3,82.1,82.1
+SE,16026,Persson II,Persson,1998-09-20,2002-09-15,minority,1,1998-2002,5,,,100.0,100.0,83.3,83.3
+SE,16027,Persson III,Persson,2002-09-15,2006-09-17,minority,1,2002-2006,5,122.5,41.6,100.0,97.0,80.1,80.1
+SE,16028,Reinfeldt I,Reinfeldt,2006-10-06,2010-09-19,coalition_majority,4,2007-2010,4,135.8,71.2,100.0,100.0,90.4,89.0
+SE,16029,Reinfeldt II,Reinfeldt,2010-09-19,2014-09-14,minority,4,2010-2014,5,140.6,60.7,100.0,97.0,85.9,85.0
+SE,16030,Löfven I,Löfven,2014-10-03,2018-09-09,minority,2,2014-2018,5,148.4,58.3,100.0,90.7,83.0,83.3
+SE,16031,Löfven II,Löfven,2019-01-21,2021-06-21,minority,2,2019-2021,3,119.3,40.2,100.0,93.2,77.8,79.1
+SE,16032,Löfven III,Löfven,2021-07-09,2021-11-30,minority,2,2021-2021,1,141.0,50.0,100.0,85.1,78.4,76.9
+SE,16033,Andersson,Andersson,2021-11-30,2022-09-11,minority,1,2022-2022,1,195.0,43.5,100.0,79.9,74.4,75.2
+SE,16034,Kristersson,Kristersson,2022-10-18,2026-09-13,minority,3,2023-2025,3,112.3,48.6,100.0,100.0,82.9,83.3
+SI,29001,Peterle,Peterle,1990-05-16,1992-04-22,coalition_majority,6,1990-1992,3,56.0,13.2,0.0,76.9,30.0,31.5
+SI,29002,Drnovšek I,Drnovšek,1992-05-14,1992-12-06,coalition_majority,6,1992-1992,1,56.0,13.2,0.0,76.9,30.0,31.5
+SI,29003,Drnovšek II,Drnovšek,1993-01-25,1994-03-29,coalition_majority,4,1993-1993,1,108.0,19.2,0.0,93.4,37.5,36.5
+SI,29004,Drnovšek III,Drnovšek,1994-03-29,1996-01-31,coalition_majority,3,1994-1995,2,93.0,25.8,0.0,100.0,41.9,40.7
+SI,29005,Drnovšek IV,Drnovšek,1996-01-31,1996-11-10,minority,2,1996-1996,1,77.0,10.5,0.0,85.8,32.1,32.1
+SI,29006,Drnovšek V,Drnovšek,1997-02-27,2000-04-08,coalition_majority,3,1997-2000,4,85.5,38.1,25.0,83.9,49.0,49.2
+SI,29007,Bajuk,Bajuk,2000-06-07,2000-10-15,minority,3,2000-2000,1,94.0,58.1,0.0,51.0,36.4,37.4
+SI,29008,Drnovšek VI,Drnovšek,2000-11-30,2002-12-02,coalition_majority,3,2001-2002,2,107.5,67.6,50.0,92.7,70.1,70.0
+SI,29009,Rop I,Rop,2002-12-19,2004-04-04,coalition_majority,4,2003-2004,2,105.5,66.4,100.0,86.7,84.3,84.6
+SI,29010,Rop II,Rop,2004-04-04,2004-10-03,coalition_majority,3,2004-2004,1,133.0,61.2,100.0,73.3,78.2,78.2
+SI,29011,Janša I,Janša,2004-12-03,2008-09-21,coalition_majority,4,2005-2008,4,115.0,85.4,100.0,93.3,92.9,92.2
+SI,29012,Pahor I,Pahor,2008-11-21,2011-05-09,coalition_majority,4,2009-2011,3,113.7,66.9,100.0,85.6,84.2,84.5
+SI,29015,Janša II,Janša,2012-02-10,2013-01-23,coalition_majority,5,2012-2012,1,100.0,49.7,100.0,79.1,76.3,79.4
+SI,29017,Bratušek,Bratušek,2013-03-20,2014-05-05,coalition_majority,4,2013-2014,2,82.0,40.4,100.0,67.8,69.4,73.8
+SI,29018,Cerar,Cerar,2014-09-18,2018-06-03,coalition_majority,3,2014-2018,5,85.4,40.5,100.0,80.0,73.5,74.3
+SI,29019,Šarec,Šarec,2018-09-13,2020-01-27,minority,5,2018-2019,2,69.0,12.4,100.0,73.5,62.0,62.8
+SI,29020,Janša IV,Janša,2020-03-13,2020-12-17,coalition_majority,4,2020-2020,1,68.0,37.6,100.0,77.4,71.7,70.7
+SI,29021,Janša V,Janša,2020-12-17,2021-12-04,minority,3,2021-2021,1,108.0,39.5,100.0,100.0,79.8,79.6
+SI,29022,Janša VI,Janša,2021-12-04,2022-04-24,minority,3,2022-2022,1,100.0,49.2,100.0,79.6,76.3,75.8
+SI,29023,Golob,Golob,2022-06-01,2026-03-22,coalition_majority,3,2022-2025,4,104.2,74.4,100.0,94.9,89.8,87.7
+SK,28001,Mečiar I,Mečiar,1992-06-24,1993-03-19,coalition_majority,2,1992-1992,1,,,,,,
+SK,28002,Mečiar II,Mečiar,1993-03-19,1993-11-10,minority,1,1993-1993,1,118.0,30.3,100.0,100.0,76.8,78.8
+SK,28004,Moravčik,Moravčik,1994-03-16,1994-10-01,minority,3,1994-1994,1,90.0,18.2,100.0,59.5,59.2,61.2
+SK,28005,Mečiar IV,Mečiar,1994-12-13,1998-09-26,coalition_majority,3,1995-1998,4,78.0,7.6,75.0,95.2,59.2,59.2
+SK,28006,Dzurinda I,Dzurinda,1998-10-30,2002-09-22,coalition_majority,4,1999-2002,4,132.8,57.6,75.0,98.4,77.0,77.5
+SK,28007,Dzurinda II,Dzurinda,2002-10-16,2005-09-01,coalition_majority,4,2003-2005,3,155.3,89.9,100.0,100.0,96.6,94.3
+SK,28008,Dzurinda III,Dzurinda,2005-09-01,2006-02-07,minority,3,2005-2005,1,140.0,72.7,100.0,100.0,90.9,86.9
+SK,28009,Dzurinda IV,Dzurinda,2006-02-08,2006-06-17,minority,2,2006-2006,1,86.0,56.1,100.0,85.1,80.4,78.9
+SK,28010,Fico I,Fico,2006-07-04,2010-06-12,coalition_majority,3,2006-2010,5,126.8,64.2,100.0,93.5,85.9,84.9
+SK,28011,Radičová,Radičová,2010-07-09,2011-10-11,coalition_majority,4,2010-2011,2,126.5,53.0,100.0,72.6,75.2,81.8
+SK,28012,Fico II,Fico,2012-04-04,2016-03-05,single_majority,1,2012-2015,4,116.0,38.6,100.0,91.1,76.6,78.8
+SK,28013,Fico III,Fico,2016-03-23,2016-08-30,coalition_majority,4,2016-2016,1,57.0,24.2,100.0,94.8,73.0,72.0
+SK,28014,Fico IV,Fico,2016-08-31,2018-03-15,coalition_majority,3,2016-2017,2,80.0,19.7,100.0,97.4,72.4,71.9
+SK,28015,Pellegrini,Pellegrini,2018-03-22,2020-02-29,coalition_majority,3,2018-2019,2,143.0,65.2,100.0,94.0,86.4,84.4
+SK,28016,Matovič,Matovič,2020-03-21,2021-04-01,coalition_majority,4,2020-2021,2,143.5,92.4,100.0,87.1,93.2,92.2
+SK,28017,Heger,Heger,2021-04-01,2023-05-13,coalition_majority,4,2021-2023,3,152.0,84.8,100.0,82.5,89.1,87.8
+SK,28018,Ódor,Ódor,2023-05-15,2023-09-30,single_majority,0,2023-2023,1,123.0,75.8,100.0,57.6,77.8,74.8
+SK,28019,Fico V,Fico,2023-10-25,,coalition_majority,3,2024-2025,2,114.0,42.4,100.0,100.0,80.8,79.3
+UK,17002,Attlee II,Attlee,1950-02-24,1951-10-25,single_majority,1,1950-1951,2,52.0,51.6,,87.2,69.4,69.9
+UK,17003,Churchill II,Churchill,1951-10-26,1955-04-05,single_majority,1,1952-1955,4,54.2,57.1,,93.6,75.3,75.4
+UK,17005,Eden II,Eden,1955-05-27,1957-01-09,single_majority,1,1955-1956,2,50.0,51.6,,87.2,69.4,69.9
+UK,17006,Macmillan I,Macmillan,1957-01-10,1959-10-08,single_majority,1,1957-1959,3,66.3,86.6,,91.5,89.1,89.2
+UK,17007,Macmillan II,Macmillan,1959-10-09,1963-10-19,single_majority,1,1960-1963,4,58.2,77.5,,97.5,87.5,87.2
+UK,17008,Douglas-Home,Douglas-Home,1963-10-19,1964-10-15,single_majority,1,1964-1964,1,91.0,100.0,,89.7,94.9,94.9
+UK,17009,Wilson I,Wilson,1964-10-16,1966-03-31,single_majority,1,1965-1965,1,77.0,88.2,,100.0,94.1,94.1
+UK,17010,Wilson II,Wilson,1966-04-01,1970-06-18,single_majority,1,1966-1970,5,57.0,77.1,,91.9,84.5,84.5
+UK,17011,Heath,Heath,1970-06-19,1974-02-28,single_majority,1,1970-1973,4,67.0,84.7,,93.7,89.2,89.4
+UK,17012,Wilson III,Wilson,1974-03-04,1974-10-10,minority,1,1974-1974,1,51.0,83.6,,58.6,71.1,71.4
+UK,17013,Wilson IV,Wilson,1974-10-11,1976-04-05,single_majority,1,1975-1976,2,79.0,96.7,,95.0,95.9,95.9
+UK,17014,Callaghan,Callaghan,1976-04-05,1979-05-03,single_majority,1,1976-1979,4,59.8,72.0,,91.2,81.6,81.6
+UK,17015,Thatcher I,Thatcher,1979-05-04,1983-06-09,single_majority,1,1979-1983,5,59.0,70.1,,91.9,81.0,80.9
+UK,17016,Thatcher II,Thatcher,1983-06-10,1987-06-11,single_majority,1,1983-1987,5,59.2,69.2,,93.9,81.6,81.4
+UK,17017,Thatcher III,Thatcher,1987-06-11,1990-11-28,single_majority,1,1987-1990,4,46.2,45.4,,93.8,69.6,69.4
+UK,17018,Major I,Major,1990-11-28,1992-04-09,single_majority,1,1991-1992,2,58.0,51.6,,99.9,75.8,75.3
+UK,17019,Major II,Major,1992-04-10,1997-05-01,single_majority,1,1992-1997,6,51.3,49.5,,98.2,73.8,73.8
+UK,17020,Blair I,Blair,1997-05-02,2001-06-07,single_majority,1,1997-2001,5,40.0,35.4,,94.9,65.2,65.1
+UK,17021,Blair II,Blair,2001-06-07,2005-05-05,single_majority,1,2001-2005,5,30.4,25.8,,94.0,59.9,59.9
+UK,17022,Blair III,Blair,2005-05-05,2007-06-27,single_majority,1,2005-2007,3,32.0,41.3,,91.7,66.5,66.5
+UK,17023,Brown,Brown,2007-06-27,2010-05-06,single_majority,1,2007-2010,4,28.0,43.1,,94.7,68.9,69.0
+UK,17024,Cameron I,Cameron,2010-05-11,2015-05-07,coalition_majority,2,2010-2015,6,27.7,38.0,,98.1,68.1,68.1
+UK,17025,Cameron II,Cameron,2015-05-07,2016-07-13,single_majority,1,2015-2016,2,27.5,29.1,,95.0,62.1,61.9
+UK,17026,May I,May,2016-07-13,2017-06-08,single_majority,1,2016-2017,2,26.0,22.1,,87.5,54.8,54.6
+UK,17027,May II,May,2017-06-08,2019-07-24,minority,1,2017-2019,3,29.7,14.6,,86.3,50.4,50.4
+UK,17028,Johnson I,Johnson,2019-07-24,2019-12-12,minority,1,2019-2019,1,28.0,9.5,,73.9,41.7,41.7
+UK,17029,Johnson II,Johnson,2019-12-16,2022-09-06,single_majority,1,2020-2022,3,34.0,25.7,,93.3,59.5,59.5
+UK,17031,Sunak,Sunak,2022-10-25,2024-07-04,single_majority,1,2023-2024,2,37.0,32.3,,87.4,59.8,59.8
+UK,17032,Starmer,Starmer,2024-07-05,2026-06-22,single_majority,1,2024-2025,2,27.0,18.9,,87.4,53.1,53.1

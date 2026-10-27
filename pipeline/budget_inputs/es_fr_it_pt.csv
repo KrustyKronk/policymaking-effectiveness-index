@@ -1,0 +1,109 @@
+country,fiscal_year,fy_start,in_force_day1,adoption_date,promulgation_date,regime,confidence,source_url,note
+ES,2000,2000-01-01,true,,1999-12-30,on_time,medium,https://www.boe.es/eli/es/l/1999/12/29/54,Ley 54/1999 de 29 dic; BOE 30/12/1999; final vote not verified but before the law's date
+ES,2001,2001-01-01,true,,2000-12-29,on_time,medium,https://www.boe.es/eli/es/l/2000/12/28/13,Ley 13/2000 de 28 dic; BOE 29/12/2000; final vote date not verified
+ES,2002,2002-01-01,true,,2001-12-31,on_time,medium,https://www.boe.es/eli/es/l/2001/12/27/23,Ley 23/2001 de 27 dic; BOE 31/12/2001; final vote date not verified
+ES,2003,2003-01-01,true,,2002-12-31,on_time,medium,https://www.boe.es/eli/es/l/2002/12/30/52,Ley 52/2002 de 30 dic; BOE date from memory (31/12/2002); final vote date not verified
+ES,2004,2004-01-01,true,,2003-12-31,on_time,medium,https://www.boe.es/eli/es/l/2003/12/30/61,Ley 61/2003 de 30 dic; BOE date from memory (31/12/2003); final vote date not verified
+ES,2005,2005-01-01,true,2004-12-22,2004-12-28,on_time,medium,https://www.boe.es/eli/es/l/2004/12/27/2,Ley 2/2004 de 27 dic; Congreso lifted the Senate veto on 22/12/2004 (per Wikipedia); BOE 28/12/2004
+ES,2006,2006-01-01,true,,2005-12-30,on_time,medium,https://www.boe.es/eli/es/l/2005/12/29/30,Ley 30/2005 de 29 dic; BOE date from memory (30/12/2005); final vote date not verified
+ES,2007,2007-01-01,true,,2006-12-29,on_time,medium,https://www.boe.es/eli/es/l/2006/12/28/42,Ley 42/2006 de 28 dic; BOE date from memory (29/12/2006); final vote date not verified
+ES,2008,2008-01-01,true,,2007-12-27,on_time,medium,https://www.boe.es/eli/es/l/2007/12/26/51,Ley 51/2007 de 26 dic; BOE 27/12/2007
+ES,2009,2009-01-01,true,,2008-12-24,on_time,medium,https://www.boe.es/eli/es/l/2008/12/23/2,Ley 2/2008 de 23 dic; BOE 24/12/2008
+ES,2010,2010-01-01,true,,2009-12-24,on_time,medium,https://www.boe.es/eli/es/l/2009/12/23/26,Ley 26/2009 de 23 dic; BOE 24/12/2009
+ES,2011,2011-01-01,true,,2010-12-23,on_time,medium,https://www.boe.es/eli/es/l/2010/12/22/39,Ley 39/2010 de 22 dic; BOE 23/12/2010
+ES,2012,2012-01-01,false,,2012-06-30,late,medium,https://www.boe.es/eli/es/l/2012/06/29/2,PGE 2011 prorrogados (Nov 2011 election); Ley 2/2012 de 29 jun; BOE 30/06/2012
+ES,2013,2013-01-01,true,,2012-12-28,on_time,medium,https://www.boe.es/eli/es/l/2012/12/27/17,Ley 17/2012 de 27 dic; BOE 28/12/2012
+ES,2014,2014-01-01,true,,2013-12-26,on_time,medium,https://www.boe.es/eli/es/l/2013/12/23/22,Ley 22/2013 de 23 dic; BOE 26/12/2013
+ES,2015,2015-01-01,true,,2014-12-30,on_time,medium,https://www.boe.es/eli/es/l/2014/12/26/36,Ley 36/2014 de 26 dic; BOE 30/12/2014
+ES,2016,2016-01-01,true,,2015-10-30,on_time,medium,https://www.boe.es/eli/es/l/2015/10/29/48,Ley 48/2015 de 29 oct (passed early before the Dec 2015 election); BOE 30/10/2015
+ES,2017,2017-01-01,false,,2017-06-28,late,medium,https://www.boe.es/eli/es/l/2017/06/27/3,PGE 2016 prorrogados until Ley 3/2017 de 27 jun; BOE 28/06/2017
+ES,2018,2018-01-01,false,,2018-07-04,late,medium,https://www.boe.es/eli/es/l/2018/07/03/6,PGE 2017 prorrogados until Ley 6/2018 de 3 jul; BOE 04/07/2018
+ES,2019,2019-01-01,false,,,rolled_over,medium,https://es.wikipedia.org/wiki/Presupuestos_Generales_del_Estado,PGE 2018 prorrogados all year; PGE 2019 bill rejected by Congreso (enmiendas a la totalidad Feb 2019) leading to a snap election
+ES,2020,2020-01-01,false,,,rolled_over,medium,https://es.wikipedia.org/wiki/Presupuestos_Generales_del_Estado,PGE 2018 prorrogados again; no PGE 2020 bill was ever presented
+ES,2021,2021-01-01,true,2020-12-23,2020-12-31,on_time,medium,https://www.boe.es/eli/es/l/2020/12/30/11,Ley 11/2020 de 30 dic; BOE 31/12/2020; Senate final approval date per Wikipedia (22 or 23 Dec)
+ES,2022,2022-01-01,true,2021-12-28,2021-12-29,on_time,medium,https://www.boe.es/eli/es/l/2021/12/28/22,Ley 22/2021 de 28 dic; Congreso voted Senate amendments 28/12/2021 (per Wikipedia); BOE 29/12/2021
+ES,2023,2023-01-01,true,2022-12-20,2022-12-24,on_time,medium,https://www.boe.es/eli/es/l/2022/12/23/31,Ley 31/2022 de 23 dic; Senate final approval 20/12/2022 per Wikipedia (not verified); BOE date from memory
+ES,2024,2024-01-01,false,,,rolled_over,medium,https://www.sepg.pap.hacienda.gob.es/sitios/sepg/es-ES/Presupuestos/PGE/PGE2025Prorroga/Paginas/PGE2025Prorroga.aspx,PGE 2023 prorrogados; no PGE 2024 bill was presented
+ES,2025,2025-01-01,false,,,rolled_over,medium,https://www.sepg.pap.hacienda.gob.es/sitios/sepg/es-ES/Presupuestos/PGE/PGE2025Prorroga/Paginas/PGE2025Prorroga.aspx,PGE 2023 prorrogados for a second year; no PGE 2025 bill was presented
+ES,2026,2026-01-01,false,,,rolled_over,medium,https://www.infobae.com/america/agencias/2026/10/05/la-legislatura-se-cierra-sin-nuevos-presupuestos-por-primera-vez-en-la-historia/,PGE 2023 prorrogados for a third year; Cortes dissolved (elections 29 Nov 2026) with no PGE 2026 adopted per Infobae/EFE 5 Oct 2026
+FR,2000,2000-01-01,true,1999-12-21,1999-12-31,on_time,high,https://www.senat.fr/dossier-legislatif/pjlf2000.html,Loi 99-1172 du 30/12/1999 (Senate page says 29/12); AN lecture définitive
+FR,2001,2001-01-01,true,2000-12-20,2000-12-31,on_time,high,https://www.senat.fr/dossier-legislatif/pjlf2001.html,Loi 2000-1352 du 30/12/2000; AN lecture définitive
+FR,2002,2002-01-01,true,2001-12-19,2001-12-29,on_time,high,https://www.senat.fr/dossier-legislatif/pjlf2002.html,Loi 2001-1275 du 28/12/2001; AN lecture définitive
+FR,2003,2003-01-01,true,2002-12-18,2002-12-31,on_time,high,https://www.senat.fr/dossier-legislatif/pjlf2003.html,Loi 2002-1575 du 30/12/2002; Sénat adopted the CMP text
+FR,2004,2004-01-01,true,2003-12-18,2003-12-31,on_time,high,https://www.senat.fr/dossier-legislatif/pjlf2004.html,Loi 2003-1311 du 30/12/2003; Sénat adopted the CMP text
+FR,2005,2005-01-01,true,2004-12-22,2004-12-31,on_time,high,https://www.senat.fr/dossier-legislatif/pjlf2005.html,Loi 2004-1484 du 30/12/2004; Sénat adopted the CMP text
+FR,2006,2006-01-01,true,2005-12-20,2005-12-31,on_time,high,https://www.senat.fr/dossier-legislatif/pjlf2006.html,Loi 2005-1719 du 30/12/2005; Sénat adopted the CMP text
+FR,2007,2007-01-01,true,2006-12-19,2006-12-27,on_time,high,https://www.senat.fr/dossier-legislatif/pjlf2007.html,Loi 2006-1666 du 21/12/2006; AN and Sénat adopted the CMP text the same day
+FR,2008,2008-01-01,true,2007-12-18,2007-12-27,on_time,high,https://www.senat.fr/dossier-legislatif/pjlf2008.html,Loi 2007-1822 du 24/12/2007; CMP text adopted by both chambers
+FR,2009,2009-01-01,true,2008-12-17,2008-12-28,on_time,high,https://www.senat.fr/dossier-legislatif/pjlf2009.html,Loi 2008-1425 du 27/12/2008; Sénat adopted the CMP text
+FR,2010,2010-01-01,true,2009-12-18,2009-12-31,on_time,high,https://www.senat.fr/dossier-legislatif/pjlf2010.html,Loi 2009-1673 du 30/12/2009; CMP text adopted
+FR,2011,2011-01-01,true,2010-12-15,2010-12-30,on_time,high,https://www.senat.fr/dossier-legislatif/pjlf2011.html,Loi 2010-1657 du 29/12/2010; CMP text adopted by both chambers
+FR,2012,2012-01-01,true,2011-12-21,2011-12-29,on_time,high,https://www.senat.fr/dossier-legislatif/pjlf2012.html,Loi 2011-1977 du 28/12/2011; AN lecture définitive
+FR,2013,2013-01-01,true,2012-12-20,2012-12-30,on_time,high,https://www.senat.fr/dossier-legislatif/pjlf2013.html,Loi 2012-1509 du 29/12/2012; AN lecture définitive
+FR,2014,2014-01-01,true,2013-12-19,2013-12-30,on_time,high,https://www.senat.fr/dossier-legislatif/pjlf2014.html,Loi 2013-1278 du 29/12/2013; AN lecture définitive
+FR,2015,2015-01-01,true,2014-12-18,2014-12-30,on_time,high,https://www.senat.fr/dossier-legislatif/pjlf2015.html,Loi 2014-1654 du 29/12/2014; AN lecture définitive
+FR,2016,2016-01-01,true,2015-12-17,2015-12-30,on_time,high,https://www.senat.fr/dossier-legislatif/pjlf2016.html,Loi 2015-1785 du 29/12/2015; AN lecture définitive
+FR,2017,2017-01-01,true,2016-12-20,2016-12-30,on_time,high,https://www.senat.fr/dossier-legislatif/pjlf2017.html,Loi 2016-1917 du 29/12/2016; AN lecture définitive
+FR,2018,2018-01-01,true,2017-12-21,2017-12-31,on_time,high,https://www.senat.fr/dossier-legislatif/pjlf2018.html,Loi 2017-1837 du 30/12/2017; AN lecture définitive
+FR,2019,2019-01-01,true,2018-12-20,2018-12-30,on_time,high,https://www.senat.fr/dossier-legislatif/pjlf2019.html,Loi 2018-1317 du 28/12/2018; AN lecture définitive
+FR,2020,2020-01-01,true,2019-12-19,2019-12-29,on_time,high,https://www.senat.fr/dossier-legislatif/pjlf2020.html,Loi 2019-1479 du 28/12/2019; AN lecture définitive
+FR,2021,2021-01-01,true,2020-12-17,2020-12-30,on_time,high,https://www.senat.fr/dossier-legislatif/pjlf2021.html,Loi 2020-1721 du 29/12/2020; AN lecture définitive
+FR,2022,2022-01-01,true,2021-12-15,2021-12-31,on_time,high,https://www.senat.fr/dossier-legislatif/pjlf2022.html,Loi 2021-1900 du 30/12/2021; AN lecture définitive
+FR,2023,2023-01-01,true,2022-12-17,2022-12-31,on_time,high,https://www.senat.fr/dossier-legislatif/pjlf2023.html,Loi 2022-1726 du 30/12/2022; AN lecture définitive under 49.3
+FR,2024,2024-01-01,true,2023-12-21,2023-12-30,on_time,high,https://www.senat.fr/dossier-legislatif/pjlf2024.html,Loi 2023-1322 du 29/12/2023; AN lecture définitive under 49.3
+FR,2025,2025-01-01,false,2025-02-06,2025-02-15,late,high,https://www.senat.fr/dossier-legislatif/pjlf2025.html,Barnier censured Dec 2024; loi spéciale 2024-1188 du 20/12/2024 (JO 21/12); LFI 2025 loi 2025-127 du 14/02/2025 adopted by the Sénat on the CMP text 06/02/2025
+FR,2026,2026-01-01,false,2026-02-02,2026-02-20,late,high,https://www.senat.fr/dossier-legislatif/pjlf2026.html,CMP failed 19/12/2025; loi spéciale 2025-1316 du 26/12/2025 (JO 27/12); LFI considered adopted under 49.3 in AN lecture définitive 02/02/2026; loi 2026-103 du 19/02/2026; about 7 weeks late not 6 months
+IT,2000,2000-01-01,true,1999-12-18,1999-12-27,on_time,high,https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-12-23;488,L. 488 (finanziaria) + 489 (bilancio) of 23/12/1999; Senato final vote
+IT,2001,2001-01-01,true,2000-12-22,2000-12-29,on_time,high,https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-23;388,L. 388 + 389 of 23/12/2000; Camera final vote
+IT,2002,2002-01-01,true,2001-12-22,2001-12-29,on_time,high,https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2001-12-28;448,L. 448 + 449 of 28/12/2001; Senato final vote
+IT,2003,2003-01-01,true,2002-12-23,2002-12-31,on_time,high,https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-12-27;289,L. 289 + 290 of 27/12/2002; Camera final vote
+IT,2004,2004-01-01,true,2003-12-22,2003-12-27,on_time,high,https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-12-24;350,L. 350 + 351 of 24/12/2003; Senato final vote
+IT,2005,2005-01-01,true,2004-12-29,2004-12-31,on_time,high,https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-12-30;311,L. 311 + 312 of 30/12/2004; Senato final vote 29/12; GU on 31/12
+IT,2006,2006-01-01,true,2005-12-22,2005-12-29,on_time,high,https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-12-23;266,L. 266 + 267 of 23/12/2005; Senato final vote
+IT,2007,2007-01-01,true,2006-12-21,2006-12-27,on_time,high,https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-12-27;296,L. 296 (finanziaria; GU 27/12) + 298 (bilancio; GU 28/12) of 27/12/2006; Camera final vote
+IT,2008,2008-01-01,true,2007-12-21,2007-12-28,on_time,high,https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-12-24;244,L. 244 + 245 of 24/12/2007; Senato final vote
+IT,2009,2009-01-01,true,2008-12-19,2008-12-30,on_time,high,https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-12-22;204,L. 203 + 204 of 22/12/2008; Camera final vote
+IT,2010,2010-01-01,true,2009-12-22,2009-12-30,on_time,high,https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-12-23;191,L. 191 + 192 of 23/12/2009; Senato final vote
+IT,2011,2011-01-01,true,2010-12-07,2010-12-21,on_time,high,https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2010-12-13;220,L. 220 (stabilità) + 221 of 13/12/2010; Senato final vote
+IT,2012,2012-01-01,true,2011-11-12,2011-11-14,on_time,high,https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2011-11-12;183,L. 183 + 184 of 12/11/2011; Camera final vote fast-tracked before Berlusconi resigned
+IT,2013,2013-01-01,true,2012-12-21,2012-12-29,on_time,high,https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-24;228,L. 228 + 229 of 24/12/2012; Camera final vote
+IT,2014,2014-01-01,true,2013-12-23,2013-12-27,on_time,high,https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2013-12-27;147,L. 147 + 148 of 27/12/2013; Senato final vote
+IT,2015,2015-01-01,true,2014-12-22,2014-12-29,on_time,high,https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-12-23;190,L. 190 + 191 of 23/12/2014; Camera final vote
+IT,2016,2016-01-01,true,2015-12-22,2015-12-30,on_time,high,https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-12-28;208,L. 208 + 209 of 28/12/2015; Senato final vote
+IT,2017,2017-01-01,true,2016-12-07,2016-12-21,on_time,high,https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2016-12-11;232,L. 232 of 11/12/2016 (first single legge di bilancio); Senato final vote after the 4/12 referendum
+IT,2018,2018-01-01,true,2017-12-23,2017-12-29,on_time,high,https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-12-27;205,L. 205 of 27/12/2017; Camera final vote
+IT,2019,2019-01-01,true,2018-12-30,2018-12-31,on_time,high,https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2018-12-30;145,L. 145 of 30/12/2018; Camera final vote 30/12; GU 31/12; no esercizio provvisorio
+IT,2020,2020-01-01,true,2019-12-24,2019-12-30,on_time,high,https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2019-12-27;160,L. 160 of 27/12/2019; Camera final vote
+IT,2021,2021-01-01,true,2020-12-30,2020-12-30,on_time,high,https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2020-12-30;178,L. 178 of 30/12/2020; Senato final vote and GU on the same day
+IT,2022,2022-01-01,true,2021-12-30,2021-12-31,on_time,high,https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2021-12-30;234,L. 234 of 30/12/2021; Camera final vote
+IT,2023,2023-01-01,true,2022-12-29,2022-12-29,on_time,high,https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2022-12-29;197,L. 197 of 29/12/2022; Senato final vote and GU on the same day
+IT,2024,2024-01-01,true,2023-12-29,2023-12-30,on_time,high,https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2023-12-30;213,L. 213 of 30/12/2023; Camera final vote
+IT,2025,2025-01-01,true,2024-12-28,2024-12-31,on_time,high,https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2024-12-30;207,L. 207 of 30/12/2024; Senato final vote
+IT,2026,2026-01-01,true,2025-12-30,2025-12-30,on_time,high,https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-12-30;199,L. 199 of 30/12/2025; Camera final vote 216-126; GU n.301 S.O. 42
+PT,2000,2000-01-01,false,,2000-04-04,late,low,https://www.parlamento.pt/OrcamentoEstado/,Oct 1999 election; Lei 3-B/2000 de 4 abril; vote date not verified
+PT,2001,2001-01-01,true,,2000-12-29,on_time,low,https://www.parlamento.pt/OrcamentoEstado/,Lei 30-C/2000 de 29 dez; vote date not verified
+PT,2002,2002-01-01,true,,2001-12-27,on_time,low,https://www.parlamento.pt/OrcamentoEstado/,Lei 109-B/2001 de 27 dez; adopted before Guterres resigned (Dec 2001); vote date not verified
+PT,2003,2003-01-01,true,,2002-12-30,on_time,low,https://www.parlamento.pt/OrcamentoEstado/,Lei 32-B/2002 de 30 dez; vote date not verified
+PT,2004,2004-01-01,true,,2003-12-31,on_time,low,https://www.parlamento.pt/OrcamentoEstado/,Lei 107-B/2003 de 31 dez; vote date not verified
+PT,2005,2005-01-01,true,,2004-12-30,on_time,low,https://www.parlamento.pt/OrcamentoEstado/,Lei 55-B/2004 de 30 dez; approved before the AR was dissolved (Dec 2004); vote date not verified
+PT,2006,2006-01-01,true,,2005-12-30,on_time,low,https://www.parlamento.pt/OrcamentoEstado/,Lei 60-A/2005 de 30 dez; vote date not verified
+PT,2007,2007-01-01,true,,2006-12-29,on_time,low,https://www.parlamento.pt/OrcamentoEstado/,Lei 53-A/2006 de 29 dez; vote date not verified
+PT,2008,2008-01-01,true,,2007-12-31,on_time,low,https://www.parlamento.pt/OrcamentoEstado/,Lei 67-A/2007 de 31 dez; vote date not verified
+PT,2009,2009-01-01,true,,2008-12-31,on_time,low,https://www.parlamento.pt/OrcamentoEstado/,Lei 64-A/2008 de 31 dez; vote date not verified
+PT,2010,2010-01-01,false,,2010-04-28,late,low,https://www.parlamento.pt/OrcamentoEstado/,Sep 2009 election; duodécimos until Lei 3-B/2010 de 28 abril (approved Mar 2010); vote date not verified
+PT,2011,2011-01-01,true,2010-11-26,2010-12-31,on_time,low,https://www.parlamento.pt/OrcamentoEstado/,Lei 55-A/2010 de 31 dez; vote 26/11/2010 not verified
+PT,2012,2012-01-01,true,2011-11-30,2011-12-30,on_time,low,https://www.parlamento.pt/OrcamentoEstado/,Lei 64-B/2011 de 30 dez; vote 30/11/2011 not verified
+PT,2013,2013-01-01,true,,2012-12-31,on_time,low,https://www.parlamento.pt/OrcamentoEstado/,Lei 66-B/2012 de 31 dez; vote date not verified
+PT,2014,2014-01-01,true,,2013-12-31,on_time,low,https://www.parlamento.pt/OrcamentoEstado/,Lei 83-C/2013 de 31 dez; vote date not verified
+PT,2015,2015-01-01,true,,2014-12-31,on_time,low,https://www.parlamento.pt/OrcamentoEstado/,Lei 82-B/2014 de 31 dez; vote date not verified
+PT,2016,2016-01-01,false,2016-03-16,2016-03-30,late,medium,https://www.parlamento.pt/OrcamentoEstado/,Oct 2015 election; duodécimos until Lei 7-A/2016 de 30 março; vote 16/03/2016
+PT,2017,2017-01-01,true,2016-11-29,2016-12-28,on_time,medium,https://www.parlamento.pt/OrcamentoEstado/,Lei 42/2016 de 28 dez
+PT,2018,2018-01-01,true,,2017-12-29,on_time,low,https://www.parlamento.pt/OrcamentoEstado/,Lei 114/2017 de 29 dez; vote date not verified (late Nov 2017)
+PT,2019,2019-01-01,true,,2018-12-31,on_time,low,https://www.parlamento.pt/OrcamentoEstado/,Lei 71/2018 de 31 dez; vote date not verified (late Nov 2018)
+PT,2020,2020-01-01,false,2020-02-06,2020-03-31,late,medium,https://www.parlamento.pt/OrcamentoEstado/,Oct 2019 election; duodécimos until Lei 2/2020 de 31 março; vote 06/02/2020
+PT,2021,2021-01-01,true,,2020-12-31,on_time,low,https://www.parlamento.pt/OrcamentoEstado/,Lei 75-B/2020 de 31 dez; vote date not verified (late Nov 2020)
+PT,2022,2022-01-01,false,2022-05-27,2022-06-27,late,medium,https://www.parlamento.pt/OrcamentoEstado/,OE2022 rejected 27/10/2021 leading to the Jan 2022 election; duodécimos until Lei 12/2022 de 27 junho; vote 27/05/2022
+PT,2023,2023-01-01,true,,2022-12-30,on_time,low,https://www.parlamento.pt/OrcamentoEstado/,Lei 24-D/2022 de 30 dez; vote date not verified (late Nov 2022)
+PT,2024,2024-01-01,true,2023-11-29,2023-12-29,on_time,medium,https://www.parlamento.pt/OrcamentoEstado/,Lei 82/2023 de 29 dez; approved before the AR was dissolved (Jan 2024)
+PT,2025,2025-01-01,true,2024-11-29,2024-12-31,on_time,medium,https://www.parlamento.pt/OrcamentoEstado/,Lei 45-A/2024 de 31 dez
+PT,2026,2026-01-01,true,2025-11-27,2025-12-30,on_time,high,https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/legislacao/diplomas_legislativos/Documents/lei-73-a-2025.pdf,Lei 73-A/2025 de 30 dez (DR 250/2025 Supl.); final vote 27/11/2025 (PSD/CDS for; PS abstained)
